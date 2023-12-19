@@ -1,4 +1,22 @@
 Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+Sat,Premier League,Matchweek 18,Home,W 4–1,Manchester City,Tottenham,N,LM,8,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,6,1,0,0,Match Report
+Sat,Premier League,Matchweek 27,Home,W 5–1,Manchester City,Leicester City,N,CM,11,0,1,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,2,2,4,6,66.7,0,3,1,1,1,Match Report
+Sun,Premier League,Matchweek 29,Home,W 1–0,Manchester City,Chelsea,N,LM,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+Sun,Premier League,Matchweek 35,Home,W 5–0,Manchester City,Swansea City,N,LW,20,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.3,5,1,22,24,91.7,0,13,3,2,2,Match Report
+Sun,Premier League,Matchweek 38,Away,W 1–0,Manchester City,Southampton,N,CM,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,1,0,0,Match Report
+Sun,Premier League,Matchweek 2,Home,W 6–1,Manchester City,Huddersfield,N,CM,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,2,0,5,6,83.3,1,6,0,2,2,Match Report
+Sat,Premier League,Matchweek 6,Away,W 5–0,Manchester City,Cardiff City,N,LM,22,0,0,0,0,1,1,0,0,23,0,0,0,0.2,0.2,0.1,1,0,21,22,95.5,0,19,4,0,0,Match Report
+Sat,Premier League,Matchweek 7,Home,W 2–0,Manchester City,Brighton,N,LM,3,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,6,0,0,0,Match Report
+Sat,Premier League,Matchweek 9,Home,W 5–0,Manchester City,Burnley,N,LM,16,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.3,1,0,13,15,86.7,2,16,1,0,0,Match Report
+Sun,Premier League,Matchweek 11,Home,W 6–1,Manchester City,Southampton,N,LM,19,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,3,1,9,10,90.0,3,11,4,0,0,Match Report
+Sun,Premier League,Matchweek 12,Home,W 3–1,Manchester City,Manchester Utd,N,LM,1,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,6,0,0,0,Match Report
+Sat,Premier League,Matchweek 13,Away,W 4–0,Manchester City,West Ham,N,LM,22,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,2,28,2,0,0,Match Report
+Sat,Premier League,Matchweek 16,Away,L 0–2,Manchester City,Chelsea,N,RM,7,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+Wed,Premier League,Matchweek 28,Home,W 1–0,Manchester City,West Ham,N,LW,6,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,15,66.7,0,6,1,0,0,Match Report
+Sat,Premier League,Matchweek 30,Home,W 3–1,Manchester City,Watford,N,RM,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,2,0,0,0,Match Report
+Wed,Premier League,Matchweek 33,Home,W 2–0,Manchester City,Cardiff City,Y,LM,90,0,0,0,0,5,2,0,0,68,2,2,0,0.8,0.8,0.3,5,0,50,55,90.9,5,55,7,4,3,Match Report
+Sat,Premier League,Matchweek 35,Home,W 1–0,Manchester City,Tottenham,Y,LM,84,1,0,0,0,3,2,0,0,54,3,1,1,0.9,0.9,0.0,2,0,34,42,81.0,2,37,2,3,3,Match Report
+Mon,Premier League,Matchweek 37,Home,W 1–0,Manchester City,Leicester City,Y,RM,55,0,0,0,0,3,1,0,0,30,1,1,0,0.1,0.1,0.0,2,0,16,22,72.7,2,15,2,2,0,Match Report
 Sat,Premier League,Matchweek 1,Away,W 5–0,Manchester City,West Ham,N,AM,11,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,8,0,0,0,Match Report
 Sat,Premier League,Matchweek 9,Away,W 2–0,Manchester City,Crystal Palace,N,LM,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
 Sat,Premier League,Matchweek 10,Home,W 3–0,Manchester City,Aston Villa,N,DM,15,0,0,0,0,2,2,0,0,23,2,0,0,0.1,0.1,0.2,5,0,18,20,90.0,1,18,1,2,2,Match Report
