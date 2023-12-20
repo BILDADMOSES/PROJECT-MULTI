@@ -1,72 +1,75 @@
-Day - Day of week
+Football Match Prediction Tool
 
-Round - Round/Phase of competition
+This project focuses on building a prediction tool for English Premier League (EPL) matches. The prediction algorithm emphasizes individual player contributions to their respective teams to adjust odds based on player performance.
 
-Venue - place of match
+Features
+Day: Day of the week.
 
-Result - score of a game
+Round: Round or phase of the competition.
 
-Squad - team of player
+Venue: Place of the match.
 
-Opponent - team played against
+Result: Score of the game.
 
-Start - In starting lineup
+Squad: Team of the player.
 
-Pos - Position most commonly played by player
+Opponent: Team played against.
 
-Min - Minutes played
+Start: In the starting lineup.
 
-Gls - Goals scored/allowed
+Pos: Position most commonly played by the player.
 
-Ast - Assists
+Min: Minutes played.
 
-PK - Penalty Kicks made
+Gls: Goals scored or allowed.
 
-PKatt - Penalty Kicks attempted
+Ast: Assists.
 
-Sh - Shots Total
+PK: Penalty kicks made.
 
-SoT - Shots on Target (exclusive of penalty kicks)
+PKatt: Penalty kicks attempted.
 
-CrdY - Yellow Cards
+Sh: Total shots.
 
-CrdR - Red Cards
+SoT: Shots on target (exclusive of penalty kicks).
 
-Touches - Number of times player touched the ball
+CrdY: Yellow cards.
 
-Tkl - Tackles (Number of players tackled)
+CrdR: Red cards.
 
-Int - Interceptions
+Touches: Number of times the player touched the ball.
 
-Blocks - Number of times blocking the ball by standing in its path
+Tkl: Tackles (number of players tackled).
 
-xG - Expected Goals (includes penalty kicks, but not penalty shootouts)
+Int: Interceptions.
 
-npxG - Non-Penalty Expected Goals
+Blocks: Number of times blocking the ball by standing in its path.
 
-xAG - Expected Assisted Goals (xG which follows a pass that assists a shot)
+xG: Expected goals (includes penalty kicks but not penalty shootouts).
 
-SCA - Shot Creating Actions (2 offensive actions directly leading to a shot, such as passes, take-ons and drawing fouls. A single player can receive credit for multiple actions and also the shot taker)
+npxG: Non-penalty expected goals.
 
-GCA - Goal Creating Actions (2 offensive actions directly leading to a goal, such as passes, take-ons and drawing fouls. A single player can receive credit for multiple actions and also the shot taker)
+xAG: Expected assisted goals (xG which follows a pass that assists a shot).
 
-Cmp - Passes Completed
+SCA: Shot creating actions (2 offensive actions directly leading to a shot, such as passes, take-ons, and drawing fouls).
 
-Att - Passes Attempted
+GCA: Goal creating actions (2 offensive actions directly leading to a goal, such as passes, take-ons, and drawing fouls).
 
-Cmp% - Pass Completion (pass completion percentage, minimum 30 minutes played per squad game to qualify as a leader)
 
-PrgP - Progressive Passes (completed passes that moved the ball towards the opponent's goal line at least 10 yards from its furthest point in the 
-last 6 passes, or any completed passes into the penalty area. Excludes passes from the defending 40% of the pitch)
+Cmp: Passes completed.
 
-Carries - Number of times the player controlled the ball with their feet
+Att: Passes attempted.
 
-PrgC - Progressive Carries (carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last 6 passes, or any carry into the penalty area. Excludes caaries which end in the defending 50% of the pitch)
+Cmp%: Pass completion percentage (minimum 30 minutes played per squad game to qualify as a leader).
 
-Att - Take-Ons Atttempted (number of attempts to take on defenders while dribbling)
+PrgP: Progressive passes (completed passes that moved the ball towards the opponent's goal line at least 10 yards from its furthest point in the last 6 passes, or any completed passes into the penalty area, excludes passes from the defending 40% of the pitch).
+Carries: Number of times the player controlled the ball with their feet.
 
-Succ - Successful Take-Ons (number of defenders taken on successfully, by dribbling past them. Unsuccessful take-ons include attempts where the dribbler retained possession but was unable to get past the defender)
+PrgC: Progressive carries (carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last 6 passes, or any carry into the penalty area, excludes carries which end in the defending 50% of the pitch).
 
+Att: Take-ons attempted (number of attempts to take on defenders while dribbling).
+
+Succ: Successful take-ons (number of defenders taken on successfully, by dribbling past them, unsuccessful take-ons include attempts where the dribbler retained possession but was unable to get past the defender).
 
 
 All details provided by Opta
