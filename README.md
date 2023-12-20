@@ -1,8 +1,8 @@
-## <p style = "text-align: center" > Football Match Prediction Tool </p>
+# <p style = "text-align: center" > Football Match Prediction Tool </p>
 
 This project focuses on building a prediction tool for English Premier League (EPL) matches. The prediction algorithm emphasizes individual player contributions to their respective teams to adjust odds based on player performance.
 
-Features
+## Features of Dataset
 
 Day: Day of the week.
 
