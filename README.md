@@ -1,4 +1,5 @@
-Day - Day of week
+Day - Day of 
+
 Round - Round/Phase of competition
 Venue - place of match
 Result - score of a game
