@@ -1,0 +1,23 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Manchester Utd,N,"CM,AM",17,0,0,0,0,2,1,19,0,1,1,0.1,0.1,0.0,2,0,8,11,72.7,2,7,0,2,2,Fabio-Vieira,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,RM,89,1,0,0,0,1,1,51,1,0,0,0.0,0.0,0.1,2,1,35,45,77.8,3,36,0,3,1,Fabio-Vieira,3,0,1,0,0,3
+Home,Arsenal,Tottenham,N,RW,11,0,0,0,0,1,0,13,0,1,0,0.1,0.1,0.0,1,0,8,9,88.9,1,9,1,0,0,Fabio-Vieira,3,1,1,0,0,4
+Home,Arsenal,Liverpool,N,RM,1,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Fabio-Vieira,3,2,1,0,0,5
+Away,Arsenal,Leeds United,N,AM,18,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,3,0,1,0,Fabio-Vieira,1,0,1,0,0,1
+Away,Arsenal,Southampton,N,RM,8,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,8,0,2,0,Fabio-Vieira,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,N,"LM,RW",28,0,0,0,0,1,0,18,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,8,0,0,0,Fabio-Vieira,5,0,1,0,0,5
+Away,Arsenal,Wolves,N,LM,74,0,1,0,0,2,0,37,0,1,0,0.1,0.1,0.9,3,1,22,28,78.6,3,24,1,2,0,Fabio-Vieira,2,0,1,0,0,2
+Home,Arsenal,West Ham,N,RW,3,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Fabio-Vieira,3,1,1,0,0,4
+Away,Arsenal,Tottenham,N,RM,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fabio-Vieira,2,0,1,0,0,2
+Away,Arsenal,Everton,N,RM,14,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,0,0,Fabio-Vieira,0,1,0,0,1,1
+Home,Arsenal,Brentford,N,LM,10,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,3,7,0,0,0,Fabio-Vieira,1,1,0,1,0,2
+Home,Arsenal,Manchester City,N,LM,8,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,5,1,1,0,Fabio-Vieira,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,N,"LM,CM",12,0,1,0,0,0,0,7,0,0,0,0.0,0.0,1.0,1,1,6,7,85.7,2,6,0,0,0,Fabio-Vieira,4,2,1,0,0,6
+Home,Arsenal,Everton,N,LM,19,0,0,0,0,3,0,26,0,1,1,0.3,0.3,0.0,1,0,15,18,83.3,3,14,0,0,0,Fabio-Vieira,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,LM,83,0,0,0,0,2,0,57,2,0,2,0.1,0.1,0.1,5,0,42,47,89.4,6,40,2,6,3,Fabio-Vieira,3,2,1,0,0,5
+Away,Arsenal,Fulham,N,RW,14,0,0,0,0,1,0,11,0,0,1,0.1,0.1,0.1,1,0,8,9,88.9,0,6,0,0,0,Fabio-Vieira,3,0,1,0,0,3
+Home,Arsenal,Leeds United,N,LM,5,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Fabio-Vieira,4,1,1,0,0,5
+Away,Arsenal,West Ham,N,"LM,LB",6,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,1,1,0,1,0,Fabio-Vieira,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,LM,56,0,0,0,0,2,0,35,0,0,0,0.1,0.1,0.1,3,0,23,31,74.2,2,18,2,0,0,Fabio-Vieira,3,3,0,1,0,6
+Away,Arsenal,Nott'ham Forest,N,LW,21,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,10,13,76.9,1,9,1,0,0,Fabio-Vieira,0,1,0,0,1,1
+Home,Arsenal,Wolves,N,"CM,LM",16,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,4,8,0,0,0,Fabio-Vieira,5,0,1,0,0,5

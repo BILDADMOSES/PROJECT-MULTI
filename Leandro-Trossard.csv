@@ -1,0 +1,137 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Brighton,West Ham,Y,LW,84,1,0,0,0,4,1,36,1,0,1,0.4,0.4,0.0,4,1,18,27,66.7,3,29,2,2,1,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Southampton,Y,"FW,LW",90,0,0,0,0,1,0,45,1,0,0,0.0,0.0,0.5,9,0,27,38,71.1,3,27,8,3,3,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Manchester City,Y,"LW,RW",73,0,0,0,0,3,1,26,2,0,0,0.6,0.6,0.0,0,0,10,17,58.8,3,15,1,2,2,Leandro-Trossard,0,4,0,0,1,4
+Home,Brighton,Everton,N,LW,26,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,6,11,54.5,0,9,4,1,1,Leandro-Trossard,3,2,1,0,0,5
+Home,Brighton,Norwich City,N,RM,32,1,1,0,0,1,1,20,0,0,1,0.3,0.3,1.0,5,1,13,15,86.7,4,11,2,0,0,Leandro-Trossard,2,0,1,0,0,2
+Away,Brighton,Manchester Utd,Y,"LM,LW",58,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.2,2,0,16,25,64.0,2,15,0,2,0,Leandro-Trossard,1,3,0,0,1,4
+Home,Brighton,Leicester City,Y,"AM,LM,LW",90,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,3,0,26,38,68.4,1,35,3,6,3,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Liverpool,N,LW,22,0,0,0,0,1,0,26,0,0,0,0.2,0.2,0.0,2,1,11,19,57.9,2,18,0,2,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Arsenal,N,"LW,LM",11,0,0,0,0,1,0,10,0,0,0,0.1,0.1,0.0,1,1,6,8,75.0,1,9,2,0,0,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Wolves,Y,LW,67,0,1,0,0,1,0,22,0,0,0,0.0,0.0,0.1,3,1,15,20,75.0,2,10,1,0,0,Leandro-Trossard,2,2,0,1,0,4
+Away,Brighton,Crystal Palace,Y,LW,83,0,0,0,0,1,1,87,0,1,0,0.0,0.0,0.0,3,1,63,82,76.8,7,68,13,1,1,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Sheffield Utd,Y,LW,45,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,3,8,0,0,0,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Tottenham,N,AM,15,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,7,0,0,0,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Bournemouth,Y,"LW,LM",90,0,1,0,0,1,0,50,2,1,0,0.0,0.0,0.3,7,1,32,42,76.2,3,34,5,0,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Brighton,Chelsea,Y,"FW,LM,LW",90,0,0,0,0,2,1,50,3,1,0,0.1,0.1,0.1,7,1,23,35,65.7,4,31,2,2,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Everton,Y,"LW,LM",90,0,0,0,0,2,0,47,2,1,0,0.1,0.1,0.1,4,0,20,31,64.5,5,29,3,5,3,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Aston Villa,Y,"LM,LW",80,1,0,0,0,1,1,55,3,0,1,0.1,0.1,0.1,1,0,27,39,69.2,5,31,2,2,2,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Bournemouth,N,RM,31,0,0,0,0,1,0,14,1,0,2,0.0,0.0,0.0,2,0,3,7,42.9,0,10,1,0,0,Leandro-Trossard,1,3,0,0,1,4
+Away,Brighton,West Ham,Y,"LW,AM",90,0,0,0,0,2,1,59,0,2,0,0.4,0.4,0.2,6,0,34,47,72.3,7,44,4,4,1,Leandro-Trossard,3,3,0,1,0,6
+Home,Brighton,Watford,Y,"LW,LM",90,0,0,0,0,2,0,51,2,1,1,0.1,0.1,0.0,4,0,25,40,62.5,7,30,2,4,3,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Sheffield Utd,N,"LW,RB",16,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,0,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Crystal Palace,Y,"AM,LW",90,0,0,0,0,1,0,30,1,0,1,0.0,0.0,0.4,3,0,17,23,73.9,6,24,1,0,0,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Wolves,Y,LW,81,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.2,3,0,32,43,74.4,4,33,2,2,0,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Arsenal,Y,AM,86,0,0,0,0,1,0,22,1,0,1,0.0,0.0,0.0,4,1,11,17,64.7,3,16,3,0,0,Leandro-Trossard,2,1,1,0,0,3
+Away,Brighton,Leicester City,N,AM,34,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,13,17,76.5,0,12,0,0,0,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Manchester Utd,N,LM,45,0,0,0,0,3,0,32,0,0,0,0.1,0.1,0.0,3,0,19,24,79.2,6,22,1,2,1,Leandro-Trossard,0,3,0,0,1,3
+Away,Brighton,Norwich City,Y,"AM,FW",78,1,0,0,0,1,1,34,1,0,2,0.5,0.5,0.0,1,0,19,26,73.1,3,27,1,3,1,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Liverpool,Y,FW,90,1,0,0,0,4,1,34,0,0,2,1.2,1.2,0.5,3,0,18,25,72.0,1,26,2,3,3,Leandro-Trossard,1,3,0,0,1,4
+Home,Brighton,Manchester City,Y,LM,69,0,0,0,0,2,0,19,0,0,0,0.1,0.1,0.0,1,0,10,14,71.4,1,12,0,2,1,Leandro-Trossard,0,5,0,0,1,5
+Away,Brighton,Southampton,Y,"AM,FW",75,0,0,0,0,2,1,27,0,0,1,0.1,0.1,0.1,2,0,10,17,58.8,4,19,3,2,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Newcastle Utd,Y,AM,90,0,0,0,0,3,1,42,0,0,2,0.4,0.4,0.1,5,0,21,30,70.0,4,25,0,3,1,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Chelsea,Y,"FW,CM,AM",90,1,0,0,0,1,1,52,0,0,3,0.0,0.0,0.2,3,0,26,42,61.9,2,30,1,0,0,Leandro-Trossard,1,3,0,0,1,4
+Away,Brighton,Newcastle Utd,Y,"RW,LM,LW",90,0,1,0,0,3,1,39,1,2,0,0.1,0.1,0.7,3,1,15,30,50.0,4,19,1,0,0,Leandro-Trossard,3,0,1,0,0,3
+Home,Brighton,Manchester Utd,Y,RW,90,0,0,0,0,4,1,48,0,0,0,0.5,0.5,0.1,4,0,26,41,63.4,7,35,2,3,2,Leandro-Trossard,2,3,0,0,1,5
+Away,Brighton,Everton,Y,"AM,LW",90,0,0,0,0,4,1,53,0,0,0,0.2,0.2,0.1,4,1,36,47,76.6,8,29,2,1,1,Leandro-Trossard,2,4,0,0,1,6
+Away,Brighton,Crystal Palace,Y,AM,77,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.2,5,0,22,29,75.9,3,25,2,3,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,West Brom,Y,"AM,FW",78,0,0,0,0,2,2,44,0,0,0,0.1,0.1,0.0,1,0,28,35,80.0,9,23,2,3,1,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Tottenham,Y,FW,73,0,0,0,0,1,0,17,0,0,0,0.0,0.0,0.0,1,0,8,14,57.1,0,7,2,0,0,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Liverpool,N,AM,65,0,0,0,0,1,0,28,0,0,2,0.0,0.0,0.0,0,0,13,19,68.4,2,19,2,2,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Southampton,N,LW,9,0,0,0,0,1,1,6,1,0,1,0.0,0.0,0.1,1,0,3,3,100.0,1,3,0,0,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Fulham,Y,AM,78,0,0,0,0,1,0,53,2,2,1,0.0,0.0,0.2,3,0,24,40,60.0,1,28,1,1,0,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Sheffield Utd,Y,"LM,AM",90,0,0,0,0,3,0,73,2,0,2,0.2,0.2,0.5,11,1,49,62,79.0,11,34,3,1,1,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,West Ham,Y,AM,90,0,0,0,0,2,0,54,1,1,1,0.1,0.1,0.2,5,1,38,47,80.9,1,35,3,1,1,Leandro-Trossard,2,2,0,1,0,4
+Home,Brighton,Arsenal,N,"AM,LW",16,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,0,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Wolves,Y,AM,90,0,2,0,0,1,0,53,2,2,1,0.1,0.1,0.7,3,2,31,42,73.8,3,36,1,1,0,Leandro-Trossard,3,3,0,1,0,6
+Away,Brighton,Manchester City,Y,"FW,AM",85,0,0,0,0,1,0,42,1,0,1,0.1,0.1,0.1,3,0,25,33,75.8,3,30,3,4,2,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Leeds United,Y,"AM,RM",72,0,0,0,0,1,0,31,1,0,0,0.1,0.1,0.0,1,1,18,24,75.0,2,19,4,4,2,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Fulham,Y,FW,90,0,0,0,0,2,1,52,3,3,4,0.6,0.6,0.1,5,0,27,39,69.2,4,26,2,3,3,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Tottenham,Y,AM,78,1,0,0,0,1,1,57,1,2,1,0.1,0.1,0.1,5,0,40,47,85.1,9,40,3,1,1,Leandro-Trossard,1,0,1,0,0,1
+Away,Brighton,Liverpool,Y,FW,86,0,1,0,0,1,1,43,1,1,3,0.1,0.1,0.6,3,0,23,30,76.7,3,18,4,3,1,Leandro-Trossard,1,0,1,0,0,1
+Away,Brighton,Burnley,N,FW,29,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,7,1,1,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Aston Villa,Y,FW,90,0,0,0,0,6,2,51,1,0,1,0.3,0.3,0.1,8,0,31,39,79.5,8,33,5,2,1,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Crystal Palace,Y,"LM,FW",90,0,0,0,0,3,2,66,2,0,0,0.6,0.6,0.0,6,0,39,52,75.0,8,39,1,3,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,West Brom,Y,RW,90,0,0,0,0,1,1,59,3,0,1,0.1,0.1,0.0,4,0,33,41,80.5,8,38,1,2,1,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Leicester City,Y,"LM,RM,FW",90,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,2,0,24,27,88.9,4,23,2,5,1,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Southampton,Y,"LM,AM,FW",85,1,0,0,0,2,2,43,0,4,2,0.3,0.3,0.0,1,0,19,32,59.4,3,30,2,5,4,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Newcastle Utd,Y,AM,78,1,1,0,0,2,1,42,1,1,0,0.1,0.1,0.3,4,1,30,36,83.3,10,36,1,4,4,Leandro-Trossard,3,0,1,0,0,3
+Away,Brighton,Manchester Utd,Y,AM,62,0,0,0,0,0,0,34,2,1,2,0.0,0.0,0.0,1,0,18,22,81.8,1,20,0,0,0,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Everton,Y,"AM,LW",90,0,0,0,0,4,0,41,0,2,2,0.2,0.2,0.1,6,0,23,30,76.7,2,25,4,3,2,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Chelsea,Y,FW,59,0,0,0,0,1,1,32,3,3,1,0.0,0.0,0.0,0,0,16,20,80.0,0,14,0,3,1,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Sheffield Utd,Y,"AM,WB,CM",81,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.1,1,0,24,39,61.5,2,34,5,2,2,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Leeds United,Y,AM,80,0,0,0,0,3,2,32,2,0,0,0.4,0.4,0.4,5,1,17,23,73.9,5,26,3,3,3,Leandro-Trossard,2,0,1,0,0,2
+Away,Brighton,Wolves,Y,LM,57,0,0,0,0,1,0,25,1,0,0,0.1,0.1,0.0,2,1,16,19,84.2,1,19,2,2,1,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,West Ham,Y,LW,82,0,0,0,0,3,1,53,0,0,2,0.1,0.1,0.0,4,0,39,47,83.0,9,36,1,0,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Manchester City,N,"FW,WB",62,1,0,0,0,1,1,33,0,0,0,0.1,0.1,0.1,5,1,23,29,79.3,7,24,7,2,2,Leandro-Trossard,3,2,1,0,0,5
+Away,Brighton,Arsenal,Y,LW,45,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,0,0,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Burnley,Y,"LM,FW",75,0,0,0,0,1,0,37,1,0,0,0.1,0.1,0.0,1,0,18,27,66.7,5,26,8,5,3,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Watford,Y,FW,71,0,0,0,0,2,0,45,2,0,1,0.1,0.1,0.0,0,0,29,39,74.4,6,26,7,0,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Brighton,Everton,Y,"AM,FW",90,0,0,0,0,5,2,46,2,1,2,0.3,0.3,0.0,5,0,24,31,77.4,3,33,3,1,1,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Brentford,Y,AM,90,1,0,0,0,1,1,57,4,0,2,0.1,0.1,0.2,3,0,32,44,72.7,3,37,2,3,1,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Leicester City,Y,"FW,AM",90,0,1,0,0,2,1,41,0,1,0,0.1,0.1,0.2,7,1,29,36,80.6,5,24,3,6,5,Leandro-Trossard,2,1,1,0,0,3
+Away,Brighton,Crystal Palace,Y,"AM,RW",90,0,0,0,0,1,0,46,4,0,0,0.0,0.0,0.0,1,0,31,35,88.6,5,31,3,4,3,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Arsenal,Y,"FW,AM",90,0,0,0,0,6,1,62,1,0,1,0.2,0.2,0.1,7,0,39,47,83.0,9,44,4,3,3,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Norwich City,Y,"FW,AM",90,0,0,0,0,3,1,60,2,1,3,0.1,0.1,0.0,1,0,33,44,75.0,10,34,1,1,1,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Manchester City,Y,FW,90,0,0,0,0,3,2,41,0,0,2,0.1,0.1,0.3,4,1,28,34,82.4,8,24,2,2,2,Leandro-Trossard,1,4,0,0,1,5
+Away,Brighton,Liverpool,Y,FW,90,1,0,0,0,2,1,41,0,0,0,0.5,0.5,0.1,4,1,26,31,83.9,5,20,1,4,3,Leandro-Trossard,2,2,0,1,0,4
+Home,Brighton,Newcastle Utd,Y,FW,90,1,0,1,1,4,2,56,1,0,1,0.9,0.1,0.2,5,1,34,43,79.1,3,38,1,0,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Aston Villa,Y,FW,90,0,0,0,0,2,1,35,1,0,1,0.2,0.2,0.2,1,0,16,24,66.7,1,22,2,4,3,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Leeds United,Y,"LW,AM",90,0,0,0,0,4,1,52,1,1,0,0.3,0.3,0.1,4,0,28,37,75.7,8,37,3,9,5,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,West Ham,Y,"LW,AM",90,0,0,0,0,1,0,50,1,0,1,0.0,0.0,0.2,1,0,30,40,75.0,5,30,0,1,1,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Southampton,Y,"FW,CM",90,0,0,0,0,1,1,40,0,1,1,0.1,0.1,0.1,2,0,18,30,60.0,1,25,2,2,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Wolves,Y,"LW,FW",90,0,0,0,0,2,1,36,0,0,0,0.1,0.1,0.0,3,0,24,28,85.7,5,19,1,0,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Brentford,Y,FW,45,1,0,0,0,2,2,27,0,1,0,0.3,0.3,0.0,1,0,16,19,84.2,3,19,3,1,0,Leandro-Trossard,2,0,1,0,0,2
+Away,Brighton,Everton,Y,FW,80,0,0,0,0,1,0,34,1,0,0,0.0,0.0,0.0,4,1,24,28,85.7,5,31,0,0,0,Leandro-Trossard,3,2,1,0,0,5
+Home,Brighton,Crystal Palace,Y,"FW,AM",90,0,0,0,0,5,1,44,0,1,2,0.4,0.4,0.0,4,0,28,36,77.8,5,27,2,2,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Chelsea,N,"FW,LM",29,0,0,0,0,1,0,19,0,0,0,0.1,0.1,0.0,1,0,9,13,69.2,1,11,3,1,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Leicester City,Y,FW,90,0,0,0,0,3,1,53,1,0,1,0.3,0.3,0.3,9,1,30,40,75.0,4,35,5,4,3,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Manchester Utd,Y,FW,59,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,15,21,71.4,1,13,1,0,0,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Burnley,N,AM,36,0,0,0,0,1,0,25,1,0,0,0.1,0.1,0.0,1,0,16,22,72.7,4,13,0,0,0,Leandro-Trossard,0,3,0,0,1,3
+Home,Brighton,Aston Villa,Y,FW,90,0,0,0,0,1,0,52,2,0,1,0.1,0.1,0.0,3,0,26,43,60.5,6,32,1,4,2,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Newcastle Utd,Y,"AM,LM",90,0,0,0,0,3,1,77,0,1,0,0.2,0.2,0.0,2,0,54,68,79.4,11,43,4,4,3,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Liverpool,Y,"LW,AM",90,0,0,0,0,2,1,40,0,1,4,0.2,0.2,0.0,2,0,16,23,69.6,3,27,0,2,0,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Tottenham,Y,"LW,LM",90,0,0,0,0,2,0,59,2,3,0,0.1,0.1,0.1,5,0,33,45,73.3,6,38,4,3,3,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Norwich City,Y,AM,90,0,0,0,0,3,0,52,2,1,0,0.2,0.2,0.2,10,0,38,43,88.4,4,47,6,6,5,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Arsenal,Y,WB,84,1,0,0,0,1,1,31,0,1,2,0.3,0.3,0.0,2,1,18,24,75.0,3,25,3,1,1,Leandro-Trossard,2,1,1,0,0,3
+Away,Brighton,Tottenham,Y,WB,90,1,0,0,0,2,1,62,2,0,3,0.1,0.1,0.1,3,1,39,52,75.0,5,38,2,1,1,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Southampton,Y,"AM,RM",90,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.4,2,0,25,37,67.6,4,30,2,2,1,Leandro-Trossard,2,2,0,1,0,4
+Away,Brighton,Wolves,Y,"WB,AM",88,1,0,0,0,2,2,56,0,1,2,0.3,0.3,0.2,6,3,31,43,72.1,1,39,9,4,2,Leandro-Trossard,3,0,1,0,0,3
+Home,Brighton,Manchester Utd,Y,"WB,AM",82,1,2,0,0,3,1,43,1,0,1,1.0,1.0,0.7,4,2,21,32,65.6,3,27,6,0,0,Leandro-Trossard,4,0,1,0,0,4
+Away,Brighton,Leeds United,Y,"WB,LW",86,0,0,0,0,1,0,41,0,0,0,0.0,0.0,1.0,4,0,20,29,69.0,3,22,3,0,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Manchester Utd,Y,"LW,FW",74,0,0,0,0,2,0,31,0,1,1,0.1,0.1,0.2,6,1,16,22,72.7,1,22,0,4,0,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Newcastle Utd,Y,WB,74,0,0,0,0,2,1,42,0,0,1,0.1,0.1,0.0,2,0,21,34,61.8,6,23,5,2,1,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,West Ham,Y,"WB,LW",89,1,0,0,0,5,1,47,0,0,0,0.6,0.6,0.1,4,1,27,37,73.0,4,24,6,2,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Brighton,Leeds United,Y,"LM,RW",78,0,1,0,0,2,0,32,0,0,2,0.3,0.3,0.2,5,1,11,19,57.9,3,22,2,6,2,Leandro-Trossard,1,0,1,0,0,1
+Away,Brighton,Fulham,Y,"LW,AM,FW",90,0,0,0,0,1,1,35,1,0,1,0.1,0.1,0.1,1,0,21,25,84.0,6,27,1,1,1,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Leicester City,Y,WB,88,1,0,0,0,1,1,66,2,2,2,0.2,0.2,0.4,7,2,40,50,80.0,11,30,3,4,1,Leandro-Trossard,5,2,1,0,0,7
+Away,Brighton,Liverpool,Y,AM,86,3,0,0,0,4,4,36,0,1,2,0.9,0.9,0.0,2,1,15,24,62.5,4,25,4,6,4,Leandro-Trossard,3,3,0,1,0,6
+Home,Brighton,Tottenham,Y,"AM,RW",90,0,0,0,0,2,0,55,0,0,1,0.1,0.1,0.0,4,0,38,46,82.6,3,29,1,2,1,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Brentford,Y,LM,68,0,0,0,0,2,0,36,2,0,0,0.1,0.1,0.3,4,0,18,27,66.7,3,25,1,1,0,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Nott'ham Forest,Y,WB,90,0,0,0,0,4,1,74,3,1,3,0.2,0.2,0.2,2,0,38,55,69.1,3,39,5,1,0,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Manchester City,Y,"WB,LW,FW",90,1,0,0,0,3,2,56,1,1,1,0.2,0.2,0.0,2,1,28,45,62.2,7,32,2,3,1,Leandro-Trossard,1,3,0,0,1,4
+Home,Brighton,Chelsea,Y,FW,86,1,0,0,0,6,3,41,0,0,1,1.4,1.4,0.0,3,1,22,29,75.9,4,28,2,2,2,Leandro-Trossard,4,1,1,0,0,5
+Away,Brighton,Wolves,Y,"FW,AM",81,0,1,0,0,1,0,35,0,0,0,0.0,0.0,0.3,4,1,18,27,66.7,4,31,2,2,0,Leandro-Trossard,3,2,1,0,0,5
+Home,Brighton,Aston Villa,Y,"AM,LW",90,0,0,0,0,1,1,55,1,0,1,0.0,0.0,0.1,2,0,32,42,76.2,4,38,4,2,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Southampton,Y,FW,82,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.2,2,0,24,30,80.0,3,22,1,2,1,Leandro-Trossard,3,1,1,0,0,4
+Home,Brighton,Arsenal,Y,FW,59,0,0,0,0,2,2,22,0,0,1,0.2,0.2,0.0,1,0,10,17,58.8,1,12,1,0,0,Leandro-Trossard,2,4,0,0,1,6
+Home,Arsenal,Manchester Utd,N,"LW,LM",9,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,4,2,2,2,Leandro-Trossard,3,2,1,0,0,5
+Away,Arsenal,Everton,N,LW,32,0,0,0,0,2,1,18,2,0,0,0.1,0.1,0.0,1,0,7,13,53.8,1,12,3,1,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Arsenal,Brentford,N,LW,29,1,0,0,0,2,1,25,0,0,0,0.7,0.7,0.0,1,0,19,22,86.4,3,17,0,3,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Arsenal,Manchester City,N,LW,15,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,10,14,71.4,2,15,1,0,0,Leandro-Trossard,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,LW,67,0,0,0,0,0,0,37,1,0,2,0.0,0.0,0.0,2,0,24,31,77.4,6,24,7,1,1,Leandro-Trossard,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,FW,69,0,1,0,0,2,0,34,1,1,0,0.1,0.1,0.1,3,1,21,27,77.8,4,24,0,4,2,Leandro-Trossard,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,FW,71,0,1,0,0,1,0,33,1,0,0,0.2,0.2,0.5,1,1,19,28,67.9,2,21,6,1,1,Leandro-Trossard,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,FW,21,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,11,15,73.3,2,14,1,1,1,Leandro-Trossard,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,FW,76,0,3,0,0,2,1,47,1,1,2,0.2,0.2,1.0,2,2,29,41,70.7,4,31,2,1,1,Leandro-Trossard,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,FW,64,0,1,0,0,1,0,37,0,0,3,0.0,0.0,0.5,3,1,23,28,82.1,4,23,1,3,1,Leandro-Trossard,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,"RW,FW",90,0,1,0,0,0,0,54,0,2,2,0.0,0.0,1.3,3,1,35,43,81.4,2,36,2,0,0,Leandro-Trossard,4,1,1,0,0,5
+Away,Arsenal,Liverpool,N,FW,11,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,1,1,Leandro-Trossard,2,2,0,1,0,4
+Away,Arsenal,West Ham,N,"FW,RM",24,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,2,0,21,23,91.3,5,21,0,1,1,Leandro-Trossard,2,2,0,1,0,4
+Home,Arsenal,Southampton,N,"CM,LM",34,0,0,0,0,1,0,33,0,0,1,0.1,0.1,0.0,2,0,25,29,86.2,6,22,1,0,0,Leandro-Trossard,3,3,0,1,0,6
+Away,Arsenal,Manchester City,N,FW,31,0,1,0,0,0,0,14,0,0,0,0.0,0.0,0.1,0,0,10,12,83.3,1,10,2,0,0,Leandro-Trossard,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,LW,58,0,0,0,0,0,0,41,0,0,2,0.0,0.0,0.3,3,1,24,34,70.6,5,28,2,2,1,Leandro-Trossard,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,N,LW,11,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Arsenal,Brighton,N,"LW,LM",71,0,0,0,0,2,1,34,0,1,3,0.2,0.2,0.2,3,0,14,19,73.7,2,17,1,2,0,Leandro-Trossard,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,"LW,LM",69,0,0,0,0,2,0,42,2,0,1,0.1,0.1,0.1,2,0,23,32,71.9,2,28,2,1,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,LW,79,0,2,0,0,2,1,44,2,1,0,0.1,0.1,0.4,3,2,26,32,81.3,5,22,2,1,1,Leandro-Trossard,5,0,1,0,0,5

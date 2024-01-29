@@ -1,0 +1,35 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Crystal Palace,N,CM,19,0,0,0,0,0,0,19,3,0,1,0.0,0.0,0.0,0,0,12,12,100.0,0,13,0,1,0,Reiss-Nelson,4,1,1,0,0,5
+Home,Arsenal,Southampton,Y,RW,63,0,0,0,0,0,0,52,1,2,2,0.0,0.0,0.0,2,0,42,47,89.4,5,31,0,0,0,Reiss-Nelson,3,2,1,0,0,5
+Away,Arsenal,Manchester Utd,Y,LW,63,0,0,0,0,2,0,31,0,1,1,0.1,0.1,0.0,2,0,19,22,86.4,3,22,3,2,1,Reiss-Nelson,1,2,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,LW,70,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.1,4,0,39,46,84.8,1,40,3,4,3,Reiss-Nelson,1,0,1,0,0,1
+Home,Arsenal,Burnley,Y,LW,45,0,0,0,0,2,1,14,0,0,0,0.1,0.1,0.0,2,0,9,11,81.8,1,10,1,0,0,Reiss-Nelson,2,1,1,0,0,3
+Away,Arsenal,Watford,N,LW,20,0,0,0,0,1,1,11,2,0,0,0.1,0.1,0.0,0,0,4,5,80.0,2,7,1,1,0,Reiss-Nelson,2,2,0,1,0,4
+Away,Arsenal,Manchester Utd,N,RW,17,0,0,0,0,1,1,11,1,0,2,0.1,0.1,0.0,0,0,6,7,85.7,1,4,2,1,1,Reiss-Nelson,1,1,0,1,0,2
+Away,Arsenal,West Ham,N,RW,3,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,3,0,0,0,Reiss-Nelson,3,1,1,0,0,4
+Away,Arsenal,Everton,Y,RW,90,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,2,0,21,29,72.4,1,26,4,9,5,Reiss-Nelson,0,0,0,1,0,0
+Away,Arsenal,Bournemouth,Y,RW,81,0,0,0,0,3,0,55,1,1,3,0.2,0.2,0.1,5,1,30,39,76.9,5,36,7,5,2,Reiss-Nelson,1,1,0,1,0,2
+Home,Arsenal,Chelsea,Y,RW,85,0,0,0,0,0,0,34,0,1,2,0.0,0.0,0.0,0,0,20,25,80.0,4,21,5,4,1,Reiss-Nelson,1,2,0,0,1,3
+Home,Arsenal,Manchester Utd,N,RW,29,0,0,0,0,1,0,18,0,0,1,0.1,0.1,0.0,0,0,11,13,84.6,1,12,0,0,0,Reiss-Nelson,2,0,1,0,0,2
+Away,Arsenal,Crystal Palace,N,LW,1,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Reiss-Nelson,1,1,0,1,0,2
+Home,Arsenal,West Ham,N,"RW,RM",22,0,0,0,0,1,0,11,1,1,2,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,0,0,Reiss-Nelson,1,0,1,0,0,1
+Away,Arsenal,Manchester City,N,RM,24,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,6,2,1,1,Reiss-Nelson,0,3,0,0,1,3
+Away,Arsenal,Brighton,N,RM,4,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Reiss-Nelson,1,2,0,0,1,3
+Home,Arsenal,Norwich City,Y,RW,57,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.2,3,0,17,18,94.4,1,18,0,2,1,Reiss-Nelson,4,0,1,0,0,4
+Away,Arsenal,Tottenham,N,RW,7,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Reiss-Nelson,1,2,0,0,1,3
+Home,Arsenal,Liverpool,Y,RW,57,1,0,0,0,1,1,15,2,0,0,0.3,0.3,0.0,0,0,7,10,70.0,2,8,0,1,0,Reiss-Nelson,2,1,1,0,0,3
+Home,Arsenal,Watford,N,RW,19,0,0,0,0,1,0,10,1,0,0,0.1,0.1,0.1,3,0,5,7,71.4,0,10,4,4,3,Reiss-Nelson,3,2,1,0,0,5
+Away,Arsenal,Leeds United,N,"RW,LW",45,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,9,1,3,1,Reiss-Nelson,0,0,0,1,0,0
+Home,Arsenal,Wolves,N,"RW,RM",26,0,0,0,0,1,0,23,1,1,0,0.1,0.1,0.0,1,0,11,19,57.9,4,13,3,1,0,Reiss-Nelson,1,2,0,0,1,3
+Away,Arsenal,Brentford,N,RW,20,0,0,0,0,1,0,16,1,0,1,0.1,0.1,0.0,3,0,8,12,66.7,0,10,0,0,0,Reiss-Nelson,0,2,0,0,1,2
+Home,Arsenal,Nott'ham Forest,N,"RW,LW",64,2,1,0,0,3,3,47,1,0,0,0.6,0.6,0.1,4,2,35,39,89.7,1,26,8,1,1,Reiss-Nelson,5,0,1,0,0,5
+Away,Arsenal,Wolves,N,RW,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Reiss-Nelson,2,0,1,0,0,2
+Home,Arsenal,Bournemouth,N,LW,22,1,1,0,0,2,2,22,0,0,0,0.1,0.1,0.2,5,1,17,20,85.0,0,19,2,1,1,Reiss-Nelson,3,2,1,0,0,5
+Away,Arsenal,Fulham,N,"LW,RW",19,0,0,0,0,1,0,11,1,0,1,0.0,0.0,0.2,2,0,5,7,71.4,1,5,1,1,1,Reiss-Nelson,3,0,1,0,0,3
+Away,Arsenal,West Ham,N,LW,6,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,8,1,1,1,Reiss-Nelson,2,2,0,1,0,4
+Home,Arsenal,Southampton,N,LW,6,0,0,0,0,2,1,11,1,0,0,0.1,0.1,0.1,4,1,6,8,75.0,1,7,1,0,0,Reiss-Nelson,3,3,0,1,0,6
+Away,Arsenal,Manchester City,N,RW,11,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,1,5,7,71.4,1,9,1,1,1,Reiss-Nelson,1,4,0,0,1,5
+Home,Arsenal,Chelsea,N,RW,17,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,3,0,1,0,Reiss-Nelson,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,N,RW,4,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Reiss-Nelson,2,0,1,0,0,2
+Home,Arsenal,Brighton,N,LW,31,0,0,0,0,3,0,13,1,0,0,0.1,0.1,0.0,1,0,5,7,71.4,0,11,5,3,2,Reiss-Nelson,0,3,0,0,1,3
+Home,Arsenal,Wolves,N,"RW,LM",31,0,0,0,0,1,1,20,0,0,1,0.2,0.2,0.8,2,0,14,15,93.3,2,11,0,0,0,Reiss-Nelson,5,0,1,0,0,5

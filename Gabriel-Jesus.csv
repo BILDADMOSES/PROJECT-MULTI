@@ -1,0 +1,176 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Manchester City,Brighton,Y,FW,77,0,0,0,0,4,1,37,1,0,0,0.9,0.9,0.0,2,0,20,26,76.9,3,17,3,2,2,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Everton,Y,FW,45,0,0,0,0,2,1,35,0,0,1,0.1,0.1,0.0,1,0,23,28,82.1,4,17,1,3,2,Gabriel-Jesus,1,1,0,1,0,2
+Away,Manchester City,Bournemouth,Y,"FW,LW",81,1,0,0,0,3,1,35,1,0,1,0.5,0.5,0.0,3,1,21,24,87.5,2,15,1,2,1,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Liverpool,Y,FW,56,2,0,0,0,4,3,16,1,0,0,0.8,0.8,0.0,1,0,4,7,57.1,0,11,1,0,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Watford,Y,LW,64,1,0,0,0,2,1,29,1,0,1,0.4,0.4,0.0,2,2,16,23,69.6,3,16,3,2,2,Gabriel-Jesus,6,0,1,0,0,6
+Away,Manchester City,Chelsea,Y,FW,90,0,1,0,0,2,0,38,1,0,1,0.3,0.3,0.1,6,1,21,29,72.4,3,24,2,1,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Stoke City,Y,FW,62,2,0,0,0,2,2,36,0,0,0,1.1,1.1,0.0,3,0,28,32,87.5,3,23,3,2,2,Gabriel-Jesus,7,2,1,0,0,9
+Home,Manchester City,Burnley,N,FW,15,0,0,0,0,1,1,8,0,1,0,0.5,0.5,0.0,0,0,4,5,80.0,0,5,0,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,West Brom,Y,FW,81,0,0,0,0,0,0,51,1,1,4,0.0,0.0,0.0,1,0,30,38,78.9,1,25,1,0,0,Gabriel-Jesus,3,2,1,0,0,5
+Home,Manchester City,Arsenal,N,FW,29,1,0,0,0,2,2,16,0,0,0,0.8,0.8,0.0,0,0,10,14,71.4,1,7,0,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Leicester City,Y,FW,90,1,0,0,0,2,2,37,0,0,1,1.3,1.3,0.0,1,0,25,29,86.2,2,28,1,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Huddersfield,N,"CB,FW",11,0,0,0,0,1,1,7,1,0,0,0.5,0.5,0.0,1,1,4,4,100.0,0,3,0,1,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Southampton,Y,LW,73,0,0,0,0,4,3,59,5,1,1,0.4,0.4,0.0,5,1,30,46,65.2,1,36,0,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,West Ham,N,FW,45,0,1,0,0,3,1,31,0,0,1,0.3,0.3,0.8,2,1,17,21,81.0,3,20,2,2,1,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Manchester Utd,Y,FW,58,0,0,0,0,1,1,29,2,0,0,0.3,0.3,0.0,4,1,15,19,78.9,1,17,3,4,3,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Tottenham,N,FW,33,0,0,0,1,0,0,16,1,1,1,0.8,0.0,0.0,2,1,7,10,70.0,0,7,2,0,0,Gabriel-Jesus,4,1,1,0,0,5
+Away,Manchester City,Newcastle Utd,N,FW,80,0,0,0,0,2,1,36,1,0,1,0.1,0.1,0.2,5,0,23,29,79.3,2,14,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Crystal Palace,Y,FW,22,0,0,0,0,1,1,8,1,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,4,0,0,0,Gabriel-Jesus,0,0,0,1,0,0
+Away,Manchester City,Arsenal,N,FW,4,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Chelsea,N,FW,6,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Stoke City,Y,FW,89,0,1,0,0,1,0,22,0,0,0,0.0,0.0,0.3,4,2,12,18,66.7,3,10,2,1,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Everton,Y,FW,90,1,0,0,0,1,1,55,1,1,1,0.5,0.5,0.0,2,0,39,44,88.6,5,32,0,6,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Manchester Utd,N,FW,19,0,0,0,0,2,0,8,0,0,0,0.1,0.1,0.0,0,0,5,5,100.0,0,4,0,0,0,Gabriel-Jesus,2,3,0,0,1,5
+Away,Manchester City,Tottenham,Y,FW,75,1,0,0,0,3,2,18,1,0,0,0.5,0.5,0.1,2,1,8,12,66.7,2,10,0,2,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Swansea City,Y,FW,90,1,0,0,1,3,3,28,0,0,0,1.6,0.8,0.0,3,1,21,23,91.3,2,16,0,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,West Ham,Y,FW,79,1,0,0,0,2,1,39,1,3,0,1.1,1.1,0.4,5,1,29,33,87.9,4,23,1,2,2,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Huddersfield,Y,FW,90,0,0,0,0,2,0,44,3,0,2,0.2,0.2,0.1,4,0,25,32,78.1,1,24,1,1,1,Gabriel-Jesus,0,0,0,1,0,0
+Home,Manchester City,Brighton,Y,FW,82,0,0,0,0,2,0,37,0,0,0,0.2,0.2,0.0,0,0,27,30,90.0,2,25,0,2,2,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Southampton,N,"FW,LB",32,1,0,0,0,1,1,9,0,0,0,0.3,0.3,0.0,0,0,4,6,66.7,1,6,1,2,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Arsenal,N,FW,12,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,8,0,2,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Huddersfield,Y,FW,90,1,0,0,0,6,5,51,1,0,1,1.0,1.0,0.9,7,0,30,35,85.7,1,31,4,2,2,Gabriel-Jesus,6,1,1,0,0,7
+Away,Manchester City,Wolves,N,"FW,LW",29,0,0,0,0,1,1,9,0,0,0,0.3,0.3,0.0,1,0,5,6,83.3,1,8,0,0,0,Gabriel-Jesus,1,1,0,1,0,2
+Home,Manchester City,Newcastle Utd,Y,FW,57,0,0,0,0,3,2,21,0,0,1,0.3,0.3,0.0,1,0,9,13,69.2,0,19,2,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Fulham,N,FW,37,0,0,0,0,3,1,14,0,0,3,0.8,0.8,0.3,1,0,5,6,83.3,0,9,1,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Brighton,N,FW,25,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,2,0,7,9,77.8,1,8,0,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Liverpool,N,FW,25,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,9,1,3,2,Gabriel-Jesus,0,0,0,1,0,0
+Home,Manchester City,Burnley,N,FW,25,0,0,0,0,1,1,13,1,0,0,0.3,0.3,0.0,2,1,3,8,37.5,2,10,0,1,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Tottenham,N,FW,1,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,West Ham,N,FW,10,0,1,0,0,0,0,13,0,0,0,0.0,0.0,0.1,1,1,10,11,90.9,0,8,0,2,1,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Bournemouth,Y,FW,76,0,0,0,0,4,1,40,0,0,2,0.9,0.9,0.0,1,0,20,27,74.1,2,23,0,2,2,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Watford,Y,FW,88,0,1,0,0,3,1,34,0,0,2,0.6,0.6,0.3,5,1,23,26,88.5,0,22,1,3,1,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Chelsea,N,FW,38,0,0,0,0,2,1,17,1,0,2,0.2,0.2,0.0,0,0,6,8,75.0,0,13,0,2,1,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,Everton,Y,FW,90,2,0,0,0,2,2,45,1,0,0,0.6,0.6,0.1,5,1,29,40,72.5,3,37,4,1,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Crystal Palace,Y,FW,90,0,0,0,0,2,0,27,1,1,0,0.3,0.3,0.0,0,0,12,18,66.7,1,18,2,1,0,Gabriel-Jesus,2,3,0,0,1,5
+Away,Manchester City,Southampton,N,FW,18,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.3,1,0,7,7,100.0,2,7,2,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Wolves,Y,FW,75,2,0,1,1,2,1,34,0,1,1,1.5,0.8,0.1,4,0,17,21,81.0,0,14,2,1,1,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,Newcastle Utd,N,"RW,FW",18,0,0,0,0,0,0,9,2,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,6,0,0,0,Gabriel-Jesus,1,2,0,0,1,3
+Home,Manchester City,Arsenal,N,FW,10,0,0,0,0,1,1,6,0,0,1,0.1,0.1,0.0,0,0,1,2,50.0,1,4,1,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Everton,N,FW,11,1,0,0,0,2,2,13,1,0,1,0.6,0.6,0.0,1,1,4,5,80.0,0,10,1,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Chelsea,N,FW,26,0,0,0,0,2,1,17,0,0,0,0.4,0.4,0.0,1,0,12,14,85.7,1,14,3,1,1,Gabriel-Jesus,6,0,1,0,0,6
+Away,Manchester City,Bournemouth,N,FW,1,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,6,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Watford,N,FW,11,0,0,0,0,1,0,8,0,0,0,0.6,0.6,0.0,2,0,5,6,83.3,1,7,1,1,1,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Fulham,N,FW,34,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,9,9,100.0,0,8,2,5,2,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Cardiff City,Y,FW,90,0,1,0,0,4,1,50,0,0,0,1.4,1.4,0.1,9,1,40,44,90.9,3,40,3,3,3,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Crystal Palace,N,FW,16,1,0,0,0,2,1,15,1,0,0,0.6,0.6,0.0,1,0,9,10,90.0,1,13,2,2,1,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Manchester Utd,N,FW,2,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,1,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Burnley,N,"LW,FW",27,0,0,0,0,1,0,24,1,1,0,0.6,0.6,0.0,2,0,14,15,93.3,0,22,3,5,2,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Leicester City,N,FW,4,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,5,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,West Ham,Y,FW,68,1,0,0,0,2,2,15,0,0,1,0.2,0.2,0.0,1,0,10,11,90.9,1,8,1,1,1,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Tottenham,N,FW,25,0,0,0,0,4,0,13,0,0,1,0.4,0.4,0.0,3,0,6,6,100.0,1,8,0,3,3,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Norwich City,N,FW,34,0,1,0,0,3,1,19,0,1,2,0.2,0.2,0.0,4,2,9,11,81.8,1,12,1,3,3,Gabriel-Jesus,2,3,0,0,1,5
+Away,Manchester City,Everton,Y,FW,65,1,0,0,0,4,1,27,0,1,0,0.8,0.8,0.0,0,0,20,21,95.2,1,18,1,2,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Wolves,N,FW,16,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,1,7,0,0,0,Gabriel-Jesus,0,2,0,0,1,2
+Away,Manchester City,Crystal Palace,Y,FW,90,1,0,0,0,8,4,37,0,0,1,1.5,1.5,0.1,5,1,16,22,72.7,2,24,4,6,5,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Aston Villa,Y,"FW,LW",90,0,0,0,0,4,1,33,0,1,0,1.0,1.0,0.1,3,0,19,22,86.4,1,22,1,1,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Southampton,N,FW,45,0,0,0,0,1,1,19,1,0,2,0.6,0.6,0.1,1,0,12,13,92.3,1,13,0,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Liverpool,N,FW,20,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Gabriel-Jesus,1,3,0,0,1,4
+Home,Manchester City,Chelsea,N,FW,14,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Newcastle Utd,Y,FW,83,0,0,0,0,5,3,27,0,1,2,0.9,0.9,0.1,3,0,12,15,80.0,0,17,2,0,0,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Burnley,Y,FW,90,2,0,0,0,3,2,26,0,0,0,0.7,0.7,0.0,2,0,14,18,77.8,3,21,7,3,2,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Manchester Utd,Y,FW,90,0,0,0,0,3,0,33,1,1,2,0.5,0.5,0.0,1,0,16,20,80.0,0,19,3,4,2,Gabriel-Jesus,1,2,0,0,1,3
+Away,Manchester City,Arsenal,Y,FW,90,0,1,0,0,2,1,34,2,0,0,0.3,0.3,0.1,7,2,23,25,92.0,2,28,2,1,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Leicester City,Y,FW,90,1,0,0,0,4,4,29,2,0,1,1.2,1.2,0.0,0,0,17,20,85.0,0,19,3,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Sheffield Utd,N,FW,3,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,4,0,1,1,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Everton,Y,FW,90,2,0,0,0,8,4,42,1,0,2,1.1,1.1,0.1,4,0,21,27,77.8,0,26,3,2,2,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Aston Villa,Y,LW,90,1,1,0,0,5,2,74,1,0,1,0.7,0.7,0.4,1,0,54,62,87.1,0,56,3,2,2,Gabriel-Jesus,6,1,1,0,0,7
+Home,Manchester City,Crystal Palace,N,FW,29,0,1,0,0,1,0,18,0,0,0,0.1,0.1,0.6,2,1,9,11,81.8,1,13,0,3,1,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Sheffield Utd,Y,FW,66,0,0,0,1,1,1,23,0,1,0,0.9,0.1,0.0,1,0,12,15,80.0,0,13,0,1,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Tottenham,N,FW,19,0,0,0,0,1,1,13,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,11,0,1,0,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,West Ham,Y,LW,90,0,0,0,0,4,2,53,3,0,2,1.0,1.0,0.1,5,0,36,40,90.0,4,37,4,5,5,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Leicester City,N,FW,14,1,0,0,0,2,2,13,1,1,0,0.5,0.5,0.0,0,0,8,10,80.0,0,12,2,1,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Manchester Utd,N,FW,32,0,0,0,0,1,1,15,1,0,1,0.0,0.0,0.0,0,0,9,11,81.8,1,9,1,1,1,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,Arsenal,Y,FW,79,0,0,0,0,2,1,33,1,1,1,0.1,0.1,0.1,1,0,21,22,95.5,2,29,2,1,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Burnley,N,FW,46,0,1,0,0,3,0,29,0,0,0,0.2,0.2,0.4,5,1,22,24,91.7,1,17,4,1,1,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Chelsea,N,"FW,LW",36,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,10,0,3,2,Gabriel-Jesus,1,2,0,0,1,3
+Home,Manchester City,Liverpool,Y,FW,57,0,0,0,0,2,1,17,0,0,1,0.1,0.1,0.0,2,1,3,10,30.0,0,13,3,2,1,Gabriel-Jesus,4,0,1,0,0,4
+Away,Manchester City,Southampton,Y,FW,90,0,0,0,0,6,2,36,0,0,1,1.4,1.4,0.1,1,0,18,22,81.8,5,26,1,1,1,Gabriel-Jesus,0,1,0,0,1,1
+Home,Manchester City,Newcastle Utd,Y,FW,60,1,0,0,0,2,1,26,0,0,2,0.5,0.5,0.2,4,0,22,22,100.0,1,18,2,0,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Brighton,Y,FW,63,1,2,0,0,7,1,24,0,2,0,1.4,1.4,0.6,6,2,13,15,86.7,1,15,1,7,6,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Bournemouth,Y,"FW,LW",76,1,0,0,0,3,2,28,0,0,1,0.3,0.3,0.0,1,1,18,23,78.3,0,20,3,2,2,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Watford,Y,FW,90,0,0,0,0,3,1,24,1,0,0,0.5,0.5,0.0,2,0,17,19,89.5,0,18,0,0,0,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Norwich City,Y,FW,90,1,0,0,0,5,3,52,1,1,2,1.0,1.0,0.2,6,0,40,44,90.9,5,30,1,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Wolves,Y,FW,90,1,0,0,0,3,3,44,1,1,1,0.2,0.2,0.2,4,0,24,31,77.4,2,29,4,3,2,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Liverpool,Y,FW,90,1,0,0,0,2,1,28,0,0,1,0.5,0.5,0.0,2,0,18,23,78.3,0,14,0,2,1,Gabriel-Jesus,1,1,0,1,0,2
+Away,Manchester City,Tottenham,Y,FW,90,0,0,0,0,4,0,32,1,1,0,0.3,0.3,0.1,5,0,17,22,77.3,2,21,1,4,4,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,Burnley,Y,FW,90,0,1,0,0,2,0,28,0,0,2,0.1,0.1,0.2,5,2,15,18,83.3,1,17,3,4,2,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Fulham,Y,FW,90,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.1,3,0,32,39,82.1,1,25,1,3,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Manchester Utd,Y,FW,90,0,0,0,0,1,0,36,1,5,0,0.4,0.4,0.3,3,0,21,27,77.8,2,25,1,5,2,Gabriel-Jesus,0,0,0,1,0,0
+Home,Manchester City,West Brom,Y,"FW,LW",90,0,0,0,0,2,0,24,3,0,0,0.1,0.1,0.0,3,0,13,14,92.9,0,8,0,0,0,Gabriel-Jesus,1,1,0,1,0,2
+Home,Manchester City,Brighton,N,RW,24,0,0,0,0,0,0,20,0,2,1,0.0,0.0,0.0,0,0,9,11,81.8,1,11,0,3,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Crystal Palace,Y,FW,90,0,0,0,0,1,1,37,0,0,0,0.1,0.1,0.1,3,0,29,31,93.5,0,21,1,4,3,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Aston Villa,N,,32,0,0,0,0,2,0,12,0,0,0,0.1,0.1,0.0,1,1,5,6,83.3,0,5,0,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,West Brom,N,FW,31,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,16,17,94.1,2,14,0,0,0,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Sheffield Utd,Y,FW,90,1,0,0,0,2,2,42,0,0,0,1.1,1.1,0.1,0,0,26,35,74.3,2,13,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Burnley,Y,FW,90,1,0,0,0,3,1,49,0,0,2,0.6,0.6,0.0,0,0,32,38,84.2,0,33,2,2,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Liverpool,N,FW,19,0,1,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,1,8,9,88.9,3,6,3,2,1,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Tottenham,Y,FW,78,0,0,0,0,3,0,40,1,0,2,0.2,0.2,0.0,3,1,30,32,93.8,5,28,2,1,1,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,Everton,Y,FW,90,0,1,0,0,4,0,61,0,0,2,0.4,0.4,0.0,4,1,37,45,82.2,3,42,4,4,4,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Arsenal,N,FW,28,0,0,0,0,1,0,15,0,0,0,0.1,0.1,0.3,1,0,9,11,81.8,0,10,2,2,2,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,West Ham,N,FW,30,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,1,10,1,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Wolves,Y,FW,90,2,0,0,0,5,3,36,1,0,0,1.8,1.8,0.1,5,0,23,26,88.5,1,22,2,2,1,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Manchester Utd,Y,FW,69,0,0,0,0,2,0,32,2,0,2,0.1,0.1,0.1,3,0,17,20,85.0,1,22,3,1,1,Gabriel-Jesus,0,2,0,0,1,2
+Away,Manchester City,Fulham,Y,LW,90,1,0,0,0,1,1,47,0,2,0,0.5,0.5,0.0,1,1,27,32,84.4,3,31,4,7,6,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,Leicester City,Y,"LW,FW",90,1,0,0,0,2,1,40,3,0,0,0.6,0.6,0.3,4,0,18,24,75.0,1,27,1,4,3,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Leeds United,Y,FW,90,0,0,0,0,3,0,53,0,1,1,0.2,0.2,0.1,5,0,39,46,84.8,2,40,3,4,4,Gabriel-Jesus,1,2,0,0,1,3
+Away,Manchester City,Aston Villa,Y,FW,45,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,16,17,94.1,1,12,1,1,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Crystal Palace,Y,FW,90,0,0,0,0,3,0,49,1,1,1,0.4,0.4,0.1,4,1,20,29,69.0,2,30,1,4,1,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Chelsea,Y,FW,90,0,0,0,0,3,0,45,0,1,1,0.1,0.1,0.1,6,1,27,37,73.0,0,27,4,0,0,Gabriel-Jesus,1,2,0,0,1,3
+Away,Manchester City,Newcastle Utd,Y,FW,90,0,1,0,0,2,0,74,2,0,0,0.1,0.1,0.4,5,1,59,63,93.7,2,57,6,4,4,Gabriel-Jesus,4,3,1,0,0,7
+Away,Manchester City,Brighton,N,LM,14,0,0,0,0,1,1,10,0,0,0,0.1,0.1,0.0,1,0,5,5,100.0,2,7,0,2,2,Gabriel-Jesus,2,3,0,0,1,5
+Home,Manchester City,Everton,Y,"FW,RW",73,1,0,0,0,3,2,42,0,0,0,0.6,0.6,0.1,3,1,32,36,88.9,1,28,4,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Tottenham,N,"FW,LW",21,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,1,5,0,1,1,Gabriel-Jesus,0,1,0,0,1,1
+Home,Manchester City,Norwich City,Y,"RW,LW",90,0,2,0,0,1,0,82,1,1,0,0.1,0.1,1.3,2,1,65,73,89.0,6,55,3,2,1,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Arsenal,Y,RW,60,1,1,0,0,1,1,39,0,0,1,0.4,0.4,0.7,6,2,31,33,93.9,4,24,1,2,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Leicester City,Y,RW,83,0,0,0,0,2,2,39,1,0,0,0.3,0.3,0.0,1,0,19,32,59.4,2,32,2,2,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Southampton,Y,"RW,FW",66,0,0,0,0,3,0,35,1,1,3,0.3,0.3,0.0,0,0,15,22,68.2,1,16,0,2,2,Gabriel-Jesus,0,0,0,1,0,0
+Away,Manchester City,Chelsea,Y,"RW,FW",90,1,0,0,0,3,1,56,2,1,0,0.4,0.4,0.0,1,0,37,47,78.7,2,32,5,3,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Liverpool,Y,RW,90,0,1,0,0,2,0,50,1,1,1,0.1,0.1,0.3,5,2,32,39,82.1,4,39,2,1,1,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Brighton,Y,RW,86,0,1,0,0,3,1,50,1,1,3,0.3,0.3,0.2,4,1,32,38,84.2,1,22,1,3,3,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Crystal Palace,Y,RW,90,0,0,0,0,4,1,42,2,1,0,0.3,0.3,0.1,3,0,27,32,84.4,4,18,2,6,4,Gabriel-Jesus,0,2,0,0,1,2
+Away,Manchester City,Manchester Utd,Y,RW,90,0,0,0,0,1,1,69,1,0,1,0.2,0.2,0.1,5,0,47,54,87.0,1,52,1,4,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,West Ham,Y,"RW,FW,LW",90,0,0,0,0,4,1,46,0,0,0,0.5,0.5,0.2,5,1,28,36,77.8,5,33,5,1,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Aston Villa,Y,FW,86,0,1,0,0,6,1,38,1,1,0,0.4,0.4,0.3,5,1,24,27,88.9,3,27,4,6,6,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Watford,N,FW,16,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,0,0,11,12,91.7,1,14,1,1,0,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Wolves,Y,FW,90,0,0,0,0,3,1,34,0,0,2,0.3,0.3,0.0,2,0,21,23,91.3,0,22,0,3,2,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Newcastle Utd,Y,FW,90,0,1,0,0,3,1,34,0,0,0,0.6,0.6,1.0,5,2,28,28,100.0,0,25,2,4,3,Gabriel-Jesus,4,0,1,0,0,4
+Away,Manchester City,Brentford,Y,RW,90,0,0,0,0,3,1,62,1,1,2,0.1,0.1,0.0,4,0,36,47,76.6,1,47,4,5,3,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Arsenal,Y,FW,62,0,0,0,0,1,0,23,0,0,0,0.1,0.1,0.1,1,0,12,14,85.7,1,18,0,4,3,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Chelsea,N,FW,3,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Southampton,N,RW,31,0,0,0,0,1,0,25,0,1,0,0.2,0.2,0.0,2,1,14,19,73.7,0,19,2,1,1,Gabriel-Jesus,1,1,0,1,0,2
+Away,Manchester City,Everton,N,"FW,LW",14,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Burnley,N,FW,27,0,0,0,0,4,0,20,0,1,0,0.6,0.6,0.0,1,0,10,14,71.4,1,12,2,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Liverpool,Y,"RW,FW",82,1,0,0,0,4,2,26,1,0,0,0.4,0.4,0.4,3,0,12,16,75.0,4,15,1,3,2,Gabriel-Jesus,2,2,0,1,0,4
+Home,Manchester City,Brighton,N,FW,8,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Watford,Y,"RW,LW",90,4,1,1,1,5,3,60,2,3,0,2.5,1.7,0.4,9,5,38,44,86.4,4,35,4,2,1,Gabriel-Jesus,5,1,1,0,0,6
+Away,Manchester City,Leeds United,Y,FW,90,1,0,0,0,2,2,47,1,1,3,0.7,0.7,0.3,6,1,28,34,82.4,2,31,2,4,3,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Newcastle Utd,Y,FW,62,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,1,0,22,26,84.6,1,16,0,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,West Ham,Y,FW,90,0,0,0,0,4,1,42,0,0,0,0.3,0.3,0.1,8,0,27,31,87.1,4,31,2,6,5,Gabriel-Jesus,2,2,0,1,0,4
+Home,Manchester City,Aston Villa,Y,FW,90,0,0,0,0,3,0,38,1,0,2,0.7,0.7,0.2,5,1,12,19,63.2,2,22,5,3,2,Gabriel-Jesus,3,2,1,0,0,5
+Away,Arsenal,Crystal Palace,Y,FW,82,0,0,0,0,1,0,38,1,1,0,0.1,0.1,0.0,4,0,20,28,71.4,3,24,3,6,6,Gabriel-Jesus,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,FW,83,2,2,0,0,7,3,48,0,0,1,1.8,1.8,0.4,5,1,22,29,75.9,3,22,1,4,3,Gabriel-Jesus,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,"FW,RW",90,0,1,0,0,2,0,42,2,1,2,0.1,0.1,0.3,4,0,19,21,90.5,3,20,1,6,2,Gabriel-Jesus,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,FW,88,0,0,0,0,4,1,52,0,1,2,0.3,0.3,0.2,4,0,24,35,68.6,2,22,1,4,1,Gabriel-Jesus,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y,FW,87,1,0,0,0,4,3,37,0,0,0,0.9,0.9,0.1,4,0,14,20,70.0,2,24,1,7,1,Gabriel-Jesus,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,FW,90,0,0,0,0,2,0,54,2,0,0,0.1,0.1,0.6,5,0,29,34,85.3,6,35,2,9,3,Gabriel-Jesus,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,FW,90,1,0,0,0,4,3,50,2,0,0,0.8,0.8,0.0,3,0,34,38,89.5,1,38,2,2,2,Gabriel-Jesus,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,FW,79,1,0,0,0,4,3,39,2,0,1,1.4,1.4,0.1,1,0,18,21,85.7,1,30,3,4,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,FW,89,0,0,0,0,2,2,34,1,0,2,0.3,0.3,0.0,5,2,19,21,90.5,3,23,4,4,3,Gabriel-Jesus,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,FW,81,0,0,0,0,1,0,38,1,0,2,0.1,0.1,0.1,3,0,20,24,83.3,2,21,0,3,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,FW,90,0,0,0,0,4,1,40,2,0,1,0.3,0.3,0.0,3,0,23,28,82.1,2,23,3,3,0,Gabriel-Jesus,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,FW,90,0,2,0,0,7,3,62,3,1,1,0.7,0.7,0.6,6,2,36,45,80.0,2,32,1,3,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,FW,90,0,0,0,0,3,1,53,2,2,1,0.5,0.5,0.2,8,1,18,27,66.7,5,30,4,10,4,Gabriel-Jesus,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,FW,90,0,0,0,0,5,0,50,1,2,2,0.4,0.4,0.0,3,1,29,31,93.5,3,26,4,2,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Arsenal,Fulham,N,FW,14,0,0,0,0,1,1,10,1,0,0,0.1,0.1,0.0,0,0,6,8,75.0,1,8,1,1,1,Gabriel-Jesus,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,N,FW,26,0,0,0,0,1,0,14,0,0,0,0.2,0.2,0.0,0,0,9,11,81.8,1,10,0,0,0,Gabriel-Jesus,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,FW,59,2,0,1,1,3,1,46,1,0,2,1.9,1.1,0.1,5,3,27,31,87.1,0,33,0,11,4,Gabriel-Jesus,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,FW,79,1,0,0,0,2,1,34,1,0,1,1.0,1.0,0.0,1,0,14,21,66.7,2,27,0,5,4,Gabriel-Jesus,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y,FW,66,1,0,0,0,1,1,55,1,1,0,0.8,0.8,0.0,1,0,35,44,79.5,2,36,2,4,1,Gabriel-Jesus,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,FW,90,0,0,0,0,6,1,42,2,0,0,1.1,1.1,0.0,4,0,18,25,72.0,4,23,1,5,2,Gabriel-Jesus,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,"FW,LW",79,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,15,20,75.0,0,13,2,4,1,Gabriel-Jesus,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,FW,90,1,0,0,0,3,1,54,1,0,0,0.3,0.3,0.2,5,1,37,39,94.9,7,30,1,1,0,Gabriel-Jesus,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,FW,86,0,0,0,0,2,1,45,1,1,4,0.1,0.1,0.1,2,0,14,20,70.0,4,20,2,4,1,Gabriel-Jesus,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,FW,76,0,0,0,0,2,1,25,2,0,2,0.1,0.1,0.1,2,0,7,13,53.8,1,12,2,1,1,Gabriel-Jesus,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,"FW,LW",90,0,0,0,0,4,2,41,1,0,0,0.3,0.3,0.1,2,0,18,24,75.0,1,29,0,4,0,Gabriel-Jesus,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,FW,90,1,1,0,0,1,1,53,2,1,3,0.3,0.3,0.5,2,1,36,41,87.8,3,31,3,4,1,Gabriel-Jesus,5,0,1,0,0,5
