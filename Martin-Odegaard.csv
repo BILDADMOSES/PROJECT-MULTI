@@ -1,0 +1,88 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Manchester Utd,N,AM,8,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Martin-Odegaard,0,0,0,1,0,0
+Away,Arsenal,Aston Villa,N,AM,26,0,0,0,0,1,0,34,0,0,0,0.1,0.1,0.0,0,0,24,29,82.8,5,21,1,0,0,Martin-Odegaard,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,AM,77,0,0,0,0,2,0,40,0,1,0,0.1,0.1,0.1,2,0,26,32,81.3,2,26,0,2,2,Martin-Odegaard,4,2,1,0,0,6
+Home,Arsenal,Manchester City,Y,AM,72,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,28,34,82.4,1,25,1,1,1,Martin-Odegaard,0,1,0,0,1,1
+Away,Arsenal,Leicester City,N,AM,49,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.1,2,1,23,27,85.2,7,14,2,1,1,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Burnley,Y,AM,62,0,0,0,0,2,1,44,0,0,1,0.1,0.1,0.1,4,0,33,36,91.7,3,23,1,2,0,Martin-Odegaard,1,1,0,1,0,2
+Home,Arsenal,Tottenham,Y,"AM,FW",90,1,0,0,0,2,1,73,3,1,0,0.1,0.1,0.1,5,0,56,62,90.3,10,41,1,1,0,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,West Ham,Y,AM,90,0,0,0,0,3,1,88,0,0,0,0.2,0.2,0.2,10,1,73,85,85.9,15,65,5,4,4,Martin-Odegaard,3,3,0,1,0,6
+Home,Arsenal,Liverpool,Y,AM,90,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,30,33,90.9,4,21,0,0,0,Martin-Odegaard,0,3,0,0,1,3
+Home,Arsenal,Everton,N,AM,17,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,1,7,0,0,0,Martin-Odegaard,0,1,0,0,1,1
+Away,Arsenal,Newcastle Utd,Y,AM,84,0,0,0,0,1,0,66,1,0,0,0.1,0.1,0.3,8,1,55,62,88.7,6,50,2,1,1,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Chelsea,Y,AM,90,0,0,0,0,2,0,51,0,0,0,0.1,0.1,0.1,2,0,39,45,86.7,1,38,1,2,1,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,N,AM,26,0,1,0,0,0,0,15,0,0,0,0.0,0.0,0.8,2,1,13,14,92.9,2,10,0,1,1,Martin-Odegaard,3,1,1,0,0,4
+Home,Arsenal,Brighton,Y,AM,85,0,1,0,0,2,0,68,3,0,1,0.1,0.1,0.2,6,1,46,58,79.3,8,44,2,2,2,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Manchester City,Y,CM,70,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,14,18,77.8,1,13,0,1,0,Martin-Odegaard,0,5,0,0,1,5
+Home,Arsenal,Norwich City,Y,AM,90,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.1,6,0,40,44,90.9,5,33,0,0,0,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,"CM,AM",90,1,0,0,0,2,1,73,2,0,1,0.2,0.2,0.1,7,1,53,64,82.8,9,47,0,1,1,Martin-Odegaard,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,AM,90,0,0,0,0,0,0,60,1,1,2,0.0,0.0,0.1,8,2,48,54,88.9,5,41,2,0,0,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,AM,62,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,1,0,16,22,72.7,1,17,0,2,0,Martin-Odegaard,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,"CM,AM",66,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,37,42,88.1,2,23,2,1,0,Martin-Odegaard,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,N,AM,23,0,0,0,0,1,1,23,0,0,0,0.0,0.0,0.0,2,0,20,23,87.0,2,16,1,0,0,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Leicester City,N,FW,33,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.1,2,0,13,17,76.5,4,15,0,0,0,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Watford,N,AM,22,0,0,0,0,1,0,15,2,0,0,0.1,0.1,0.0,2,0,5,11,45.5,2,8,1,2,1,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Liverpool,N,FW,24,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,11,15,73.3,1,12,0,0,0,Martin-Odegaard,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,FW,90,0,0,0,0,2,1,76,3,0,0,0.1,0.1,0.1,5,0,54,65,83.1,9,53,3,1,1,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,FW,78,1,0,0,0,1,1,46,0,0,0,0.2,0.2,0.3,4,0,33,44,75.0,4,21,1,0,0,Martin-Odegaard,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,AM,90,1,0,0,0,3,1,72,2,0,0,0.4,0.4,0.2,4,0,59,66,89.4,8,32,4,2,2,Martin-Odegaard,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,FW,90,1,0,0,0,3,1,66,2,0,1,0.3,0.3,0.5,3,0,42,58,72.4,9,36,0,1,1,Martin-Odegaard,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,FW,65,0,0,0,0,1,1,39,2,0,0,0.1,0.1,0.1,4,0,28,34,82.4,2,20,0,1,0,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,AM,84,0,1,0,0,2,1,50,1,0,0,0.2,0.2,1.3,8,2,30,44,68.2,6,38,4,2,1,Martin-Odegaard,4,1,1,0,0,5
+Away,Arsenal,Norwich City,Y,AM,90,0,2,0,0,3,0,71,0,1,0,0.1,0.1,0.3,6,3,55,64,85.9,8,42,3,1,1,Martin-Odegaard,5,0,1,0,0,5
+Home,Arsenal,Manchester City,Y,AM,62,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,1,1,16,20,80.0,1,5,0,0,0,Martin-Odegaard,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,CM,90,0,0,0,0,3,2,62,3,1,0,0.3,0.3,0.2,6,0,44,53,83.0,7,37,1,0,0,Martin-Odegaard,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,AM,67,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.1,6,0,36,43,83.7,7,29,1,1,1,Martin-Odegaard,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,AM,90,0,0,0,0,3,1,84,1,0,0,0.6,0.6,0.0,7,0,64,76,84.2,13,57,3,3,2,Martin-Odegaard,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,AM,90,0,0,0,0,2,0,52,1,0,3,0.2,0.2,0.1,4,1,34,45,75.6,9,32,3,4,3,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,AM,89,1,0,0,0,1,1,87,4,1,1,0.1,0.1,0.3,9,2,71,79,89.9,13,47,0,0,0,Martin-Odegaard,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,AM,90,0,0,0,0,0,0,63,3,1,0,0.0,0.0,0.3,8,0,45,58,77.6,11,45,2,2,1,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,AM,66,0,0,0,0,1,1,35,4,0,2,0.2,0.2,0.0,2,0,19,22,86.4,1,18,1,2,1,Martin-Odegaard,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,AM,85,0,0,0,0,1,0,48,0,0,0,0.1,0.1,0.2,6,0,45,46,97.8,12,38,3,0,0,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,"CM,AM",90,0,0,0,0,3,0,50,1,0,1,0.3,0.3,0.0,3,0,32,40,80.0,4,28,0,0,0,Martin-Odegaard,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,"DM,CM",90,1,0,0,0,4,1,53,2,0,2,0.1,0.1,0.0,2,0,33,43,76.7,3,29,1,1,1,Martin-Odegaard,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y*,"AM,CM",90,0,0,0,0,3,0,81,2,0,0,0.2,0.2,0.2,9,0,65,73,89.0,16,50,3,1,1,Martin-Odegaard,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y*,"AM,RM",90,0,1,0,0,0,0,42,3,0,1,0.0,0.0,0.3,3,1,31,34,91.2,7,26,2,1,0,Martin-Odegaard,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y*,AM,90,0,0,0,0,2,1,59,0,1,0,0.1,0.1,0.4,6,2,48,52,92.3,11,39,1,3,1,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y*,"AM,RM",89,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.2,4,0,37,42,88.1,3,27,3,1,0,Martin-Odegaard,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y*,AM,90,0,0,0,0,3,2,62,2,2,0,0.2,0.2,0.4,6,0,41,53,77.4,4,38,2,5,3,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y*,"RM,DM,CM",90,0,0,0,0,4,3,64,0,0,0,0.3,0.3,0.0,2,0,51,54,94.4,3,37,1,2,0,Martin-Odegaard,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y*,"AM,DM",90,0,0,0,0,1,0,37,2,0,1,0.1,0.1,0.1,5,0,26,31,83.9,6,18,2,4,2,Martin-Odegaard,0,2,0,0,1,2
+Home,Arsenal,Everton,Y*,AM,90,1,0,0,0,3,1,91,0,1,0,0.2,0.2,0.3,7,0,72,84,85.7,15,66,7,1,1,Martin-Odegaard,5,1,1,0,0,6
+Away,Arsenal,Crystal Palace,Y*,RM,89,0,0,0,0,2,0,51,2,0,0,0.1,0.1,0.0,0,0,29,41,70.7,4,27,1,1,0,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y*,"RM,AM",90,0,0,0,0,1,0,52,1,0,1,0.0,0.0,0.0,5,1,40,47,85.1,2,29,4,2,2,Martin-Odegaard,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y*,RM,73,2,0,0,0,3,2,67,0,0,0,0.6,0.6,0.0,3,0,45,57,78.9,7,40,1,1,1,Martin-Odegaard,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y*,"RM,AM",89,1,0,0,0,3,2,80,3,0,0,0.2,0.2,0.2,9,0,61,73,83.6,17,48,2,5,5,Martin-Odegaard,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y*,RM,80,0,0,0,0,3,1,64,1,0,1,0.4,0.4,0.3,5,0,41,52,78.8,7,35,3,1,1,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y*,RM,73,0,0,0,0,1,0,43,0,0,0,0.4,0.4,0.2,5,0,27,41,65.9,6,25,2,1,0,Martin-Odegaard,1,3,0,0,1,4
+Home,Arsenal,Tottenham,Y*,RM,79,0,0,0,0,3,1,47,0,1,0,0.1,0.1,0.0,4,0,33,42,78.6,8,32,1,1,1,Martin-Odegaard,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y*,RM,81,0,1,0,0,2,1,33,1,0,1,0.3,0.3,0.5,1,1,17,23,73.9,4,15,2,2,1,Martin-Odegaard,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y*,RM,72,0,1,0,0,4,2,46,0,0,0,0.2,0.2,0.2,4,1,32,40,80.0,4,29,1,3,2,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y*,RM,82,0,0,0,0,1,0,40,1,0,0,0.1,0.1,0.4,4,0,30,35,85.7,8,24,1,0,0,Martin-Odegaard,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y*,RM,90,1,0,0,0,3,1,65,1,1,0,0.2,0.2,0.6,8,1,38,53,71.7,5,31,5,2,0,Martin-Odegaard,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y*,RM,86,0,0,0,0,1,0,39,0,0,2,0.1,0.1,0.2,4,0,24,33,72.7,4,21,4,1,1,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y*,RM,90,2,0,0,0,3,2,63,2,0,1,1.5,1.5,0.0,2,0,44,55,80.0,3,36,2,2,2,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y*,RM,90,0,2,0,0,6,0,77,1,0,1,0.4,0.4,1.1,9,3,58,64,90.6,17,48,5,4,2,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y*,RM,86,1,1,0,0,1,1,42,1,0,0,0.1,0.1,0.8,6,2,29,36,80.6,7,27,2,4,1,Martin-Odegaard,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y*,RM,90,0,0,0,0,2,0,36,2,0,0,0.2,0.2,0.3,5,0,20,29,69.0,3,20,2,2,1,Martin-Odegaard,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y*,RM,89,1,0,0,0,3,2,53,0,0,1,0.1,0.1,0.2,5,0,37,45,82.2,8,35,3,2,1,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y*,RM,89,0,0,0,0,6,0,63,3,0,0,0.5,0.5,0.1,7,2,37,50,74.0,7,30,5,2,0,Martin-Odegaard,3,2,1,0,0,5
+Away,Arsenal,Everton,Y*,RM,76,0,0,0,0,1,0,35,0,1,0,0.1,0.1,0.1,3,0,28,31,90.3,6,22,2,3,1,Martin-Odegaard,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y*,RM,90,0,0,0,0,2,1,66,0,0,1,0.1,0.1,0.1,6,1,46,58,79.3,14,44,4,3,2,Martin-Odegaard,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y*,RM,90,0,0,0,0,2,0,53,0,0,1,0.1,0.1,0.0,2,0,38,47,80.9,7,34,0,1,0,Martin-Odegaard,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y*,RM,89,0,1,0,0,1,0,69,1,0,0,0.3,0.3,0.9,11,1,56,65,86.2,12,42,5,3,3,Martin-Odegaard,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,RM,83,0,0,0,0,3,0,52,0,0,0,0.1,0.1,0.2,4,0,35,44,79.5,7,33,1,2,2,Martin-Odegaard,1,0,1,0,0,1
+Home,Arsenal,Everton,Y*,RM,90,1,0,0,0,2,1,73,0,0,0,0.6,0.6,0.1,4,0,56,65,86.2,5,45,1,1,1,Martin-Odegaard,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y*,RM,90,0,0,0,0,11,3,100,3,1,0,0.6,0.6,0.1,8,0,64,83,77.1,17,76,3,4,2,Martin-Odegaard,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y*,RM,90,1,0,0,0,3,1,72,2,0,0,0.5,0.5,0.2,4,0,53,63,84.1,10,57,2,4,2,Martin-Odegaard,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y*,RM,90,0,0,0,0,3,1,71,1,0,1,0.2,0.2,0.1,6,0,48,57,84.2,7,43,2,4,2,Martin-Odegaard,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y*,RM,84,0,1,0,0,0,0,63,3,0,3,0.0,0.0,0.2,2,1,45,54,83.3,4,44,2,2,2,Martin-Odegaard,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y*,RM,79,0,0,0,0,1,1,40,1,0,0,0.1,0.1,0.0,0,0,24,29,82.8,2,21,0,3,0,Martin-Odegaard,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y*,RM,89,1,0,0,0,2,1,64,0,0,3,0.5,0.5,0.0,2,1,45,57,78.9,7,44,2,2,2,Martin-Odegaard,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y*,"RM,CM",90,1,0,0,0,4,1,79,1,1,0,0.3,0.3,0.1,7,1,57,68,83.8,12,44,3,6,2,Martin-Odegaard,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y*,RM,70,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.1,1,0,24,29,82.8,3,20,0,0,0,Martin-Odegaard,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y*,RM,90,2,0,0,0,3,3,61,1,1,1,0.4,0.4,0.1,2,0,42,52,80.8,9,35,2,2,1,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y*,RM,79,1,0,0,0,3,3,40,1,0,0,0.5,0.5,0.3,4,0,22,31,71.0,4,25,0,2,1,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y*,RM,76,0,0,0,0,2,0,36,0,0,1,0.1,0.1,0.1,3,0,21,29,72.4,7,19,1,1,0,Martin-Odegaard,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y*,RM,90,0,0,0,0,1,0,80,1,0,1,0.0,0.0,0.0,3,0,64,74,86.5,5,51,3,1,1,Martin-Odegaard,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y*,RM,74,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.4,5,1,39,52,75.0,7,33,4,3,3,Martin-Odegaard,5,0,1,0,0,5

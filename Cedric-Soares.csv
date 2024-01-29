@@ -1,0 +1,39 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Norwich City,N,RM,14,1,0,0,0,1,1,15,3,1,0,0.0,0.0,0.0,2,2,7,11,63.6,3,2,0,0,0,Cedric-Soares,4,0,1,0,0,4
+Away,Arsenal,Wolves,Y,RM,75,0,0,0,0,0,0,36,2,1,2,0.0,0.0,0.0,1,1,24,28,85.7,2,25,1,0,0,Cedric-Soares,2,0,1,0,0,2
+Away,Arsenal,Tottenham,N,RB,7,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,7,0,2,2,Cedric-Soares,1,2,0,0,1,3
+Home,Arsenal,Liverpool,Y,"RM,RB",75,0,0,0,0,0,0,37,2,1,1,0.0,0.0,0.0,0,0,14,24,58.3,0,13,0,0,0,Cedric-Soares,2,1,1,0,0,3
+Away,Arsenal,Aston Villa,Y,"RM,RB",78,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,2,0,41,57,71.9,5,37,5,0,0,Cedric-Soares,0,1,0,0,1,1
+Home,Arsenal,Southampton,N,RB,6,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Cedric-Soares,1,1,0,1,0,2
+Home,Arsenal,Newcastle Utd,Y,RB,90,0,1,0,0,0,0,86,0,0,0,0.0,0.0,0.7,4,1,66,82,80.5,11,46,1,1,1,Cedric-Soares,3,0,1,0,0,3
+Away,Arsenal,Southampton,Y,LB,90,0,0,0,0,1,0,77,3,1,2,0.0,0.0,0.1,4,1,40,63,63.5,4,25,3,1,1,Cedric-Soares,3,1,1,0,0,4
+Home,Arsenal,Manchester Utd,Y,LB,90,0,0,0,0,1,0,57,0,1,2,0.1,0.1,0.0,1,0,37,53,69.8,10,35,3,0,0,Cedric-Soares,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,LB,90,0,0,0,0,1,0,36,2,0,1,0.0,0.0,0.0,1,0,18,26,69.2,2,20,2,2,1,Cedric-Soares,1,2,0,0,1,3
+Away,Arsenal,Aston Villa,Y,LB,64,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.1,1,0,24,34,70.6,2,22,4,1,0,Cedric-Soares,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,"LB,LM",90,0,0,0,0,2,1,68,1,2,1,0.1,0.1,0.1,1,0,45,56,80.4,3,33,2,0,0,Cedric-Soares,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,RB,90,0,0,0,0,0,0,81,2,3,0,0.0,0.0,0.0,1,0,52,67,77.6,3,42,3,3,0,Cedric-Soares,3,1,1,0,0,4
+Home,Arsenal,Tottenham,Y,RB,90,0,0,0,0,1,0,66,2,1,0,0.1,0.1,0.0,1,0,43,57,75.4,7,31,2,1,0,Cedric-Soares,2,1,1,0,0,3
+Home,Arsenal,Liverpool,N,LB,46,0,0,0,0,1,1,34,0,0,0,0.0,0.0,0.0,1,0,24,31,77.4,4,20,1,2,2,Cedric-Soares,0,3,0,0,1,3
+Home,Arsenal,Chelsea,Y,RB,90,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.1,2,0,38,42,90.5,2,22,1,0,0,Cedric-Soares,0,2,0,0,1,2
+Away,Arsenal,Manchester City,Y,RB,90,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,12,21,57.1,1,12,0,1,0,Cedric-Soares,0,5,0,0,1,5
+Home,Arsenal,Norwich City,N,RB,9,0,0,0,0,1,0,8,0,0,1,0.0,0.0,0.1,1,0,5,5,100.0,1,2,0,0,0,Cedric-Soares,1,0,1,0,0,1
+Away,Arsenal,Leeds United,N,RB,28,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,8,1,0,0,Cedric-Soares,4,1,1,0,0,5
+Away,Arsenal,Wolves,Y,RB,90,0,0,0,0,0,0,59,4,0,0,0.0,0.0,0.0,1,0,41,53,77.4,4,33,1,0,0,Cedric-Soares,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,RB,90,0,0,0,0,1,0,97,0,2,1,0.0,0.0,0.1,4,0,70,92,76.1,14,54,1,0,0,Cedric-Soares,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,RB,75,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,2,0,43,48,89.6,7,36,1,0,0,Cedric-Soares,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,RB,90,0,0,0,0,1,0,94,4,5,3,0.0,0.0,0.1,1,0,60,77,77.9,5,50,1,0,0,Cedric-Soares,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,RB,90,0,0,0,0,1,0,68,0,0,2,0.1,0.1,0.0,1,0,51,61,83.6,3,35,0,1,0,Cedric-Soares,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,RB,90,0,0,0,0,1,0,82,2,0,0,0.0,0.0,0.0,0,0,57,74,77.0,4,43,2,1,1,Cedric-Soares,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,RB,90,0,0,0,0,0,0,80,4,0,0,0.0,0.0,0.1,3,1,61,73,83.6,5,45,1,0,0,Cedric-Soares,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,RB,65,0,0,0,0,0,0,63,4,3,0,0.0,0.0,0.0,2,0,40,52,76.9,4,29,0,2,2,Cedric-Soares,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,RB,90,0,0,0,0,1,0,85,4,1,1,0.1,0.1,0.3,7,1,54,77,70.1,7,45,2,0,0,Cedric-Soares,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,RB,59,0,0,0,0,1,0,71,1,0,2,0.0,0.0,0.1,2,0,50,64,78.1,3,43,2,1,1,Cedric-Soares,0,1,0,0,1,1
+Away,Arsenal,Chelsea,N,RB,16,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.2,3,1,12,16,75.0,0,7,1,0,0,Cedric-Soares,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,"RB,WB",89,0,0,0,0,0,0,76,0,1,1,0.0,0.0,0.0,0,0,54,68,79.4,4,42,0,2,2,Cedric-Soares,3,1,1,0,0,4
+Away,Arsenal,West Ham,N,RB,13,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Cedric-Soares,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,RB,90,0,0,0,0,1,0,116,5,0,1,0.1,0.1,0.0,3,0,81,105,77.1,11,56,1,2,1,Cedric-Soares,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,RB,90,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,2,0,38,47,80.9,0,27,0,1,0,Cedric-Soares,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,N,RB,52,0,0,0,0,1,0,33,3,0,1,0.0,0.0,0.0,1,0,24,30,80.0,2,16,0,0,0,Cedric-Soares,0,2,0,0,1,2
+Home,Arsenal,Everton,Y,RB,90,1,1,0,0,3,1,102,3,3,1,0.1,0.1,0.4,2,0,66,88,75.0,7,69,2,1,1,Cedric-Soares,5,1,1,0,0,6
+Home,Arsenal,Nott'ham Forest,N,"RB,LB",28,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,19,23,82.6,3,14,1,0,0,Cedric-Soares,5,0,1,0,0,5
+Away,Arsenal,Wolves,N,LB,1,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Cedric-Soares,2,0,1,0,0,2

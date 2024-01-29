@@ -1,0 +1,15 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Everton,N,CM,32,0,0,0,0,1,0,32,1,0,0,0.0,0.0,0.0,0,0,24,30,80.0,4,15,0,1,1,Jorginho,0,1,0,0,1,1
+Home,Arsenal,Manchester City,Y,CM,90,0,0,0,0,0,0,72,1,3,1,0.0,0.0,0.1,2,0,58,66,87.9,8,46,1,0,0,Jorginho,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,CM,90,0,0,0,0,1,0,86,3,0,0,0.1,0.1,0.1,5,1,71,81,87.7,15,54,2,1,0,Jorginho,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,CM,90,0,0,0,0,0,0,90,3,1,0,0.0,0.0,0.0,1,0,68,87,78.2,15,48,1,0,0,Jorginho,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,CM,45,0,0,0,0,1,0,46,0,0,1,0.0,0.0,0.0,0,0,33,40,82.5,6,35,3,0,0,Jorginho,4,0,1,0,0,4
+Home,Arsenal,Crystal Palace,N,"CM,RB",8,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,2,11,0,0,0,Jorginho,4,1,1,0,0,5
+Home,Arsenal,Leeds United,N,CM,31,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,0,0,27,31,87.1,3,22,0,2,0,Jorginho,4,1,1,0,0,5
+Away,Arsenal,West Ham,N,CM,24,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,5,23,1,2,1,Jorginho,2,2,0,1,0,4
+Away,Arsenal,Manchester City,N,LM,31,0,0,0,0,0,0,31,0,2,0,0.0,0.0,0.0,1,1,27,29,93.1,4,28,1,0,0,Jorginho,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,CM,85,0,0,0,0,0,0,74,0,0,2,0.0,0.0,0.0,3,0,62,69,89.9,5,51,0,1,0,Jorginho,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,CM,90,0,1,0,0,0,0,63,2,2,0,0.0,0.0,0.1,2,1,44,53,83.0,3,35,0,0,0,Jorginho,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,CM,59,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,0,0,25,29,86.2,3,22,0,1,0,Jorginho,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,CM,90,0,0,0,0,2,0,126,1,0,1,0.1,0.1,0.0,1,0,109,120,90.8,19,94,6,0,0,Jorginho,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,CM,90,0,0,0,0,1,0,72,4,0,1,0.0,0.0,0.0,6,2,54,61,88.5,7,39,0,2,1,Jorginho,5,0,1,0,0,5

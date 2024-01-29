@@ -1,0 +1,68 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Manchester City,N,AM,32,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,11,2,1,1,Emile-Smith-Rowe,0,3,0,0,1,3
+Away,Arsenal,Everton,Y,AM,65,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,18,23,78.3,2,21,2,2,1,Emile-Smith-Rowe,0,0,0,1,0,0
+Home,Arsenal,Chelsea,Y,AM,64,0,1,0,0,1,0,37,0,0,1,0.4,0.4,0.1,2,1,22,28,78.6,3,23,1,1,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,"AM,RW",88,0,0,0,0,0,0,48,1,0,2,0.0,0.0,0.1,5,0,34,39,87.2,3,33,4,3,2,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,West Brom,Y,AM,76,0,1,0,0,1,0,46,2,1,0,0.1,0.1,0.8,5,2,27,36,75.0,0,16,1,3,0,Emile-Smith-Rowe,4,0,1,0,0,4
+Home,Arsenal,Crystal Palace,Y,AM,90,0,0,0,0,1,0,57,1,1,0,0.0,0.0,0.0,0,0,37,48,77.1,6,30,1,3,1,Emile-Smith-Rowe,0,0,0,1,0,0
+Home,Arsenal,Newcastle Utd,Y,AM,81,0,1,0,0,0,0,59,0,0,1,0.0,0.0,0.2,6,1,48,56,85.7,6,30,4,1,1,Emile-Smith-Rowe,3,0,1,0,0,3
+Away,Arsenal,Southampton,Y,AM,71,0,0,0,0,1,0,37,2,2,0,0.0,0.0,0.0,0,0,25,29,86.2,2,15,2,3,1,Emile-Smith-Rowe,3,1,1,0,0,4
+Home,Arsenal,Manchester Utd,Y,AM,82,0,0,0,0,1,1,57,1,1,5,0.1,0.1,0.1,3,0,40,46,87.0,3,28,3,0,0,Emile-Smith-Rowe,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,"AM,DM",90,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.1,1,0,43,47,91.5,4,34,3,0,0,Emile-Smith-Rowe,1,2,0,0,1,3
+Away,Arsenal,Aston Villa,Y,"AM,DM,RW",90,0,0,0,0,1,0,72,1,0,1,0.1,0.1,0.1,5,0,56,60,93.3,7,45,6,3,2,Emile-Smith-Rowe,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,LW,61,0,1,0,0,1,0,33,0,1,2,0.1,0.1,0.7,4,3,22,25,88.0,0,14,0,0,0,Emile-Smith-Rowe,4,2,1,0,0,6
+Home,Arsenal,Manchester City,N,AM,18,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Emile-Smith-Rowe,0,1,0,0,1,1
+Away,Arsenal,Leicester City,Y,AM,41,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,0,13,0,1,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Home,Arsenal,Tottenham,Y,LW,76,0,0,0,0,1,0,56,1,1,1,0.0,0.0,0.5,5,0,37,41,90.2,4,34,5,4,2,Emile-Smith-Rowe,2,1,1,0,0,3
+Away,Arsenal,West Ham,N,DM,17,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,11,11,100.0,0,11,2,0,0,Emile-Smith-Rowe,3,3,0,1,0,6
+Home,Arsenal,Fulham,Y,AM,90,0,0,0,0,2,0,61,0,0,0,0.1,0.1,0.5,3,0,52,55,94.5,3,43,5,4,1,Emile-Smith-Rowe,1,1,0,1,0,2
+Home,Arsenal,Everton,Y,"AM,RW",90,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,42,47,89.4,7,36,2,2,0,Emile-Smith-Rowe,0,1,0,0,1,1
+Home,Arsenal,West Brom,Y,AM,62,1,0,0,0,2,2,47,0,0,0,0.4,0.4,0.0,0,0,35,42,83.3,5,41,2,0,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Chelsea,Y,AM,90,1,0,0,0,1,1,41,1,1,0,0.5,0.5,0.0,2,0,28,31,90.3,3,29,1,1,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,"AM,LW",90,0,0,0,0,0,0,52,1,0,1,0.0,0.0,0.0,0,0,38,47,80.9,5,44,5,0,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Home,Arsenal,Brighton,Y,LW,73,0,0,0,0,0,0,41,3,0,0,0.0,0.0,0.2,7,0,32,36,88.9,7,28,4,1,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Away,Arsenal,Brentford,Y,AM,90,0,0,0,0,2,1,57,0,0,0,0.1,0.1,0.1,4,0,49,51,96.1,13,44,6,3,2,Emile-Smith-Rowe,0,2,0,0,1,2
+Home,Arsenal,Chelsea,Y,AM,90,0,0,0,0,2,1,47,0,0,1,0.1,0.1,0.0,0,0,33,39,84.6,6,34,5,5,4,Emile-Smith-Rowe,0,2,0,0,1,2
+Away,Arsenal,Manchester City,Y,"CM,LM",90,0,0,0,0,0,0,26,1,2,1,0.0,0.0,0.0,0,0,11,15,73.3,1,12,2,2,1,Emile-Smith-Rowe,0,5,0,0,1,5
+Home,Arsenal,Norwich City,N,DM,29,0,0,0,0,1,1,15,0,0,0,0.3,0.3,0.1,4,0,12,13,92.3,4,9,4,0,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,CM,60,0,0,0,0,2,1,40,1,0,0,0.5,0.5,0.0,0,0,26,30,86.7,1,24,2,1,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,LW,87,1,1,0,0,1,1,32,0,0,0,0.2,0.2,0.2,4,2,23,26,88.5,3,28,2,2,2,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,"LW,AM",90,0,0,0,0,1,1,40,1,1,3,0.1,0.1,0.0,3,0,24,27,88.9,6,23,4,5,3,Emile-Smith-Rowe,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,"CM,LW",90,0,0,0,0,2,1,58,0,0,2,0.2,0.2,0.0,2,0,42,48,87.5,1,29,2,4,2,Emile-Smith-Rowe,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,Y,LW,90,1,1,0,0,2,1,65,1,2,0,0.2,0.2,0.2,8,1,47,57,82.5,9,48,7,3,3,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Leicester City,Y,LM,89,1,0,0,0,1,1,31,0,1,1,0.1,0.1,0.2,2,0,19,24,79.2,1,11,3,2,2,Emile-Smith-Rowe,2,0,1,0,0,2
+Home,Arsenal,Watford,Y,"LM,LW",85,1,0,0,0,2,1,39,1,0,2,0.2,0.2,0.0,0,0,22,29,75.9,1,24,2,2,2,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Liverpool,Y,LM,90,0,0,0,0,0,0,28,0,2,0,0.0,0.0,0.0,0,0,18,21,85.7,2,21,2,2,0,Emile-Smith-Rowe,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,LM,90,0,0,0,0,4,1,69,0,0,0,0.6,0.6,0.2,7,1,47,59,79.7,4,47,3,3,2,Emile-Smith-Rowe,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,LM,69,1,0,0,0,1,1,36,1,2,0,0.0,0.0,0.1,1,0,19,26,73.1,0,13,0,0,0,Emile-Smith-Rowe,2,3,0,0,1,5
+Home,Arsenal,West Ham,N,FW,25,1,0,0,0,2,2,20,0,0,0,0.1,0.1,0.0,1,0,13,17,76.5,1,10,1,0,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Away,Arsenal,Leeds United,N,"AM,LW",13,1,0,0,0,1,1,7,1,1,0,0.4,0.4,0.0,2,1,3,4,75.0,0,5,1,0,0,Emile-Smith-Rowe,4,1,1,0,0,5
+Away,Arsenal,Norwich City,N,LW,9,1,0,0,0,1,1,7,0,0,0,0.7,0.7,0.0,1,1,5,5,100.0,1,5,0,1,0,Emile-Smith-Rowe,5,0,1,0,0,5
+Home,Arsenal,Manchester City,N,"DM,LW",20,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Emile-Smith-Rowe,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,CM,76,0,0,0,0,2,1,48,0,0,0,0.3,0.3,0.3,4,0,37,45,82.2,5,31,3,1,0,Emile-Smith-Rowe,0,0,0,1,0,0
+Away,Arsenal,Wolves,N,"CM,AM",23,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,0,1,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,LW,74,1,0,0,0,2,1,57,1,1,1,0.1,0.1,0.0,1,0,35,47,74.5,5,37,7,2,2,Emile-Smith-Rowe,2,1,1,0,0,3
+Home,Arsenal,Leicester City,N,LW,13,0,0,0,0,1,1,7,0,0,1,0.1,0.1,0.0,1,0,4,4,100.0,0,3,0,0,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Home,Arsenal,Liverpool,N,AM,24,0,0,0,0,1,0,16,0,0,0,0.1,0.1,0.0,2,0,12,15,80.0,2,11,0,2,2,Emile-Smith-Rowe,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,"LW,LM",90,0,0,0,0,3,1,47,0,0,1,0.9,0.9,0.0,2,0,36,43,83.7,2,37,2,1,1,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,"CM,LW",90,0,0,0,0,1,1,65,0,1,0,0.2,0.2,0.2,6,0,49,57,86.0,10,44,0,2,0,Emile-Smith-Rowe,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,AM,61,0,0,0,0,1,0,27,1,0,1,0.1,0.1,0.1,0,0,13,20,65.0,0,12,0,1,0,Emile-Smith-Rowe,1,2,0,0,1,3
+Away,Arsenal,Southampton,N,CM,31,0,0,0,0,2,1,23,0,0,0,0.2,0.2,0.1,2,0,15,18,83.3,3,11,1,0,0,Emile-Smith-Rowe,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y,LW,74,1,0,0,0,2,1,28,1,0,2,0.2,0.2,0.1,4,0,15,19,78.9,0,19,3,2,2,Emile-Smith-Rowe,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,LW,63,0,0,0,0,0,0,27,1,1,1,0.0,0.0,0.0,2,0,18,20,90.0,2,15,2,1,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,West Ham,N,LW,4,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,1,2,1,Emile-Smith-Rowe,2,1,1,0,0,3
+Home,Arsenal,Leeds United,N,LW,13,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,8,9,88.9,0,6,0,1,1,Emile-Smith-Rowe,2,1,1,0,0,3
+Away,Arsenal,Tottenham,N,"LM,CM,LW",27,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,10,10,100.0,1,4,0,0,0,Emile-Smith-Rowe,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,LW,52,0,0,0,0,0,0,18,2,1,0,0.0,0.0,0.0,0,0,6,10,60.0,1,7,0,2,0,Emile-Smith-Rowe,0,2,0,0,1,2
+Home,Arsenal,Leicester City,N,LW,7,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.2,1,0,3,4,75.0,0,2,0,1,1,Emile-Smith-Rowe,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,N,AM,17,0,0,0,0,1,1,8,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,1,2,0,2,1,Emile-Smith-Rowe,3,0,1,0,0,3
+Home,Arsenal,Aston Villa,N,AM,10,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,6,0,0,0,Emile-Smith-Rowe,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,N,"CM,DM",17,0,0,0,0,1,0,7,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,1,0,0,0,Emile-Smith-Rowe,1,3,0,0,1,4
+Away,Arsenal,Tottenham,N,FW,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Home,Arsenal,Everton,N,LW,9,0,0,0,0,1,0,12,0,0,0,0.1,0.1,0.0,1,0,8,10,80.0,0,9,0,0,0,Emile-Smith-Rowe,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,N,LW,47,0,1,0,0,1,0,33,0,0,0,0.0,0.0,0.3,4,1,25,29,86.2,1,27,2,1,0,Emile-Smith-Rowe,3,2,1,0,0,5
+Home,Arsenal,Crystal Palace,N,LW,8,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,0,0,Emile-Smith-Rowe,4,1,1,0,0,5
+Home,Arsenal,Leeds United,N,RM,6,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Emile-Smith-Rowe,4,1,1,0,0,5
+Away,Arsenal,Manchester City,N,RM,20,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,0,0,Emile-Smith-Rowe,1,4,0,0,1,5
+Home,Arsenal,Brighton,N,RM,14,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,6,0,1,0,Emile-Smith-Rowe,0,3,0,0,1,3
+Home,Arsenal,Wolves,N,RM,16,0,1,0,0,0,0,7,0,0,1,0.0,0.0,0.1,0,0,4,4,100.0,1,4,0,0,0,Emile-Smith-Rowe,5,0,1,0,0,5
