@@ -1,0 +1,1586 @@
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Brighton,Chelsea,Y,CB,78,0,0,0,0,0,0,56,2,0,2,0.0,0.0,0.0,0,0,39,48,81.3,2,28,0,1,1,Ben-White,1,3,0,0,1,4
+Away,Brighton,Newcastle Utd,Y,"CB,RB",90,0,0,0,0,0,0,61,0,2,1,0.0,0.0,0.0,3,2,41,58,70.7,3,30,2,0,0,Ben-White,3,0,1,0,0,3
+Home,Brighton,Manchester Utd,Y,CB,90,0,0,0,0,0,0,73,2,2,1,0.0,0.0,0.1,2,0,60,66,90.9,7,55,2,1,1,Ben-White,2,3,0,0,1,5
+Away,Brighton,Everton,Y,CB,90,0,0,0,0,0,0,102,1,2,3,0.0,0.0,0.0,0,0,77,91,84.6,9,65,1,2,1,Ben-White,2,4,0,0,1,6
+Away,Brighton,Crystal Palace,Y,CM,90,0,0,0,0,1,0,77,4,2,1,0.0,0.0,0.0,4,1,52,66,78.8,11,36,1,1,1,Ben-White,1,1,0,1,0,2
+Home,Brighton,West Brom,Y,"CM,CB",90,0,0,0,0,0,0,51,4,3,1,0.0,0.0,0.0,0,0,33,36,91.7,2,22,1,0,0,Ben-White,1,1,0,1,0,2
+Away,Brighton,Tottenham,Y,"DM,CM",90,0,0,0,0,0,0,56,6,1,2,0.0,0.0,0.0,2,0,32,43,74.4,2,21,0,0,0,Ben-White,1,2,0,0,1,3
+Home,Brighton,Burnley,Y,CB,90,0,0,0,0,0,0,60,0,4,0,0.0,0.0,0.0,0,0,44,52,84.6,1,34,0,2,1,Ben-White,0,0,0,1,0,0
+Away,Brighton,Aston Villa,Y,"CM,CB",90,0,0,0,0,0,0,42,2,1,1,0.0,0.0,0.0,1,1,27,34,79.4,4,22,0,0,0,Ben-White,2,1,1,0,0,3
+Home,Brighton,Liverpool,Y,CB,90,0,0,0,0,0,0,52,2,4,1,0.0,0.0,0.1,1,0,33,43,76.7,3,30,1,0,0,Ben-White,1,1,0,1,0,2
+Home,Brighton,Southampton,Y,"CM,DM",80,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,13,20,65.0,2,12,0,2,1,Ben-White,1,2,0,0,1,3
+Away,Brighton,Leicester City,Y,CB,90,0,0,0,0,0,0,66,1,1,2,0.0,0.0,0.0,0,0,46,55,83.6,3,31,1,0,0,Ben-White,0,3,0,0,1,3
+Away,Brighton,Fulham,Y,CB,90,0,0,0,0,0,0,69,3,1,2,0.0,0.0,0.0,1,0,50,65,76.9,2,49,1,1,1,Ben-White,0,0,0,1,0,0
+Home,Brighton,Sheffield Utd,Y,"CB,RB",71,0,0,0,0,0,0,68,0,0,0,0.0,0.0,0.0,0,0,53,63,84.1,7,41,4,0,0,Ben-White,1,1,0,1,0,2
+Away,Brighton,West Ham,Y,WB,90,0,0,0,0,0,0,44,1,1,1,0.0,0.0,0.0,1,0,29,39,74.4,2,16,1,2,1,Ben-White,2,2,0,1,0,4
+Home,Brighton,Wolves,Y,CM,90,0,0,0,0,0,0,61,2,4,1,0.0,0.0,0.0,3,0,42,50,84.0,6,40,1,0,0,Ben-White,3,3,0,1,0,6
+Away,Brighton,Manchester City,Y,"DM,CM",90,0,0,0,0,0,0,44,1,2,1,0.0,0.0,0.0,1,0,37,41,90.2,3,31,1,0,0,Ben-White,0,1,0,0,1,1
+Away,Brighton,Leeds United,Y,CM,90,0,0,0,0,2,0,32,0,1,3,0.1,0.1,0.0,3,0,17,21,81.0,1,11,3,3,2,Ben-White,1,0,1,0,0,1
+Home,Brighton,Fulham,Y,CB,90,0,0,0,0,0,0,44,1,0,2,0.0,0.0,0.5,2,0,30,38,78.9,8,27,2,1,1,Ben-White,0,0,0,1,0,0
+Home,Brighton,Tottenham,Y,"CB,RB,WB",90,0,0,0,0,1,1,52,2,2,0,0.1,0.1,0.0,1,0,33,44,75.0,3,35,1,0,0,Ben-White,1,0,1,0,0,1
+Away,Brighton,Liverpool,Y,CB,90,0,0,0,0,1,0,49,0,3,1,0.0,0.0,0.0,0,0,28,41,68.3,1,21,2,0,0,Ben-White,1,0,1,0,0,1
+Away,Brighton,Burnley,Y,"CB,CM",90,0,0,0,0,0,0,37,1,1,2,0.0,0.0,0.0,0,0,22,30,73.3,1,20,2,0,0,Ben-White,1,1,0,1,0,2
+Home,Brighton,Aston Villa,Y,CB,90,0,0,0,0,0,0,68,0,1,1,0.0,0.0,0.0,1,0,51,62,82.3,5,36,0,1,1,Ben-White,0,0,0,1,0,0
+Home,Brighton,Crystal Palace,Y,CB,90,0,0,0,0,1,0,108,0,2,1,0.0,0.0,0.0,0,0,96,103,93.2,11,92,0,1,1,Ben-White,1,2,0,0,1,3
+Away,Brighton,West Brom,Y,CB,83,0,0,0,0,0,0,72,0,3,0,0.0,0.0,0.0,0,0,55,66,83.3,5,54,1,1,1,Ben-White,0,1,0,0,1,1
+Home,Brighton,Leicester City,Y,CB,90,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.0,0,0,21,27,77.8,4,18,0,3,2,Ben-White,1,2,0,0,1,3
+Away,Brighton,Southampton,Y,CB,90,0,0,0,0,0,0,31,1,1,0,0.0,0.0,0.0,0,0,15,24,62.5,1,11,1,1,0,Ben-White,2,1,1,0,0,3
+Home,Brighton,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,98,0,2,2,0.0,0.0,0.0,1,0,91,94,96.8,7,61,3,1,1,Ben-White,3,0,1,0,0,3
+Away,Brighton,Manchester Utd,Y,CB,90,0,0,0,0,1,0,50,2,2,0,0.0,0.0,0.0,0,0,32,42,76.2,1,19,1,2,2,Ben-White,1,2,0,0,1,3
+Home,Brighton,Everton,Y,CB,90,0,0,0,0,0,0,85,1,3,3,0.0,0.0,0.1,3,0,62,73,84.9,8,51,4,0,0,Ben-White,0,0,0,1,0,0
+Away,Brighton,Chelsea,Y,CB,89,0,0,0,0,0,0,48,2,1,2,0.0,0.0,0.0,0,0,28,37,75.7,1,17,2,0,0,Ben-White,0,0,0,1,0,0
+Home,Brighton,Leeds United,Y,CB,90,0,0,0,0,1,0,37,0,1,0,0.1,0.1,0.0,1,0,22,30,73.3,5,24,7,3,2,Ben-White,2,0,1,0,0,2
+Away,Brighton,Wolves,Y,"RB,CB",90,0,0,0,0,0,0,44,1,2,2,0.0,0.0,0.0,0,0,30,32,93.8,6,21,0,1,1,Ben-White,1,2,0,0,1,3
+Home,Brighton,West Ham,Y,CB,90,0,0,0,0,0,0,74,1,1,4,0.0,0.0,0.0,1,0,48,60,80.0,4,52,2,1,1,Ben-White,1,1,0,1,0,2
+Home,Brighton,Manchester City,Y,CB,90,0,0,0,0,2,0,84,2,3,1,0.1,0.1,0.0,0,0,64,70,91.4,5,58,2,1,1,Ben-White,3,2,1,0,0,5
+Away,Brighton,Arsenal,Y,RB,90,0,0,0,0,0,0,60,2,2,2,0.0,0.0,0.0,0,0,38,48,79.2,3,34,0,0,0,Ben-White,0,2,0,0,1,2
+Away,Arsenal,Brentford,Y,CB,90,0,0,0,0,0,0,71,1,1,0,0.0,0.0,0.0,1,0,56,62,90.3,6,44,0,0,0,Ben-White,0,2,0,0,1,2
+Home,Arsenal,Norwich City,Y,CB,90,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.1,3,0,32,42,76.2,2,26,0,0,0,Ben-White,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,CB,90,0,0,0,0,0,0,74,1,4,0,0.0,0.0,0.0,0,0,48,58,82.8,1,41,0,1,1,Ben-White,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,50,1,3,1,0.0,0.0,0.0,0,0,40,42,95.2,1,38,0,0,0,Ben-White,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,CB,90,0,0,0,0,0,0,42,0,2,2,0.0,0.0,0.0,1,0,23,31,74.2,1,24,2,1,1,Ben-White,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,CB,90,0,0,0,0,2,0,68,1,0,0,0.1,0.1,0.3,1,0,57,65,87.7,5,37,2,0,0,Ben-White,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,0,0,47,0,1,3,0.0,0.0,0.0,0,0,35,37,94.6,1,27,0,0,0,Ben-White,3,1,1,0,0,4
+Away,Arsenal,Leicester City,Y,CB,90,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.0,1,1,18,21,85.7,1,17,0,1,0,Ben-White,2,0,1,0,0,2
+Home,Arsenal,Watford,Y,CB,90,0,0,0,0,0,0,97,0,3,3,0.0,0.0,0.0,2,2,70,81,86.4,5,61,4,4,2,Ben-White,1,0,1,0,0,1
+Away,Arsenal,Liverpool,Y,CB,90,0,0,0,0,0,0,58,2,1,2,0.0,0.0,0.0,0,0,32,42,76.2,2,23,0,1,0,Ben-White,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,84,2,1,1,0.0,0.0,0.0,3,1,68,77,88.3,12,62,6,3,2,Ben-White,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,1,0,53,3,1,0,0.1,0.1,0.0,4,0,38,44,86.4,5,27,2,0,0,Ben-White,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,CB,90,0,0,0,0,0,0,74,0,2,3,0.0,0.0,0.0,0,0,56,66,84.8,5,46,2,2,1,Ben-White,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,CB,90,0,0,0,0,0,0,64,2,1,4,0.0,0.0,0.0,0,0,45,56,80.4,2,36,0,0,0,Ben-White,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,CB,90,0,0,0,0,0,0,64,2,1,0,0.0,0.0,0.0,1,0,50,57,87.7,2,43,0,0,0,Ben-White,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,CB,90,0,0,0,0,0,0,48,0,0,1,0.0,0.0,0.1,2,0,38,45,84.4,4,38,1,0,0,Ben-White,4,1,1,0,0,5
+Away,Arsenal,Norwich City,Y,RB,90,0,0,0,0,0,0,78,3,2,0,0.0,0.0,0.0,0,0,50,71,70.4,7,42,0,2,1,Ben-White,5,0,1,0,0,5
+Home,Arsenal,Manchester City,Y,CB,90,0,0,0,0,0,0,39,3,0,2,0.0,0.0,0.0,0,0,19,29,65.5,3,19,0,1,1,Ben-White,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,RB,90,0,0,0,0,1,0,107,2,3,0,0.0,0.0,0.0,2,0,85,97,87.6,6,74,4,0,0,Ben-White,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,CB,90,0,0,0,0,1,0,42,2,1,2,0.2,0.2,0.3,2,0,23,30,76.7,1,20,0,0,0,Ben-White,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,CB,90,0,0,0,0,2,1,55,0,1,1,0.1,0.1,0.3,1,0,40,48,83.3,2,37,0,0,0,Ben-White,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,CB,90,0,0,0,0,1,0,83,0,1,2,0.1,0.1,0.1,2,0,60,72,83.3,10,59,2,1,0,Ben-White,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,CB,90,0,0,0,0,2,1,77,0,1,2,0.2,0.2,0.0,0,0,57,65,87.7,3,45,1,0,0,Ben-White,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,CB,90,0,0,0,0,2,1,90,2,3,0,0.3,0.3,0.0,2,0,70,78,89.7,4,51,2,0,0,Ben-White,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,CB,90,0,0,0,0,0,0,84,1,2,0,0.0,0.0,0.0,0,0,66,73,90.4,2,52,0,1,1,Ben-White,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,0,0,73,2,3,1,0.0,0.0,0.0,0,0,51,61,83.6,2,45,0,0,0,Ben-White,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,CB,90,0,0,0,0,0,0,97,0,0,0,0.0,0.0,0.0,0,0,86,95,90.5,6,72,1,1,0,Ben-White,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,CB,90,0,0,0,0,0,0,93,1,2,1,0.0,0.0,0.0,2,0,71,85,83.5,10,62,4,0,0,Ben-White,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,CB,90,0,0,0,0,0,0,88,4,1,1,0.0,0.0,0.0,1,0,69,79,87.3,6,52,2,0,0,Ben-White,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y,"RB,CB",90,0,0,0,0,0,0,45,3,1,4,0.0,0.0,0.0,1,0,21,32,65.6,1,13,2,1,0,Ben-White,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,0,0,72,2,0,1,0.0,0.0,0.0,0,0,54,62,87.1,3,41,0,0,0,Ben-White,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,49,1,0,4,0.0,0.0,0.0,1,0,26,36,72.2,3,21,1,0,0,Ben-White,0,2,0,0,1,2
+Away,Arsenal,Crystal Palace,Y,RB,90,0,0,0,0,0,0,63,8,1,4,0.0,0.0,0.1,1,0,31,41,75.6,6,24,2,2,1,Ben-White,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,RB,74,0,0,0,0,0,0,48,0,1,1,0.0,0.0,0.0,1,1,33,43,76.7,3,23,1,1,0,Ben-White,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,RB,74,0,0,0,0,0,0,83,1,2,6,0.0,0.0,0.0,1,1,60,68,88.2,6,57,1,1,0,Ben-White,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,"RB,CB",90,0,0,0,0,0,0,78,2,0,4,0.0,0.0,0.0,2,0,61,69,88.4,9,44,0,1,0,Ben-White,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y,RB,64,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.4,2,0,58,63,92.1,8,51,3,0,0,Ben-White,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,RB,79,0,0,0,0,0,0,51,3,0,0,0.0,0.0,0.0,3,0,36,47,76.6,4,15,4,0,0,Ben-White,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,RB,85,0,0,0,0,0,0,88,0,2,0,0.0,0.0,0.0,3,1,66,80,82.5,11,58,3,0,0,Ben-White,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,RB,88,0,1,0,0,1,0,77,3,0,0,0.0,0.0,0.2,4,1,61,70,87.1,8,48,1,0,0,Ben-White,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,RB,90,0,0,0,0,0,0,45,2,0,1,0.0,0.0,0.0,0,0,19,39,48.7,4,18,1,1,1,Ben-White,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,RB,75,0,0,0,0,0,0,65,5,2,4,0.0,0.0,0.0,0,0,38,49,77.6,3,27,2,2,0,Ben-White,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,RB,71,0,1,0,0,0,0,65,1,0,1,0.0,0.0,0.1,3,2,52,55,94.5,11,34,1,0,0,Ben-White,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,"RB,CB",90,0,0,0,0,1,0,79,1,0,1,0.1,0.1,0.0,0,0,67,73,91.8,8,49,1,0,0,Ben-White,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,RB,90,0,0,0,0,2,0,66,1,1,1,0.1,0.1,0.1,1,0,44,57,77.2,7,35,5,1,1,Ben-White,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,RB,90,0,0,0,0,1,0,116,1,0,0,0.1,0.1,0.1,3,0,100,112,89.3,13,79,3,1,0,Ben-White,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y,RB,90,0,0,0,0,0,0,84,1,1,0,0.0,0.0,0.0,4,1,69,76,90.8,11,56,3,3,1,Ben-White,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,RB,59,0,0,0,0,0,0,17,2,1,0,0.0,0.0,0.0,0,0,9,12,75.0,1,7,0,1,1,Ben-White,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,RB,75,0,0,0,0,0,0,51,5,1,1,0.0,0.0,0.0,2,0,30,37,81.1,5,16,0,0,0,Ben-White,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,RB,90,0,0,0,0,0,0,70,1,0,3,0.0,0.0,0.0,3,0,49,57,86.0,13,36,2,1,0,Ben-White,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,RB,45,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.0,1,0,18,25,72.0,2,11,1,1,0,Ben-White,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,RB,84,0,0,0,0,0,0,76,1,0,0,0.0,0.0,0.0,1,0,61,73,83.6,6,43,3,0,0,Ben-White,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,RB,90,0,0,0,0,0,0,85,1,0,0,0.0,0.0,0.1,6,0,63,80,78.8,13,56,3,1,0,Ben-White,1,1,0,1,0,2
+Home,Arsenal,Manchester City,N,RB,8,0,0,0,0,1,0,12,0,0,2,0.0,0.0,0.0,0,0,5,9,55.6,0,8,0,1,1,Ben-White,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,RB,78,0,0,0,0,0,0,85,2,0,0,0.0,0.0,0.2,2,0,59,77,76.6,5,43,3,4,0,Ben-White,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,RB,90,0,0,0,0,0,0,91,2,0,2,0.0,0.0,0.0,2,0,68,81,84.0,9,41,1,0,0,Ben-White,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,RB,90,0,0,0,0,0,0,105,0,1,1,0.0,0.0,0.2,2,1,88,100,88.0,5,68,2,0,0,Ben-White,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,N,RB,45,1,0,0,0,1,1,45,0,0,0,0.1,0.1,0.1,4,1,35,42,83.3,9,34,3,0,0,Ben-White,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,RB,79,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.3,1,0,51,58,87.9,4,48,0,0,0,Ben-White,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,RB,82,0,1,0,0,0,0,65,1,3,0,0.0,0.0,0.1,4,2,45,56,80.4,6,36,2,1,0,Ben-White,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,RB,90,1,0,0,0,1,1,74,3,0,1,0.8,0.8,0.0,0,0,50,61,82.0,6,52,1,2,0,Ben-White,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,RB,90,0,0,0,0,0,0,44,1,2,3,0.0,0.0,0.0,0,0,25,33,75.8,0,16,0,0,0,Ben-White,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y,RB,90,0,1,0,0,0,0,68,1,0,1,0.0,0.0,0.8,1,1,53,62,85.5,7,36,0,2,2,Ben-White,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,"RB,CB",90,0,1,0,0,2,0,96,2,1,1,0.1,0.1,0.0,2,1,76,90,84.4,14,53,3,1,0,Ben-White,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,RB,90,0,0,0,0,0,0,59,1,1,2,0.0,0.0,0.0,0,0,45,52,86.5,2,34,0,0,0,Ben-White,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,RB,90,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.1,2,0,49,59,83.1,9,38,0,0,0,Ben-White,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,49,0,1,5,0.0,0.0,0.0,0,0,31,38,81.6,4,17,1,1,0,Ben-White,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,RB,90,0,0,0,0,0,0,48,4,0,2,0.0,0.0,0.0,0,0,35,42,83.3,3,20,1,0,0,Ben-White,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,CB,90,0,0,0,0,0,0,117,1,0,0,0.0,0.0,0.1,2,0,106,113,93.8,13,86,6,0,0,Ben-White,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,CB,90,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,0,42,43,97.7,1,31,1,0,0,Ben-White,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Fulham,N,LW,8,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bukayo-Saka,4,1,1,0,0,5
+Home,Arsenal,Aston Villa,Y,LW,45,0,0,0,0,1,0,22,1,0,1,0.0,0.0,0.3,1,0,12,16,75.0,1,16,2,1,1,Bukayo-Saka,3,2,1,0,0,5
+Away,Arsenal,Manchester Utd,Y,LW,79,0,1,0,0,2,1,42,4,0,2,0.4,0.4,0.5,4,1,21,26,80.8,3,21,4,5,2,Bukayo-Saka,1,1,0,1,0,2
+Home,Arsenal,Bournemouth,Y,"LW,RW",82,0,0,0,0,1,0,40,3,0,2,0.1,0.1,0.1,7,0,17,24,70.8,4,24,3,5,3,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Sheffield Utd,Y,"LW,AM",90,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.1,3,0,17,28,60.7,2,22,6,5,5,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,Crystal Palace,N,LM,30,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,6,0,0,0,Bukayo-Saka,2,2,0,1,0,4
+Home,Arsenal,Wolves,N,LW,18,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,0,0,8,12,66.7,3,8,0,0,0,Bukayo-Saka,1,1,0,1,0,2
+Away,Arsenal,Norwich City,N,LW,13,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,2,0,5,8,62.5,0,7,3,2,1,Bukayo-Saka,2,2,0,1,0,4
+Home,Arsenal,Manchester City,N,LB,51,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,25,33,75.8,3,29,3,0,0,Bukayo-Saka,0,3,0,0,1,3
+Away,Arsenal,Everton,Y,LB,90,0,0,0,0,0,0,64,4,1,1,0.0,0.0,0.0,0,0,43,56,76.8,7,33,1,0,0,Bukayo-Saka,0,0,0,1,0,0
+Away,Arsenal,Bournemouth,Y,LB,90,0,0,0,0,0,0,62,2,2,0,0.0,0.0,0.0,0,0,40,55,72.7,2,29,5,0,0,Bukayo-Saka,1,1,0,1,0,2
+Home,Arsenal,Chelsea,Y,LB,90,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.1,2,0,33,45,73.3,5,21,1,1,0,Bukayo-Saka,1,2,0,0,1,3
+Home,Arsenal,Manchester Utd,N,LB,22,0,0,0,0,1,1,17,1,1,0,0.1,0.1,0.0,1,0,11,13,84.6,1,5,2,0,0,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,Sheffield Utd,Y,LB,90,0,0,0,0,0,0,94,2,1,1,0.0,0.0,0.0,3,0,63,84,75.0,6,56,10,2,1,Bukayo-Saka,1,1,0,1,0,2
+Away,Arsenal,Chelsea,Y,LB,90,0,0,0,0,0,0,72,5,0,1,0.0,0.0,0.0,1,1,46,56,82.1,1,28,2,2,2,Bukayo-Saka,2,2,0,1,0,4
+Away,Arsenal,Burnley,Y,LB,45,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,15,0,1,1,Bukayo-Saka,0,0,0,1,0,0
+Home,Arsenal,Newcastle Utd,Y,LB,90,0,1,0,0,2,0,67,1,1,0,0.1,0.1,0.4,4,2,42,53,79.2,3,45,6,10,6,Bukayo-Saka,4,0,1,0,0,4
+Home,Arsenal,Everton,N,LB,73,0,1,0,0,0,0,62,1,0,0,0.0,0.0,0.6,2,1,46,50,92.0,5,35,0,4,1,Bukayo-Saka,3,2,1,0,0,5
+Home,Arsenal,West Ham,Y,LB,90,0,0,0,0,0,0,63,1,0,0,0.0,0.0,0.4,5,0,47,58,81.0,5,37,3,4,3,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Manchester City,Y,"AM,LB",90,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.1,1,0,23,29,79.3,4,22,3,1,0,Bukayo-Saka,0,3,0,0,1,3
+Away,Arsenal,Brighton,Y,LM,86,0,1,0,0,2,0,41,0,0,0,0.1,0.1,0.0,4,1,25,31,80.6,3,31,3,5,3,Bukayo-Saka,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,LM,90,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.1,3,0,28,37,75.7,2,28,3,3,2,Bukayo-Saka,2,0,1,0,0,2
+Away,Arsenal,Wolves,Y,RW,75,1,0,0,0,1,1,29,3,0,0,0.1,0.1,0.0,0,0,10,20,50.0,1,16,2,0,0,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,RW,70,0,1,0,0,1,1,30,0,1,1,0.1,0.1,0.5,4,1,14,20,70.0,3,21,1,4,1,Bukayo-Saka,1,1,0,1,0,2
+Away,Arsenal,Tottenham,N,"RW,LB",21,0,0,0,0,1,0,15,1,0,1,0.0,0.0,0.0,0,0,8,11,72.7,0,6,1,0,0,Bukayo-Saka,1,2,0,0,1,3
+Home,Arsenal,Liverpool,Y,"LM,LB",84,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,14,21,66.7,1,19,1,0,0,Bukayo-Saka,2,1,1,0,0,3
+Away,Arsenal,Aston Villa,Y,LM,59,0,0,0,0,1,0,39,0,2,0,0.1,0.1,0.1,1,0,28,34,82.4,1,22,2,0,0,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,West Ham,Y,LM,88,0,0,0,0,2,0,61,0,0,0,0.1,0.1,0.1,3,2,34,46,73.9,4,32,3,3,2,Bukayo-Saka,2,1,1,0,0,3
+Home,Arsenal,Sheffield Utd,Y,LM,86,1,0,0,0,2,1,45,2,0,1,0.4,0.4,0.0,0,0,29,35,82.9,3,33,1,3,2,Bukayo-Saka,2,1,1,0,0,3
+Away,Arsenal,Manchester City,Y,LM,90,0,0,0,0,2,2,54,2,0,1,0.5,0.5,0.0,7,0,32,41,78.0,2,30,5,5,4,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,Leicester City,Y,LW,64,0,0,0,0,4,2,41,1,0,0,0.2,0.2,0.1,3,0,20,31,64.5,1,23,0,1,0,Bukayo-Saka,0,1,0,0,1,1
+Away,Arsenal,Manchester Utd,Y,LM,90,0,0,0,0,2,0,56,1,4,0,0.1,0.1,0.0,1,0,30,41,73.2,4,40,4,5,1,Bukayo-Saka,1,0,1,0,0,1
+Home,Arsenal,Aston Villa,Y,LM,90,0,0,0,0,0,0,43,1,0,2,0.0,0.0,0.0,2,0,26,36,72.2,6,33,4,0,0,Bukayo-Saka,0,3,0,0,1,3
+Away,Arsenal,Leeds United,N,LW,33,0,0,0,0,1,1,18,1,1,0,0.4,0.4,0.1,3,0,8,12,66.7,3,9,3,1,1,Bukayo-Saka,0,0,0,1,0,0
+Home,Arsenal,Wolves,Y,"LW,LM",90,0,0,0,0,1,0,56,0,1,1,0.4,0.4,0.3,3,0,29,45,64.4,6,33,3,3,2,Bukayo-Saka,1,2,0,0,1,3
+Away,Arsenal,Tottenham,Y,"LW,RB",90,0,0,0,0,2,0,57,0,0,0,0.1,0.1,0.1,2,0,32,45,71.1,4,36,2,4,2,Bukayo-Saka,0,2,0,0,1,2
+Home,Arsenal,Burnley,Y,"LW,LM,RM",90,0,0,0,0,4,1,53,0,0,0,0.5,0.5,0.1,6,0,25,38,65.8,7,29,6,5,2,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,Southampton,Y,LM,90,0,0,0,0,1,1,45,0,2,0,0.0,0.0,0.0,6,1,20,32,62.5,2,25,4,4,2,Bukayo-Saka,1,1,0,1,0,2
+Away,Arsenal,Everton,Y,LM,90,0,0,0,0,4,0,46,0,1,0,0.2,0.2,0.0,3,0,30,36,83.3,3,30,1,2,1,Bukayo-Saka,1,2,0,0,1,3
+Home,Arsenal,Chelsea,Y,"RW,RM",90,1,0,0,0,2,1,40,1,1,2,0.1,0.1,0.0,6,1,21,32,65.6,4,19,3,2,2,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,RW,80,0,1,0,0,2,0,49,2,0,1,0.2,0.2,0.6,5,1,25,36,69.4,3,26,3,3,2,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,West Brom,Y,RW,70,1,0,0,0,4,2,48,1,1,2,0.9,0.9,0.1,2,0,21,34,61.8,3,22,3,1,1,Bukayo-Saka,4,0,1,0,0,4
+Home,Arsenal,Crystal Palace,Y,"RW,LB",90,0,0,0,0,2,2,65,1,1,3,0.1,0.1,0.1,3,0,36,48,75.0,1,29,0,3,1,Bukayo-Saka,0,0,0,1,0,0
+Home,Arsenal,Newcastle Utd,Y,RW,90,1,0,0,0,4,2,56,0,3,2,0.3,0.3,0.4,10,1,36,43,83.7,5,35,3,3,1,Bukayo-Saka,3,0,1,0,0,3
+Away,Arsenal,Southampton,Y,RW,90,1,1,0,0,2,1,35,0,0,0,0.5,0.5,0.9,3,2,16,26,61.5,2,22,4,4,2,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,Wolves,Y,RW,90,0,0,0,0,3,1,44,2,2,1,0.5,0.5,0.0,0,0,21,31,67.7,1,21,1,1,1,Bukayo-Saka,1,2,0,0,1,3
+Away,Arsenal,Aston Villa,Y,"RW,LB",90,0,0,0,0,1,0,84,2,2,0,0.1,0.1,0.2,6,0,56,72,77.8,5,52,4,4,0,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,RW,90,0,0,0,0,1,0,43,1,0,0,0.0,0.0,0.0,4,1,24,31,77.4,1,23,3,7,3,Bukayo-Saka,4,2,1,0,0,6
+Home,Arsenal,Manchester City,Y,"LW,RW",90,0,0,0,0,3,0,46,1,0,0,0.2,0.2,0.0,2,0,29,36,80.6,6,30,4,3,3,Bukayo-Saka,0,1,0,0,1,1
+Away,Arsenal,Burnley,Y,"RW,LW",90,0,0,0,0,4,0,51,2,2,1,0.8,0.8,0.3,6,0,31,36,86.1,5,30,3,1,1,Bukayo-Saka,1,1,0,1,0,2
+Home,Arsenal,Tottenham,Y,RW,45,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.2,2,0,13,17,76.5,0,15,0,0,0,Bukayo-Saka,2,1,1,0,0,3
+Away,Arsenal,West Ham,Y,"RW,LW",73,0,0,0,0,2,1,38,0,1,0,0.2,0.2,0.0,1,0,27,32,84.4,4,34,3,2,1,Bukayo-Saka,3,3,0,1,0,6
+Away,Arsenal,Sheffield Utd,Y,AM,68,0,0,0,0,1,0,48,1,0,1,0.1,0.1,0.1,4,1,30,36,83.3,4,34,3,3,1,Bukayo-Saka,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,"RW,RB",90,0,0,0,0,2,0,61,0,0,0,0.0,0.0,0.2,6,0,43,55,78.2,3,39,4,6,4,Bukayo-Saka,1,1,0,1,0,2
+Home,Arsenal,Everton,Y,"RW,RB,LW",90,0,0,0,0,2,1,64,0,0,1,0.1,0.1,0.1,5,0,36,49,73.5,2,32,4,3,1,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,West Brom,Y,"LB,LW",90,0,1,0,0,1,1,57,1,2,0,0.1,0.1,0.4,2,1,36,50,72.0,5,42,2,2,2,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,Chelsea,Y,WB,65,0,0,0,0,0,0,28,1,1,2,0.0,0.0,0.0,0,0,12,18,66.7,0,17,1,0,0,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,LW,64,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,2,1,24,34,70.6,2,26,1,3,1,Bukayo-Saka,3,1,1,0,0,4
+Home,Arsenal,Brighton,N,LW,17,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Bukayo-Saka,2,0,1,0,0,2
+Away,Arsenal,Brentford,N,LW,32,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,2,0,16,22,72.7,4,21,4,4,3,Bukayo-Saka,0,2,0,0,1,2
+Home,Arsenal,Chelsea,Y,LW,60,0,0,0,0,1,1,37,2,0,0,0.0,0.0,0.0,2,0,23,30,76.7,3,22,2,0,0,Bukayo-Saka,0,2,0,0,1,2
+Away,Arsenal,Manchester City,Y,RM,45,0,0,0,0,1,0,13,0,1,0,0.2,0.2,0.0,0,0,5,7,71.4,2,9,0,0,0,Bukayo-Saka,0,5,0,0,1,5
+Home,Arsenal,Norwich City,Y,LW,90,0,0,0,0,6,0,44,2,0,0,0.4,0.4,0.5,8,0,27,33,81.8,8,34,7,1,0,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,"LM,LW",90,0,0,0,0,1,0,50,2,2,1,0.0,0.0,0.0,3,1,27,34,79.4,5,34,7,1,0,Bukayo-Saka,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,RW,86,1,1,0,0,2,2,51,3,1,0,0.4,0.4,0.2,4,1,30,37,81.1,4,36,4,3,0,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,RW,89,0,0,0,0,1,1,51,0,1,0,0.1,0.1,0.1,4,0,32,41,78.0,2,34,4,4,2,Bukayo-Saka,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,LM,45,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,2,0,12,16,75.0,1,13,3,0,0,Bukayo-Saka,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,Y,RW,90,0,0,0,0,4,1,53,0,1,1,0.7,0.7,0.3,6,0,26,41,63.4,3,35,5,3,0,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,Leicester City,Y,RM,84,0,1,0,0,2,0,41,0,1,1,0.1,0.1,0.2,4,1,21,32,65.6,2,25,4,1,1,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,Watford,Y,"RM,RW",89,0,0,0,0,0,0,46,2,0,1,0.0,0.0,0.2,6,0,26,36,72.2,4,28,6,5,3,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Liverpool,Y,RM,90,0,0,0,0,2,0,40,0,0,1,0.2,0.2,0.0,1,0,22,27,81.5,1,24,5,1,1,Bukayo-Saka,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,RM,63,1,0,0,0,3,2,43,0,0,0,0.7,0.7,0.4,4,0,27,38,71.1,3,36,3,3,2,Bukayo-Saka,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,N,LM,21,0,0,0,0,1,0,17,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,1,13,0,1,1,Bukayo-Saka,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,RW,90,0,0,0,0,1,1,44,4,0,0,0.0,0.0,0.3,5,0,32,34,94.1,2,27,5,2,2,Bukayo-Saka,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,RM,90,0,1,0,0,3,1,44,0,0,0,0.5,0.5,0.5,5,1,23,34,67.6,1,36,3,1,0,Bukayo-Saka,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,RM,90,0,1,0,0,3,0,63,2,0,1,0.4,0.4,0.5,8,1,35,47,74.5,2,43,12,8,3,Bukayo-Saka,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,RW,77,1,0,0,0,7,2,38,0,0,2,1.3,1.3,0.1,6,1,16,25,64.0,2,24,1,3,1,Bukayo-Saka,4,1,1,0,0,5
+Away,Arsenal,Norwich City,Y,RW,77,2,0,0,0,3,2,51,1,0,2,0.2,0.2,0.4,3,0,29,39,74.4,2,30,1,1,1,Bukayo-Saka,5,0,1,0,0,5
+Home,Arsenal,Manchester City,Y,RW,83,1,0,0,0,1,1,33,0,0,0,0.1,0.1,0.0,2,0,13,24,54.2,1,21,1,2,0,Bukayo-Saka,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,RM,90,0,0,0,0,4,1,59,1,0,1,0.1,0.1,0.1,7,0,32,39,82.1,5,41,7,11,5,Bukayo-Saka,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,RW,70,0,0,0,0,1,0,29,0,0,1,0.0,0.0,0.3,2,0,17,22,77.3,2,17,2,3,2,Bukayo-Saka,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,"RW,LW",90,1,0,0,0,6,3,61,2,0,0,0.3,0.3,0.1,5,1,37,49,75.5,3,31,4,0,0,Bukayo-Saka,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,"RW,WB",90,0,0,0,0,5,1,37,0,0,1,0.4,0.4,0.7,7,0,19,30,63.3,1,27,6,3,2,Bukayo-Saka,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,"RW,LW,RM",90,1,1,0,0,1,1,62,2,2,2,0.1,0.1,0.1,3,2,37,50,74.0,6,36,6,2,1,Bukayo-Saka,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,RW,84,0,0,0,0,5,1,52,4,2,1,0.3,0.3,0.1,4,0,20,27,74.1,2,34,4,6,0,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,RW,73,0,0,0,0,1,1,29,0,0,1,0.0,0.0,0.0,2,0,15,21,71.4,1,23,1,1,0,Bukayo-Saka,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,RW,68,1,0,0,0,3,1,45,1,1,1,0.1,0.1,0.8,4,0,21,31,67.7,3,26,6,2,0,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,"RW,LW,RM",90,0,0,0,0,1,0,47,4,1,0,0.0,0.0,0.1,2,0,26,32,81.3,1,27,2,3,1,Bukayo-Saka,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,"RW,LM,RM",90,0,0,0,0,3,0,55,0,1,3,0.2,0.2,0.6,9,0,29,38,76.3,6,36,1,3,2,Bukayo-Saka,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,"LW,RW",90,0,0,0,0,4,2,61,0,2,1,0.6,0.6,0.2,7,0,37,46,80.4,5,39,2,5,2,Bukayo-Saka,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y,"RW,LM",89,1,0,1,1,2,0,47,1,4,1,0.9,0.1,0.1,5,2,20,29,69.0,3,18,5,3,1,Bukayo-Saka,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,RW,73,1,0,1,1,4,1,39,2,0,1,1.0,0.2,0.0,4,2,23,29,79.3,2,26,2,0,0,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y,RW,86,0,1,0,0,2,1,35,2,1,2,0.1,0.1,0.2,3,2,19,24,79.2,0,16,5,2,1,Bukayo-Saka,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,RW,67,0,0,0,0,2,1,44,2,0,0,0.1,0.1,0.0,4,0,19,26,73.1,0,27,2,7,3,Bukayo-Saka,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,"RW,RM,LB",90,0,0,0,0,2,0,37,0,1,1,0.1,0.1,0.0,4,0,17,26,65.4,4,18,2,3,2,Bukayo-Saka,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,"RW,CM",90,0,0,0,0,4,1,30,0,0,0,0.2,0.2,0.1,3,0,15,21,71.4,2,17,4,0,0,Bukayo-Saka,0,2,0,0,1,2
+Home,Arsenal,Everton,Y,RW,77,0,1,0,0,3,0,54,1,0,0,0.4,0.4,0.1,8,3,36,44,81.8,2,29,2,4,1,Bukayo-Saka,5,1,1,0,0,6
+Away,Arsenal,Crystal Palace,Y,RW,90,0,0,0,0,3,0,48,2,0,3,0.3,0.3,0.0,3,1,25,35,71.4,1,31,5,3,1,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,RW,83,0,0,0,0,1,1,41,1,0,1,0.0,0.0,0.3,5,1,28,34,82.4,1,25,3,1,0,Bukayo-Saka,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,RW,87,0,0,0,0,1,0,55,1,3,0,0.0,0.0,0.2,3,1,36,41,87.8,2,41,6,7,2,Bukayo-Saka,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,"RW,WB,RM",90,0,1,0,0,2,1,62,0,1,3,0.5,0.5,0.2,3,1,39,49,79.6,6,39,6,12,3,Bukayo-Saka,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y,RW,87,0,1,0,0,3,0,46,0,0,0,0.5,0.5,0.3,5,1,28,34,82.4,2,31,3,5,5,Bukayo-Saka,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,"RW,RM",90,1,0,0,0,4,1,46,2,0,0,0.4,0.4,0.0,3,0,24,34,70.6,3,23,4,2,1,Bukayo-Saka,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,RW,89,0,2,0,0,3,1,56,2,1,0,0.2,0.2,0.3,4,2,42,47,89.4,3,39,1,1,0,Bukayo-Saka,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,RW,90,0,0,0,0,3,1,51,1,0,1,0.3,0.3,0.3,9,2,33,41,80.5,2,40,4,3,1,Bukayo-Saka,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,"RW,RM",89,2,0,1,1,3,2,37,1,1,2,1.9,1.3,0.0,4,1,18,24,75.0,1,18,4,3,1,Bukayo-Saka,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,RW,81,1,0,0,0,1,1,37,1,0,1,0.1,0.1,0.1,2,1,16,27,59.3,0,21,4,3,1,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,RW,90,0,0,0,0,2,0,43,2,2,1,0.1,0.1,0.0,2,0,23,33,69.7,1,26,1,3,1,Bukayo-Saka,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,RW,26,0,1,0,0,1,0,22,0,0,1,0.2,0.2,0.2,5,1,15,20,75.0,2,13,3,0,0,Bukayo-Saka,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,RW,90,0,1,0,0,1,0,53,2,0,0,0.1,0.1,0.9,4,1,34,47,72.3,3,32,7,2,0,Bukayo-Saka,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,RW,89,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.3,5,0,40,46,87.0,4,45,5,10,4,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y,"RW,LW",90,1,0,0,0,1,1,49,2,0,2,0.7,0.7,0.7,5,0,29,38,76.3,4,32,1,2,0,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,"RW,CM",90,1,0,0,0,1,1,34,4,2,1,0.4,0.4,0.1,1,0,9,19,47.4,1,10,2,0,0,Bukayo-Saka,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,RW,90,0,0,0,0,2,1,45,0,0,0,0.1,0.1,0.1,6,0,26,35,74.3,3,32,11,5,1,Bukayo-Saka,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,RW,90,0,1,0,0,1,0,53,0,0,1,0.0,0.0,0.1,4,1,28,38,73.7,3,39,9,5,0,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,RW,90,1,0,0,0,5,2,66,1,0,1,0.3,0.3,0.4,9,1,39,53,73.6,3,41,11,4,3,Bukayo-Saka,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,RW,90,0,0,0,0,4,0,72,1,1,2,0.2,0.2,0.3,7,0,40,49,81.6,3,50,8,9,5,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,RW,90,0,1,0,0,7,2,58,1,0,0,0.3,0.3,0.7,7,1,37,46,80.4,6,44,4,3,2,Bukayo-Saka,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y,RW,90,1,0,1,1,0,0,42,2,1,1,0.8,0.0,0.2,1,0,19,27,70.4,3,22,2,4,1,Bukayo-Saka,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,"RW,RM",90,1,0,0,0,6,2,74,4,0,1,0.3,0.3,0.0,2,1,29,51,56.9,4,39,5,11,4,Bukayo-Saka,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,RW,90,0,0,0,0,2,0,61,2,1,2,0.1,0.1,0.1,4,0,28,42,66.7,2,28,2,7,3,Bukayo-Saka,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,RW,81,1,1,0,0,3,1,54,1,0,4,0.4,0.4,0.5,3,1,27,39,69.2,1,35,3,4,1,Bukayo-Saka,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,RW,90,0,0,0,0,4,1,92,3,0,0,0.5,0.5,0.1,9,0,57,79,72.2,9,66,8,7,3,Bukayo-Saka,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,RW,71,0,0,0,0,0,0,45,2,0,0,0.0,0.0,0.1,5,1,28,35,80.0,4,34,5,3,1,Bukayo-Saka,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,RW,90,2,1,0,0,3,2,54,1,0,2,0.4,0.4,0.4,4,2,25,42,59.5,5,34,4,3,0,Bukayo-Saka,4,1,1,0,0,5
+Home,Arsenal,Leeds United,N,RW,31,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,1,9,14,64.3,0,11,2,2,1,Bukayo-Saka,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,"RW,RM",90,0,0,0,0,0,0,45,3,0,1,0.0,0.0,0.8,5,1,22,34,64.7,2,28,5,5,3,Bukayo-Saka,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y,RW,90,0,0,0,1,3,1,55,2,1,4,1.0,0.3,0.0,2,0,27,39,69.2,1,28,3,3,0,Bukayo-Saka,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,RW,90,1,1,0,0,2,1,60,3,0,0,0.3,0.3,0.6,10,2,39,50,78.0,7,39,11,7,2,Bukayo-Saka,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,RW,79,0,0,0,0,1,0,30,0,0,1,0.1,0.1,0.0,1,0,15,22,68.2,1,20,0,4,2,Bukayo-Saka,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,RW,73,0,0,0,0,5,2,46,2,0,0,0.3,0.3,0.1,5,0,25,34,73.5,3,31,7,4,2,Bukayo-Saka,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,RW,86,0,0,0,0,2,1,38,6,0,0,0.3,0.3,0.0,2,1,17,23,73.9,4,22,5,2,0,Bukayo-Saka,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,RW,90,0,0,0,0,2,0,39,4,0,1,0.1,0.1,0.0,5,0,20,30,66.7,4,23,4,5,4,Bukayo-Saka,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,RW,90,0,0,0,0,1,1,65,1,0,0,0.1,0.1,0.1,3,0,42,55,76.4,3,37,5,3,1,Bukayo-Saka,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,RW,59,1,0,0,0,3,2,31,2,0,0,0.3,0.3,0.3,3,2,16,24,66.7,2,22,6,4,2,Bukayo-Saka,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Norwich City,N,RM,14,1,0,0,0,1,1,15,3,1,0,0.0,0.0,0.0,2,2,7,11,63.6,3,2,0,0,0,Cedric-Soares,4,0,1,0,0,4
+Away,Arsenal,Wolves,Y,RM,75,0,0,0,0,0,0,36,2,1,2,0.0,0.0,0.0,1,1,24,28,85.7,2,25,1,0,0,Cedric-Soares,2,0,1,0,0,2
+Away,Arsenal,Tottenham,N,RB,7,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,7,0,2,2,Cedric-Soares,1,2,0,0,1,3
+Home,Arsenal,Liverpool,Y,"RM,RB",75,0,0,0,0,0,0,37,2,1,1,0.0,0.0,0.0,0,0,14,24,58.3,0,13,0,0,0,Cedric-Soares,2,1,1,0,0,3
+Away,Arsenal,Aston Villa,Y,"RM,RB",78,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,2,0,41,57,71.9,5,37,5,0,0,Cedric-Soares,0,1,0,0,1,1
+Home,Arsenal,Southampton,N,RB,6,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Cedric-Soares,1,1,0,1,0,2
+Home,Arsenal,Newcastle Utd,Y,RB,90,0,1,0,0,0,0,86,0,0,0,0.0,0.0,0.7,4,1,66,82,80.5,11,46,1,1,1,Cedric-Soares,3,0,1,0,0,3
+Away,Arsenal,Southampton,Y,LB,90,0,0,0,0,1,0,77,3,1,2,0.0,0.0,0.1,4,1,40,63,63.5,4,25,3,1,1,Cedric-Soares,3,1,1,0,0,4
+Home,Arsenal,Manchester Utd,Y,LB,90,0,0,0,0,1,0,57,0,1,2,0.1,0.1,0.0,1,0,37,53,69.8,10,35,3,0,0,Cedric-Soares,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,LB,90,0,0,0,0,1,0,36,2,0,1,0.0,0.0,0.0,1,0,18,26,69.2,2,20,2,2,1,Cedric-Soares,1,2,0,0,1,3
+Away,Arsenal,Aston Villa,Y,LB,64,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.1,1,0,24,34,70.6,2,22,4,1,0,Cedric-Soares,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,"LB,LM",90,0,0,0,0,2,1,68,1,2,1,0.1,0.1,0.1,1,0,45,56,80.4,3,33,2,0,0,Cedric-Soares,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,RB,90,0,0,0,0,0,0,81,2,3,0,0.0,0.0,0.0,1,0,52,67,77.6,3,42,3,3,0,Cedric-Soares,3,1,1,0,0,4
+Home,Arsenal,Tottenham,Y,RB,90,0,0,0,0,1,0,66,2,1,0,0.1,0.1,0.0,1,0,43,57,75.4,7,31,2,1,0,Cedric-Soares,2,1,1,0,0,3
+Home,Arsenal,Liverpool,N,LB,46,0,0,0,0,1,1,34,0,0,0,0.0,0.0,0.0,1,0,24,31,77.4,4,20,1,2,2,Cedric-Soares,0,3,0,0,1,3
+Home,Arsenal,Chelsea,Y,RB,90,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.1,2,0,38,42,90.5,2,22,1,0,0,Cedric-Soares,0,2,0,0,1,2
+Away,Arsenal,Manchester City,Y,RB,90,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,12,21,57.1,1,12,0,1,0,Cedric-Soares,0,5,0,0,1,5
+Home,Arsenal,Norwich City,N,RB,9,0,0,0,0,1,0,8,0,0,1,0.0,0.0,0.1,1,0,5,5,100.0,1,2,0,0,0,Cedric-Soares,1,0,1,0,0,1
+Away,Arsenal,Leeds United,N,RB,28,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,8,1,0,0,Cedric-Soares,4,1,1,0,0,5
+Away,Arsenal,Wolves,Y,RB,90,0,0,0,0,0,0,59,4,0,0,0.0,0.0,0.0,1,0,41,53,77.4,4,33,1,0,0,Cedric-Soares,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,RB,90,0,0,0,0,1,0,97,0,2,1,0.0,0.0,0.1,4,0,70,92,76.1,14,54,1,0,0,Cedric-Soares,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,RB,75,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,2,0,43,48,89.6,7,36,1,0,0,Cedric-Soares,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,RB,90,0,0,0,0,1,0,94,4,5,3,0.0,0.0,0.1,1,0,60,77,77.9,5,50,1,0,0,Cedric-Soares,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,RB,90,0,0,0,0,1,0,68,0,0,2,0.1,0.1,0.0,1,0,51,61,83.6,3,35,0,1,0,Cedric-Soares,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,RB,90,0,0,0,0,1,0,82,2,0,0,0.0,0.0,0.0,0,0,57,74,77.0,4,43,2,1,1,Cedric-Soares,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,RB,90,0,0,0,0,0,0,80,4,0,0,0.0,0.0,0.1,3,1,61,73,83.6,5,45,1,0,0,Cedric-Soares,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,RB,65,0,0,0,0,0,0,63,4,3,0,0.0,0.0,0.0,2,0,40,52,76.9,4,29,0,2,2,Cedric-Soares,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,RB,90,0,0,0,0,1,0,85,4,1,1,0.1,0.1,0.3,7,1,54,77,70.1,7,45,2,0,0,Cedric-Soares,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,RB,59,0,0,0,0,1,0,71,1,0,2,0.0,0.0,0.1,2,0,50,64,78.1,3,43,2,1,1,Cedric-Soares,0,1,0,0,1,1
+Away,Arsenal,Chelsea,N,RB,16,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.2,3,1,12,16,75.0,0,7,1,0,0,Cedric-Soares,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,"RB,WB",89,0,0,0,0,0,0,76,0,1,1,0.0,0.0,0.0,0,0,54,68,79.4,4,42,0,2,2,Cedric-Soares,3,1,1,0,0,4
+Away,Arsenal,West Ham,N,RB,13,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Cedric-Soares,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,RB,90,0,0,0,0,1,0,116,5,0,1,0.1,0.1,0.0,3,0,81,105,77.1,11,56,1,2,1,Cedric-Soares,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,RB,90,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,2,0,38,47,80.9,0,27,0,1,0,Cedric-Soares,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,N,RB,52,0,0,0,0,1,0,33,3,0,1,0.0,0.0,0.0,1,0,24,30,80.0,2,16,0,0,0,Cedric-Soares,0,2,0,0,1,2
+Home,Arsenal,Everton,Y,RB,90,1,1,0,0,3,1,102,3,3,1,0.1,0.1,0.4,2,0,66,88,75.0,7,69,2,1,1,Cedric-Soares,5,1,1,0,0,6
+Home,Arsenal,Nott'ham Forest,N,"RB,LB",28,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,19,23,82.6,3,14,1,0,0,Cedric-Soares,5,0,1,0,0,5
+Away,Arsenal,Wolves,N,LB,1,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Cedric-Soares,2,0,1,0,0,2
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,West Ham,Manchester Utd,N,CM,30,0,0,0,0,0,0,25,0,2,0,0.0,0.0,0.0,1,0,22,23,95.7,1,19,1,0,0,Declan-Rice,0,4,0,0,1,4
+Away,West Ham,Southampton,Y,DM,75,0,0,0,0,0,0,37,0,3,1,0.0,0.0,0.0,1,0,23,30,76.7,1,13,0,0,0,Declan-Rice,2,3,0,0,1,5
+Away,West Ham,Newcastle Utd,Y,DM,45,0,0,0,0,0,0,21,4,0,1,0.0,0.0,0.0,0,0,14,14,100.0,2,11,1,0,0,Declan-Rice,0,3,0,0,1,3
+Home,West Ham,Huddersfield,N,CM,1,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Crystal Palace,N,CB,15,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Declan-Rice,2,2,0,1,0,4
+Away,West Ham,Everton,N,CB,14,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,5,0,0,0,Declan-Rice,0,4,0,0,1,4
+Away,West Ham,Manchester City,Y,CB,90,0,0,0,0,0,0,28,1,2,2,0.0,0.0,0.0,0,0,9,13,69.2,0,7,0,0,0,Declan-Rice,1,2,0,0,1,3
+Away,West Ham,Stoke City,N,CM,56,0,0,0,0,0,0,35,1,1,3,0.0,0.0,0.0,0,0,22,27,81.5,3,13,1,1,0,Declan-Rice,3,0,1,0,0,3
+Away,West Ham,Bournemouth,N,WB,12,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,0,0,0,0,Declan-Rice,3,3,0,1,0,6
+Home,West Ham,West Brom,N,LB,15,0,0,0,0,0,0,12,2,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,6,1,1,1,Declan-Rice,2,1,1,0,0,3
+Away,West Ham,Tottenham,Y,CB,90,0,0,0,0,0,0,44,1,1,3,0.0,0.0,0.0,0,0,19,28,67.9,0,18,0,0,0,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Huddersfield,N,CM,6,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Declan-Rice,4,1,1,0,0,5
+Home,West Ham,Bournemouth,N,"CM,CB",1,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Crystal Palace,Y,CB,90,0,0,0,0,1,0,33,4,1,1,0.0,0.0,0.0,0,0,20,24,83.3,5,13,0,0,0,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Brighton,Y,CB,65,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,0,0,25,32,78.1,4,17,3,0,0,Declan-Rice,1,3,0,0,1,4
+Home,West Ham,Watford,N,CM,7,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Liverpool,N,LM,8,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Declan-Rice,1,4,0,0,1,5
+Away,West Ham,Swansea City,Y,CB,90,0,0,0,0,0,0,92,4,2,1,0.0,0.0,0.0,1,0,65,78,83.3,2,51,0,0,0,Declan-Rice,1,4,0,0,1,5
+Home,West Ham,Southampton,Y,CB,90,0,0,0,0,0,0,50,3,1,3,0.0,0.0,0.0,1,0,24,41,58.5,2,23,1,0,0,Declan-Rice,3,0,1,0,0,3
+Away,West Ham,Chelsea,Y,CB,90,0,0,0,0,0,0,52,1,3,0,0.0,0.0,0.0,2,1,34,42,81.0,2,23,0,0,0,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Stoke City,Y,CB,90,0,0,0,0,1,0,51,0,1,2,0.0,0.0,0.0,1,0,30,39,76.9,3,27,1,1,1,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Arsenal,Y,CB,90,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.0,1,0,17,25,68.0,0,18,0,0,0,Declan-Rice,1,4,0,0,1,5
+Home,West Ham,Manchester City,Y,CB,90,0,0,0,0,1,0,37,3,3,1,0.1,0.1,0.0,0,0,17,26,65.4,0,19,0,0,0,Declan-Rice,1,4,0,0,1,5
+Away,West Ham,Leicester City,Y,CB,90,0,0,0,0,0,0,41,3,0,0,0.0,0.0,0.0,1,0,26,33,78.8,5,13,1,0,0,Declan-Rice,2,0,1,0,0,2
+Home,West Ham,Manchester Utd,Y,CB,90,0,0,0,0,0,0,57,3,2,1,0.0,0.0,0.0,0,0,43,48,89.6,3,33,4,0,0,Declan-Rice,0,0,0,1,0,0
+Home,West Ham,Everton,Y,CB,90,0,0,0,0,1,0,44,2,2,0,0.0,0.0,0.0,1,0,26,36,72.2,1,26,4,0,0,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Liverpool,Y,DM,45,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,0,0,22,24,91.7,0,11,0,0,0,Declan-Rice,0,4,0,0,1,4
+Away,West Ham,Everton,Y,DM,90,0,0,0,0,0,0,48,5,1,2,0.0,0.0,0.0,1,0,33,40,82.5,7,22,0,1,1,Declan-Rice,3,1,1,0,0,4
+Home,West Ham,Chelsea,Y,CM,90,0,0,0,0,0,0,41,1,4,3,0.0,0.0,0.0,1,0,22,28,78.6,1,23,1,1,1,Declan-Rice,0,0,0,1,0,0
+Home,West Ham,Manchester Utd,Y,DM,90,0,0,0,0,0,0,67,1,2,3,0.0,0.0,0.0,1,0,53,59,89.8,2,34,0,0,0,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Brighton,Y,"DM,CM",90,0,0,0,0,0,0,66,0,0,1,0.0,0.0,0.0,1,0,55,60,91.7,6,36,1,1,1,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Tottenham,Y,"DM,CM",90,0,0,0,0,1,0,56,7,3,2,0.1,0.1,0.0,1,0,31,37,83.8,3,21,1,1,1,Declan-Rice,0,1,0,0,1,1
+Away,West Ham,Leicester City,Y,"CM,DM",90,0,0,0,0,0,0,42,4,4,1,0.0,0.0,0.1,1,0,23,30,76.7,2,17,1,1,0,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Burnley,Y,"DM,CM",90,0,0,0,0,1,0,64,2,0,0,0.0,0.0,0.0,3,0,45,53,84.9,6,31,0,0,0,Declan-Rice,4,2,1,0,0,6
+Away,West Ham,Huddersfield,Y,"DM,CM",90,0,0,0,0,0,0,59,2,1,1,0.0,0.0,0.0,0,0,43,48,89.6,10,31,0,2,2,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Manchester City,Y,"DM,CM",90,0,0,0,0,0,0,38,2,0,4,0.0,0.0,0.1,2,0,29,32,90.6,6,19,1,0,0,Declan-Rice,0,4,0,0,1,4
+Away,West Ham,Newcastle Utd,Y,CM,90,0,0,0,0,0,0,41,4,2,2,0.0,0.0,0.0,1,1,24,31,77.4,3,14,0,1,1,Declan-Rice,3,0,1,0,0,3
+Home,West Ham,Cardiff City,Y,CM,90,0,0,0,0,2,2,58,1,1,2,0.1,0.1,0.0,3,1,38,47,80.9,4,34,1,1,0,Declan-Rice,3,1,1,0,0,4
+Home,West Ham,Crystal Palace,Y,CM,90,0,0,0,0,2,0,53,1,1,1,0.1,0.1,0.0,1,0,39,45,86.7,7,32,3,0,0,Declan-Rice,3,2,1,0,0,5
+Away,West Ham,Fulham,Y,CM,90,0,0,0,0,0,0,50,3,2,1,0.0,0.0,0.0,0,0,31,41,75.6,2,24,0,0,0,Declan-Rice,2,0,1,0,0,2
+Home,West Ham,Watford,Y,CM,90,0,0,0,0,1,1,60,1,1,1,0.1,0.1,0.0,1,0,40,51,78.4,2,31,0,0,0,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Southampton,Y,"DM,CM",90,0,0,0,0,2,0,52,2,1,3,0.1,0.1,0.0,1,0,35,38,92.1,3,24,0,3,3,Declan-Rice,2,1,1,0,0,3
+Away,West Ham,Burnley,Y,CM,90,0,0,0,0,0,0,57,6,0,3,0.0,0.0,0.0,1,0,42,45,93.3,4,19,1,1,1,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Brighton,Y,CM,90,0,0,0,0,1,0,69,1,1,1,0.0,0.0,0.0,0,0,54,63,85.7,3,48,3,2,1,Declan-Rice,2,2,0,1,0,4
+Home,West Ham,Arsenal,Y,"DM,CM",90,1,0,0,0,2,1,54,2,3,2,0.1,0.1,0.0,0,0,36,42,85.7,1,30,0,1,1,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Bournemouth,Y,DM,90,0,0,0,0,1,0,79,3,2,0,0.0,0.0,0.0,0,0,65,70,92.9,5,57,3,2,1,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Wolves,Y,CM,90,0,0,0,0,1,0,59,1,4,3,0.0,0.0,0.0,2,0,45,47,95.7,3,27,1,2,2,Declan-Rice,0,3,0,0,1,3
+Home,West Ham,Liverpool,Y,DM,90,0,0,0,0,1,0,38,8,2,0,0.1,0.1,0.0,2,0,19,26,73.1,4,12,1,2,2,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Crystal Palace,Y,DM,90,0,0,0,0,0,0,59,2,0,1,0.0,0.0,0.0,2,1,39,50,78.0,4,27,0,2,0,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Fulham,Y,"DM,CM",90,0,0,0,0,1,0,69,6,3,0,0.0,0.0,0.0,1,0,54,61,88.5,2,32,3,0,0,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Manchester City,Y,DM,90,0,0,0,0,0,0,36,2,0,2,0.0,0.0,0.0,0,0,18,29,62.1,0,13,0,1,1,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Newcastle Utd,Y,DM,90,1,0,0,0,1,1,77,7,0,2,0.2,0.2,0.0,2,0,53,64,82.8,4,35,1,1,1,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Cardiff City,Y,"CM,DM",90,0,0,0,0,1,0,79,5,0,3,0.0,0.0,0.0,1,0,56,68,82.4,7,34,0,0,0,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Huddersfield,Y,"CM,DM",90,0,0,0,0,0,0,73,4,0,0,0.0,0.0,0.0,0,0,60,65,92.3,4,36,1,0,0,Declan-Rice,4,3,1,0,0,7
+Home,West Ham,Everton,Y,"CM,DM",90,0,0,0,0,0,0,47,1,4,2,0.0,0.0,0.0,0,0,38,39,97.4,0,30,1,3,3,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Chelsea,Y,DM,90,0,0,0,0,1,0,54,3,3,3,0.0,0.0,0.0,1,0,38,42,90.5,5,29,0,0,0,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Manchester Utd,Y,DM,90,0,0,0,0,1,0,65,4,1,0,0.0,0.0,0.0,3,0,50,57,87.7,8,32,2,3,2,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Leicester City,Y,DM,90,0,0,0,0,0,0,38,1,3,0,0.0,0.0,0.0,0,0,29,31,93.5,3,23,1,0,0,Declan-Rice,2,2,0,1,0,4
+Away,West Ham,Tottenham,Y,"DM,CM",90,0,0,0,0,2,0,36,1,1,2,0.0,0.0,0.0,1,1,22,26,84.6,5,15,0,2,1,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Watford,Y,DM,78,0,0,0,0,0,0,42,4,1,0,0.0,0.0,0.0,1,0,32,35,91.4,1,23,0,0,0,Declan-Rice,4,1,1,0,0,5
+Home,West Ham,Manchester City,Y,"DM,CM",90,0,0,0,0,0,0,51,4,2,0,0.0,0.0,0.0,0,0,40,45,88.9,2,36,0,3,2,Declan-Rice,0,5,0,0,1,5
+Away,West Ham,Brighton,Y,"DM,CM",90,0,0,0,0,1,0,59,1,2,1,0.0,0.0,0.0,1,0,39,51,76.5,3,34,1,2,2,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Watford,Y,DM,90,0,0,0,0,0,0,48,4,2,2,0.0,0.0,0.0,2,0,31,38,81.6,4,23,3,1,1,Declan-Rice,3,1,1,0,0,4
+Home,West Ham,Norwich City,Y,DM,90,0,0,0,0,1,0,43,5,3,1,0.0,0.0,0.0,1,0,29,33,87.9,2,22,1,1,1,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Aston Villa,Y,"DM,CM",90,0,0,0,0,2,0,72,6,2,2,0.1,0.1,0.0,1,0,52,54,96.3,2,45,1,2,1,Declan-Rice,0,0,0,1,0,0
+Home,West Ham,Manchester Utd,Y,DM,90,0,0,0,0,0,0,40,1,0,1,0.0,0.0,0.0,0,0,34,35,97.1,0,27,0,1,1,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Bournemouth,Y,DM,90,0,0,0,0,1,1,70,6,6,1,0.0,0.0,0.0,0,0,52,56,92.9,4,38,3,2,2,Declan-Rice,2,2,0,1,0,4
+Home,West Ham,Crystal Palace,Y,DM,90,0,0,0,0,0,0,69,3,1,0,0.0,0.0,0.0,1,0,59,64,92.2,4,45,2,0,0,Declan-Rice,1,2,0,0,1,3
+Away,West Ham,Everton,Y,"DM,CM",90,0,0,0,0,0,0,52,1,2,1,0.0,0.0,0.0,1,0,38,46,82.6,6,32,0,0,0,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Sheffield Utd,Y,DM,90,0,0,0,0,1,1,69,2,2,1,0.0,0.0,0.0,1,0,56,62,90.3,3,43,2,3,3,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Newcastle Utd,Y,DM,90,0,0,0,0,1,0,71,0,1,0,0.0,0.0,0.0,1,0,58,61,95.1,7,46,2,1,0,Declan-Rice,2,3,0,0,1,5
+Away,West Ham,Burnley,Y,CM,90,0,0,0,0,0,0,66,2,2,0,0.0,0.0,0.0,1,0,51,59,86.4,2,41,0,1,1,Declan-Rice,0,3,0,0,1,3
+Home,West Ham,Tottenham,Y,"CM,CB",90,0,0,0,0,0,0,58,2,4,1,0.0,0.0,0.0,1,0,43,48,89.6,4,44,2,3,2,Declan-Rice,2,3,0,0,1,5
+Away,West Ham,Chelsea,Y,CM,90,0,0,0,0,0,0,41,3,2,1,0.0,0.0,0.0,0,0,28,35,80.0,6,22,4,3,3,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Wolves,Y,CM,90,0,0,0,0,2,1,86,4,3,1,0.1,0.1,0.0,1,0,69,73,94.5,11,47,2,3,2,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Arsenal,Y,CM,90,0,0,0,0,1,1,57,5,3,2,0.0,0.0,0.0,1,1,43,47,91.5,5,39,1,0,0,Declan-Rice,1,3,0,0,1,4
+Away,West Ham,Southampton,Y,CM,90,0,0,0,0,0,0,44,2,2,3,0.0,0.0,0.1,1,0,17,30,56.7,0,13,1,2,1,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Crystal Palace,Y,CM,90,0,0,0,0,2,0,56,6,3,0,0.1,0.1,0.0,0,0,30,37,81.1,7,20,0,2,1,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Leicester City,Y*,DM,90,0,0,0,0,1,1,64,2,0,3,0.1,0.1,0.1,3,0,39,54,72.2,9,25,1,1,1,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Bournemouth,Y,CM,90,0,1,0,0,0,0,69,5,0,0,0.0,0.0,0.5,2,1,55,61,90.2,8,36,0,3,2,Declan-Rice,4,0,1,0,0,4
+Away,West Ham,Sheffield Utd,Y,CM,90,0,0,0,0,0,0,57,3,3,0,0.0,0.0,0.0,0,0,44,50,88.0,5,28,1,2,2,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Everton,Y,CM,90,0,0,0,0,0,0,67,2,1,2,0.0,0.0,0.0,2,0,53,60,88.3,6,36,2,0,0,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Leicester City,Y,CM,90,0,0,0,0,1,0,47,1,1,1,0.1,0.1,0.0,0,0,30,36,83.3,2,27,1,0,0,Declan-Rice,1,4,0,0,1,5
+Home,West Ham,Liverpool,Y,CM,90,0,0,0,0,2,2,51,3,3,3,0.1,0.1,0.1,3,0,29,37,78.4,2,23,1,3,2,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Brighton,Y,DM,90,0,0,0,0,0,0,53,5,1,1,0.0,0.0,0.1,2,0,29,37,78.4,6,29,3,3,2,Declan-Rice,3,3,0,1,0,6
+Away,West Ham,Manchester City,Y,CM,90,0,0,0,0,0,0,47,2,4,1,0.0,0.0,0.0,2,0,28,39,71.8,5,32,5,2,1,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Liverpool,Y,DM,90,0,1,0,0,0,0,34,2,1,0,0.0,0.0,0.1,1,1,19,27,70.4,3,12,0,1,1,Declan-Rice,2,3,0,0,1,5
+Home,West Ham,Southampton,Y,"CM,RM",90,0,0,0,0,1,0,45,3,3,1,0.0,0.0,0.0,4,1,18,31,58.1,5,9,1,2,2,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Arsenal,Y,CM,90,0,0,0,0,1,0,35,2,2,3,0.0,0.0,0.0,0,0,23,25,92.0,6,15,0,0,0,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Wolves,Y,CB,90,0,0,0,0,1,1,47,1,1,1,0.1,0.1,0.0,0,0,31,40,77.5,0,31,0,0,0,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Tottenham,Y,DM,90,0,0,0,0,1,0,46,6,3,0,0.0,0.0,0.1,4,0,32,38,84.2,5,32,3,4,4,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Chelsea,Y*,DM,90,0,0,0,0,0,0,43,5,0,2,0.0,0.0,0.0,1,0,28,31,90.3,3,24,0,2,1,Declan-Rice,3,2,1,0,0,5
+Away,West Ham,Newcastle Utd,Y*,DM,90,0,0,0,0,2,0,61,3,0,1,0.1,0.1,0.1,6,1,46,54,85.2,9,42,1,1,1,Declan-Rice,2,2,0,1,0,4
+Home,West Ham,Burnley,Y*,"DM,CM",90,0,0,0,0,0,0,63,1,0,1,0.0,0.0,0.0,3,0,41,57,71.9,8,39,0,2,0,Declan-Rice,0,1,0,0,1,1
+Away,West Ham,Norwich City,Y,DM,90,0,0,0,0,1,0,74,4,3,2,0.1,0.1,0.0,3,0,58,62,93.5,12,51,3,4,3,Declan-Rice,4,0,1,0,0,4
+Home,West Ham,Watford,Y,DM,90,1,0,0,0,2,1,50,2,4,0,0.0,0.0,0.1,3,0,29,39,74.4,3,28,1,2,2,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Manchester Utd,Y,DM,90,0,0,0,0,3,0,61,4,4,1,0.1,0.1,0.0,3,1,40,45,88.9,7,31,3,1,1,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Aston Villa,Y,DM,90,0,1,0,0,3,0,78,3,1,0,0.1,0.1,0.0,2,1,65,71,91.5,4,63,1,2,1,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Newcastle Utd,Y,DM,90,0,0,0,0,0,0,79,2,1,2,0.0,0.0,0.0,3,0,57,69,82.6,12,42,3,3,2,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Arsenal,Y*,CM,90,0,0,0,0,1,0,61,2,3,2,0.1,0.1,0.1,3,0,45,46,97.8,3,35,2,0,0,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Wolves,Y*,CM,90,0,0,0,0,0,0,59,4,3,1,0.0,0.0,0.0,1,1,41,51,80.4,2,36,3,5,5,Declan-Rice,4,0,1,0,0,4
+Away,West Ham,Leicester City,Y*,CM,90,0,0,0,0,1,0,40,1,2,1,0.1,0.1,0.1,4,1,29,33,87.9,2,23,2,1,1,Declan-Rice,3,0,1,0,0,3
+Away,West Ham,Tottenham,Y*,CM,90,0,0,0,0,0,0,78,1,2,1,0.0,0.0,0.0,1,0,51,67,76.1,7,48,3,0,0,Declan-Rice,3,3,0,1,0,6
+Home,West Ham,Manchester City,Y*,CM,90,0,0,0,0,0,0,40,2,4,1,0.0,0.0,0.0,2,0,29,30,96.7,6,16,1,2,2,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Liverpool,Y*,"CM,DM",90,0,0,0,0,0,0,39,1,2,0,0.0,0.0,0.0,0,0,28,33,84.8,1,14,1,0,0,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Fulham,Y*,CM,90,0,0,0,0,0,0,79,1,3,2,0.0,0.0,0.0,2,0,64,70,91.4,9,47,0,1,1,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Sheffield Utd,Y*,CM,90,0,0,0,0,2,0,75,1,2,0,0.2,0.2,0.3,4,0,58,67,86.6,11,46,6,1,0,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,Aston Villa,Y*,"DM,CM",90,0,0,0,0,0,0,40,2,1,1,0.0,0.0,0.0,1,0,23,33,69.7,2,23,1,0,0,Declan-Rice,2,1,1,0,0,3
+Home,West Ham,Manchester Utd,Y*,CM,90,0,1,0,0,2,1,58,2,2,0,0.1,0.1,0.4,2,1,47,50,94.0,2,30,3,0,0,Declan-Rice,1,3,0,0,1,4
+Away,West Ham,Leeds United,Y*,DM,90,0,0,0,0,0,0,34,0,2,0,0.0,0.0,0.1,7,1,23,28,82.1,7,16,3,3,2,Declan-Rice,2,1,1,0,0,3
+Home,West Ham,Crystal Palace,Y*,DM,90,0,0,0,0,2,0,90,4,1,2,0.1,0.1,0.0,1,0,71,77,92.2,14,56,2,0,0,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Chelsea,Y,DM,90,0,0,0,0,0,0,56,1,1,2,0.0,0.0,0.0,0,0,50,52,96.2,6,40,2,1,1,Declan-Rice,0,3,0,0,1,3
+Home,West Ham,Brighton,Y,CM,90,0,0,0,0,1,0,58,2,1,1,0.0,0.0,0.0,3,1,40,49,81.6,4,29,4,1,1,Declan-Rice,2,2,0,1,0,4
+Away,West Ham,Southampton,Y*,DM,90,0,0,0,0,0,0,49,3,1,1,0.0,0.0,0.1,1,0,35,44,79.5,1,18,0,2,2,Declan-Rice,0,0,0,1,0,0
+Away,West Ham,Everton,Y*,DM,90,0,0,0,0,0,0,51,3,4,0,0.0,0.0,0.0,2,0,33,40,82.5,7,34,2,1,1,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,Burnley,Y*,DM,90,0,0,0,0,2,1,59,2,2,1,0.1,0.1,0.4,5,0,33,44,75.0,6,30,2,2,2,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,West Brom,Y*,DM,90,0,0,0,0,3,1,72,0,1,1,0.1,0.1,0.0,0,0,56,63,88.9,5,54,4,3,1,Declan-Rice,2,1,1,0,0,3
+Away,West Ham,Crystal Palace,Y*,DM,90,0,0,0,0,0,0,61,4,1,2,0.0,0.0,0.1,2,1,49,53,92.5,4,31,3,1,1,Declan-Rice,3,2,1,0,0,5
+Home,West Ham,Liverpool,Y*,DM,90,0,0,0,0,1,0,60,3,3,3,0.0,0.0,0.0,1,0,44,49,89.8,5,39,1,1,1,Declan-Rice,1,3,0,0,1,4
+Away,West Ham,Aston Villa,Y*,DM,90,0,0,0,0,0,0,57,0,0,2,0.0,0.0,0.0,2,0,41,51,80.4,6,27,1,0,0,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Fulham,Y*,"DM,CM",90,0,0,0,0,2,1,67,2,2,0,0.1,0.1,0.0,1,0,46,55,83.6,7,34,2,1,1,Declan-Rice,0,0,0,1,0,0
+Home,West Ham,Sheffield Utd,Y*,"CM,DM",90,1,0,1,1,1,1,53,1,0,0,0.9,0.1,0.0,2,0,43,48,89.6,6,37,2,0,0,Declan-Rice,3,0,1,0,0,3
+Home,West Ham,Tottenham,Y*,DM,90,0,0,0,0,0,0,46,4,3,1,0.0,0.0,0.0,0,0,27,33,81.8,5,24,4,0,0,Declan-Rice,2,1,1,0,0,3
+Away,West Ham,Manchester City,Y*,"CM,DM",90,0,0,0,0,0,0,54,1,3,2,0.0,0.0,0.0,0,0,42,47,89.4,3,39,3,0,0,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Leeds United,Y*,"DM,CM",90,0,0,0,0,3,0,40,3,2,1,0.2,0.2,0.0,2,0,23,25,92.0,2,21,3,1,1,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Manchester Utd,Y,DM,90,0,0,0,0,0,0,72,3,2,3,0.0,0.0,0.0,2,0,59,63,93.7,8,46,2,0,0,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Arsenal,Y*,"DM,CM",90,0,0,0,0,1,1,45,0,4,1,0.1,0.1,0.0,1,0,30,37,81.1,3,29,1,0,0,Declan-Rice,3,3,0,1,0,6
+Away,West Ham,Brighton,Y*,DM,90,0,0,0,0,1,0,88,1,1,3,0.0,0.0,0.0,1,0,72,79,91.1,3,57,2,1,1,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,West Brom,Y*,"DM,CM",90,0,0,0,1,0,0,47,1,0,1,0.8,0.0,0.0,2,0,37,40,92.5,5,24,5,1,1,Declan-Rice,3,1,1,0,0,4
+Home,West Ham,Southampton,Y*,DM,89,1,0,0,0,2,1,43,2,0,1,0.4,0.4,0.0,1,0,26,35,74.3,5,21,1,2,2,Declan-Rice,3,0,1,0,0,3
+Away,West Ham,Newcastle Utd,Y*,DM,90,0,0,0,0,0,0,55,1,2,2,0.0,0.0,0.1,4,0,50,51,98.0,9,34,3,3,3,Declan-Rice,4,2,1,0,0,6
+Home,West Ham,Leicester City,Y*,DM,90,0,1,0,0,1,0,79,4,3,0,0.0,0.0,0.4,3,1,65,68,95.6,14,56,2,3,2,Declan-Rice,4,1,1,0,0,5
+Home,West Ham,Crystal Palace,Y*,DM,90,0,0,0,0,0,0,67,0,2,2,0.0,0.0,0.1,3,0,53,58,91.4,10,46,3,5,4,Declan-Rice,2,2,0,1,0,4
+Away,West Ham,Southampton,Y*,DM,90,0,0,0,0,1,0,100,1,2,2,0.0,0.0,0.0,3,0,83,90,92.2,8,71,3,2,1,Declan-Rice,0,0,0,1,0,0
+Home,West Ham,Manchester Utd,Y*,CM,90,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.0,1,0,60,63,95.2,10,51,4,0,0,Declan-Rice,1,2,0,0,1,3
+Away,West Ham,Leeds United,Y*,"DM,CM",90,0,1,0,0,1,0,44,2,3,0,0.1,0.1,0.2,3,1,28,33,84.8,4,22,6,1,0,Declan-Rice,2,1,1,0,0,3
+Home,West Ham,Brentford,Y*,DM,90,0,0,0,0,0,0,66,4,0,3,0.0,0.0,0.0,1,0,43,54,79.6,5,39,0,0,0,Declan-Rice,1,2,0,0,1,3
+Away,West Ham,Everton,Y*,DM,90,0,0,0,0,1,0,92,0,2,3,0.0,0.0,0.1,5,0,72,79,91.1,6,58,5,7,3,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,Tottenham,Y*,DM,90,0,0,0,0,0,0,57,8,2,0,0.0,0.0,0.0,2,0,38,42,90.5,5,26,2,3,2,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Aston Villa,Y*,DM,90,1,1,0,0,3,2,91,4,2,0,0.1,0.1,0.1,5,1,68,78,87.2,8,43,3,1,1,Declan-Rice,4,1,1,0,0,5
+Home,West Ham,Liverpool,Y*,DM,90,0,0,0,0,0,0,46,5,1,2,0.0,0.0,0.0,3,0,31,34,91.2,5,22,2,0,0,Declan-Rice,3,2,1,0,0,5
+Away,West Ham,Wolves,Y*,DM,90,0,0,0,0,1,1,70,1,1,2,0.0,0.0,0.0,2,0,57,63,90.5,6,48,3,3,2,Declan-Rice,0,1,0,0,1,1
+Away,West Ham,Manchester City,Y*,DM,90,0,0,0,0,1,1,53,4,1,1,0.0,0.0,0.0,1,1,39,42,92.9,4,38,1,2,2,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Brighton,Y*,DM,90,0,0,0,0,1,1,52,2,4,1,0.0,0.0,0.1,5,0,31,40,77.5,6,32,3,2,2,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Chelsea,Y*,"CM,DM,CB",90,0,0,0,0,0,0,52,0,3,2,0.0,0.0,0.0,0,0,31,40,77.5,3,27,0,1,1,Declan-Rice,3,2,1,0,0,5
+Away,West Ham,Burnley,Y*,DM,90,0,0,0,0,1,0,69,1,1,2,0.0,0.0,0.1,4,0,46,58,79.3,5,39,8,4,3,Declan-Rice,0,0,0,1,0,0
+Away,West Ham,Arsenal,Y*,DM,90,0,0,0,0,1,0,67,2,1,1,0.0,0.0,0.0,0,0,51,58,87.9,6,44,4,2,2,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Southampton,Y*,DM,90,0,0,0,0,2,0,88,1,0,0,0.0,0.0,0.0,0,0,71,81,87.7,10,53,3,1,0,Declan-Rice,2,3,0,0,1,5
+Away,West Ham,Crystal Palace,Y*,DM,90,0,1,0,0,0,0,56,3,3,2,0.0,0.0,0.1,1,1,41,46,89.1,8,42,3,1,0,Declan-Rice,3,2,1,0,0,5
+Home,West Ham,Norwich City,Y*,DM,90,0,0,0,0,0,0,76,2,0,2,0.0,0.0,0.0,2,0,68,71,95.8,10,47,3,1,1,Declan-Rice,2,0,1,0,0,2
+Home,West Ham,Leeds United,Y*,DM,90,0,0,0,0,2,0,51,2,1,0,0.2,0.2,0.0,3,1,32,41,78.0,6,33,6,5,4,Declan-Rice,2,3,0,0,1,5
+Away,West Ham,Manchester Utd,Y*,DM,90,0,0,0,0,1,0,71,3,4,2,0.0,0.0,0.0,2,0,56,62,90.3,6,47,1,2,2,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Watford,Y*,DM,90,0,0,0,0,0,0,84,3,1,1,0.0,0.0,0.0,0,0,71,77,92.2,9,60,2,3,2,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Leicester City,Y*,DM,90,0,0,0,0,0,0,67,2,0,0,0.0,0.0,0.0,4,0,58,63,92.1,7,52,2,2,1,Declan-Rice,2,2,0,1,0,4
+Home,West Ham,Newcastle Utd,Y*,DM,90,0,0,0,0,0,0,75,4,0,0,0.0,0.0,0.1,5,0,61,64,95.3,9,45,5,2,2,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Wolves,Y*,CM,90,0,0,0,0,2,0,76,2,3,4,0.0,0.0,0.1,1,0,54,60,90.0,5,51,4,2,0,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,Aston Villa,Y*,"DM,CM",90,0,0,0,0,0,0,69,2,2,0,0.0,0.0,0.0,1,1,51,58,87.9,8,41,4,3,2,Declan-Rice,2,1,1,0,0,3
+Away,West Ham,Tottenham,Y*,CM,90,0,0,0,0,0,0,89,1,1,0,0.0,0.0,0.0,1,0,80,85,94.1,6,69,2,0,0,Declan-Rice,1,3,0,0,1,4
+Home,West Ham,Everton,Y*,"DM,CM",90,0,0,0,0,0,0,98,1,3,2,0.0,0.0,0.0,2,0,82,88,93.2,11,69,4,0,0,Declan-Rice,2,1,1,0,0,3
+Away,West Ham,Brentford,Y*,DM,90,0,0,0,0,2,0,99,2,4,2,0.2,0.2,0.0,0,0,80,87,92.0,9,64,1,2,2,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Burnley,Y*,DM,90,0,0,0,0,2,0,77,0,0,0,0.1,0.1,0.2,7,0,65,68,95.6,12,49,3,3,2,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Chelsea,N,CM,29,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,1,0,12,13,92.3,0,10,0,1,0,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Arsenal,Y,DM,90,0,0,0,0,2,2,79,2,1,0,0.1,0.1,0.0,1,1,62,70,88.6,11,57,3,1,1,Declan-Rice,1,2,0,0,1,3
+Away,West Ham,Norwich City,Y*,"DM,CB",90,0,0,0,0,0,0,126,0,3,1,0.0,0.0,0.0,2,1,113,121,93.4,4,97,1,2,2,Declan-Rice,4,0,1,0,0,4
+Home,West Ham,Manchester City,Y*,"DM,LM",90,0,0,0,0,0,0,38,5,3,2,0.0,0.0,0.0,0,0,16,20,80.0,1,9,1,1,0,Declan-Rice,2,2,0,1,0,4
+Away,West Ham,Brighton,Y*,DM,90,0,0,0,0,1,1,84,5,2,1,0.0,0.0,0.0,0,0,67,71,94.4,10,49,4,1,1,Declan-Rice,1,3,0,0,1,4
+Home,West Ham,Manchester City,Y*,"DM,CM",90,0,0,0,0,1,0,46,7,0,1,0.1,0.1,0.0,0,0,33,37,89.2,5,21,2,0,0,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Nott'ham Forest,Y*,"CM,DM",90,0,0,0,1,0,0,62,3,1,0,0.8,0.0,0.0,1,0,46,54,85.2,4,29,6,1,1,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Brighton,Y*,DM,90,0,0,0,0,1,0,80,0,3,1,0.0,0.0,0.1,4,0,55,67,82.1,7,46,1,1,0,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Aston Villa,Y*,CM,90,0,1,0,0,1,0,66,1,1,4,0.0,0.0,0.1,3,1,47,55,85.5,2,27,1,1,0,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,Tottenham,Y*,DM,90,0,0,0,0,2,1,74,4,1,0,0.1,0.1,0.2,4,0,62,66,93.9,12,55,1,1,0,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Chelsea,Y*,CM,90,0,0,0,0,0,0,49,3,5,1,0.0,0.0,0.9,1,0,31,37,83.8,3,24,1,4,2,Declan-Rice,1,2,0,0,1,3
+Away,West Ham,Everton,Y*,DM,90,0,0,0,0,0,0,61,3,1,1,0.0,0.0,0.1,2,0,51,56,91.1,14,41,5,0,0,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Wolves,Y*,DM,90,0,0,0,0,1,0,66,2,2,1,0.0,0.0,0.1,4,0,50,59,84.7,3,35,2,2,2,Declan-Rice,2,0,1,0,0,2
+Home,West Ham,Fulham,Y*,DM,90,0,0,0,0,0,0,81,2,3,0,0.0,0.0,0.0,3,1,63,71,88.7,10,50,6,2,2,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Southampton,Y*,CM,90,1,0,0,0,2,1,82,3,1,2,0.1,0.1,0.0,4,1,67,70,95.7,7,48,1,1,1,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Liverpool,Y*,CM,90,0,0,0,0,0,0,90,1,1,4,0.0,0.0,0.1,3,0,76,81,93.8,7,49,1,1,1,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Bournemouth,Y*,DM,90,0,0,0,0,3,1,82,2,1,0,0.1,0.1,0.2,7,0,72,74,97.3,13,60,2,0,0,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Manchester Utd,Y*,DM,90,0,0,0,0,2,1,79,2,2,2,0.0,0.0,0.0,3,0,57,69,82.6,6,47,7,3,1,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Crystal Palace,Y*,DM,90,0,0,0,0,1,0,72,0,1,1,0.0,0.0,0.0,1,0,60,69,87.0,6,49,1,0,0,Declan-Rice,1,2,0,0,1,3
+Home,West Ham,Leicester City,Y*,DM,90,0,0,0,0,3,0,87,3,1,2,0.2,0.2,0.0,5,0,65,72,90.3,11,58,2,3,0,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Arsenal,Y*,DM,90,0,0,0,0,0,0,60,3,1,0,0.0,0.0,0.0,2,0,43,50,86.0,3,34,1,0,0,Declan-Rice,1,3,0,0,1,4
+Home,West Ham,Brentford,Y*,CM,90,0,0,0,0,1,0,111,2,0,0,0.0,0.0,0.0,8,0,102,107,95.3,20,68,8,1,1,Declan-Rice,0,2,0,0,1,2
+Away,West Ham,Leeds United,Y*,"CM,DM",90,0,0,0,0,3,0,39,0,3,1,0.1,0.1,0.0,1,0,23,30,76.7,3,18,0,1,1,Declan-Rice,2,2,0,1,0,4
+Away,West Ham,Wolves,Y*,"CM,DM",90,0,0,0,0,2,0,72,4,1,0,0.1,0.1,0.2,3,0,50,64,78.1,6,41,1,1,1,Declan-Rice,0,1,0,0,1,1
+Home,West Ham,Everton,Y*,CM,90,0,0,0,0,1,0,72,1,3,1,0.1,0.1,0.0,3,0,48,60,80.0,5,36,3,4,1,Declan-Rice,2,0,1,0,0,2
+Away,West Ham,Newcastle Utd,Y*,CM,90,0,0,0,0,0,0,52,3,3,0,0.0,0.0,0.1,4,0,39,49,79.6,6,28,2,0,0,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Chelsea,Y*,CM,90,0,0,0,0,1,0,41,2,0,3,0.0,0.0,0.0,0,0,24,29,82.8,3,24,2,3,2,Declan-Rice,1,1,0,1,0,2
+Away,West Ham,Tottenham,Y*,"CM,DM",90,0,0,0,0,0,0,84,0,2,1,0.0,0.0,0.0,0,0,65,76,85.5,8,41,5,5,3,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Nott'ham Forest,Y*,CM,90,1,0,0,0,1,1,71,0,0,1,0.0,0.0,0.2,7,1,60,65,92.3,8,44,5,1,1,Declan-Rice,4,0,1,0,0,4
+Away,West Ham,Brighton,Y*,DM,90,0,0,0,0,0,0,63,0,1,0,0.0,0.0,0.0,1,0,44,56,78.6,1,35,1,2,1,Declan-Rice,0,4,0,0,1,4
+Home,West Ham,Aston Villa,Y*,DM,90,0,0,0,0,0,0,61,7,2,1,0.0,0.0,0.5,2,0,43,50,86.0,1,36,0,1,0,Declan-Rice,1,1,0,1,0,2
+Home,West Ham,Southampton,Y*,CM,90,0,0,0,0,0,0,69,4,3,3,0.0,0.0,0.0,1,0,45,56,80.4,5,31,1,2,1,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,Newcastle Utd,Y*,DM,90,0,0,0,0,1,0,77,1,1,2,0.1,0.1,0.1,2,0,56,64,87.5,7,54,4,5,5,Declan-Rice,1,5,0,0,1,6
+Away,West Ham,Fulham,Y*,CM,90,0,0,0,0,1,1,44,1,3,2,0.0,0.0,0.0,1,0,16,26,61.5,1,16,2,2,0,Declan-Rice,1,0,1,0,0,1
+Home,West Ham,Arsenal,Y*,CM,90,0,0,0,0,1,0,49,4,4,2,0.0,0.0,0.0,4,1,26,38,68.4,4,26,1,1,0,Declan-Rice,2,2,0,1,0,4
+Away,West Ham,Bournemouth,Y*,CM,90,1,0,0,0,2,1,53,4,1,0,0.1,0.1,0.1,4,1,37,42,88.1,6,37,4,1,1,Declan-Rice,4,0,1,0,0,4
+Home,West Ham,Liverpool,Y*,DM,90,0,0,0,0,0,0,64,1,4,3,0.0,0.0,0.1,3,0,46,54,85.2,7,34,2,7,3,Declan-Rice,1,2,0,0,1,3
+Away,West Ham,Crystal Palace,Y*,"DM,CM",90,0,0,0,0,0,0,62,3,2,1,0.0,0.0,0.0,2,0,39,53,73.6,5,37,1,0,0,Declan-Rice,3,4,0,0,1,7
+Home,West Ham,Manchester Utd,Y*,DM,90,0,0,0,0,1,0,52,2,4,2,0.0,0.0,0.0,3,0,35,43,81.4,6,24,1,5,4,Declan-Rice,1,0,1,0,0,1
+Away,West Ham,Brentford,N,"CM,DM",33,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,26,29,89.7,5,20,1,0,0,Declan-Rice,0,2,0,0,1,2
+Home,West Ham,Leeds United,Y*,DM,90,1,0,0,0,3,1,81,0,0,1,0.3,0.3,0.0,2,0,65,72,90.3,6,59,1,3,2,Declan-Rice,3,1,1,0,0,4
+Away,West Ham,Leicester City,Y*,DM,90,0,0,0,0,0,0,90,0,1,1,0.0,0.0,0.0,2,0,79,85,92.9,14,73,4,0,0,Declan-Rice,1,2,0,0,1,3
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Brighton,N,RW,8,0,0,0,0,1,1,4,1,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,5,0,0,0,Eddie-Nketiah,1,2,0,0,1,3
+Away,Arsenal,Newcastle Utd,N,FW,5,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eddie-Nketiah,1,2,0,0,1,3
+Away,Arsenal,Leicester City,N,FW,7,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0,Eddie-Nketiah,1,3,0,0,1,4
+Away,Arsenal,Bournemouth,N,FW,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eddie-Nketiah,2,1,1,0,0,3
+Home,Arsenal,Manchester Utd,N,FW,5,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Eddie-Nketiah,2,0,1,0,0,2
+Away,Arsenal,Wolves,N,"AM,RW",20,0,0,0,0,1,0,6,0,0,0,0.1,0.1,0.1,3,0,5,5,100.0,0,4,2,2,2,Eddie-Nketiah,1,3,0,0,1,4
+Away,Arsenal,Leicester City,N,FW,12,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,2,0,Eddie-Nketiah,0,3,0,0,1,3
+Away,Arsenal,Burnley,N,AM,29,1,0,0,0,2,1,13,0,0,0,0.1,0.1,0.0,2,0,9,9,100.0,1,12,1,0,0,Eddie-Nketiah,3,1,1,0,0,4
+Home,Arsenal,Sheffield Utd,N,FW,17,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.1,1,0,3,6,50.0,1,5,2,0,0,Eddie-Nketiah,1,1,0,1,0,2
+Away,Arsenal,Burnley,N,FW,2,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Eddie-Nketiah,0,0,0,1,0,0
+Home,Arsenal,Newcastle Utd,Y,FW,84,0,0,0,0,2,1,29,1,1,1,0.6,0.6,0.0,0,0,13,17,76.5,0,14,1,1,0,Eddie-Nketiah,4,0,1,0,0,4
+Home,Arsenal,Everton,Y,FW,90,1,0,0,0,3,1,33,1,0,2,0.6,0.6,0.0,0,0,14,18,77.8,0,24,3,3,0,Eddie-Nketiah,3,2,1,0,0,5
+Home,Arsenal,West Ham,Y,FW,58,0,0,0,0,1,1,22,0,0,0,0.3,0.3,0.1,1,0,10,15,66.7,0,14,1,2,1,Eddie-Nketiah,1,0,1,0,0,1
+Away,Arsenal,Manchester City,Y,FW,66,0,0,0,0,1,0,25,2,0,3,0.1,0.1,0.0,1,0,11,15,73.3,2,18,0,1,1,Eddie-Nketiah,0,3,0,0,1,3
+Away,Arsenal,Brighton,N,RW,13,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,6,1,0,0,Eddie-Nketiah,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,FW,78,1,0,0,0,2,1,16,0,1,0,0.9,0.9,0.0,1,1,7,11,63.6,1,15,4,2,2,Eddie-Nketiah,2,0,1,0,0,2
+Home,Arsenal,Norwich City,N,FW,15,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,3,0,5,7,71.4,2,8,1,1,1,Eddie-Nketiah,4,0,1,0,0,4
+Away,Arsenal,Wolves,Y,FW,82,0,0,0,0,3,1,22,0,0,0,0.2,0.2,0.0,1,0,9,12,75.0,1,13,3,3,2,Eddie-Nketiah,2,0,1,0,0,2
+Home,Arsenal,Leicester City,N,FW,4,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eddie-Nketiah,1,1,0,1,0,2
+Away,Arsenal,Aston Villa,Y,"RW,FW",90,0,0,0,0,2,0,27,0,0,0,0.3,0.3,0.0,0,0,16,22,72.7,5,22,1,0,0,Eddie-Nketiah,0,1,0,0,1,1
+Home,Arsenal,Watford,N,FW,34,0,0,0,0,0,0,23,2,0,3,0.0,0.0,0.4,4,0,12,13,92.3,4,13,2,4,3,Eddie-Nketiah,3,2,1,0,0,5
+Away,Arsenal,Fulham,N,FW,4,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Eddie-Nketiah,3,0,1,0,0,3
+Home,Arsenal,West Ham,N,FW,14,1,0,0,0,1,1,7,0,0,0,0.5,0.5,0.0,0,0,2,4,50.0,0,4,0,1,1,Eddie-Nketiah,2,1,1,0,0,3
+Away,Arsenal,Liverpool,N,FW,18,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Eddie-Nketiah,1,3,0,0,1,4
+Home,Arsenal,Sheffield Utd,Y,FW,57,0,0,0,0,1,1,19,0,0,2,0.0,0.0,0.0,0,0,9,12,75.0,2,11,0,1,1,Eddie-Nketiah,2,1,1,0,0,3
+Away,Arsenal,Manchester City,N,RW,8,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,2,1,Eddie-Nketiah,0,1,0,0,1,1
+Home,Arsenal,Leicester City,N,FW,10,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Eddie-Nketiah,0,1,0,0,1,1
+Away,Arsenal,Manchester Utd,N,FW,15,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Eddie-Nketiah,1,0,1,0,0,1
+Home,Arsenal,Aston Villa,N,FW,26,0,0,0,0,1,0,11,0,0,0,0.2,0.2,0.1,2,0,8,8,100.0,0,5,0,2,1,Eddie-Nketiah,0,3,0,0,1,3
+Away,Arsenal,Tottenham,N,FW,16,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,2,0,Eddie-Nketiah,0,2,0,0,1,2
+Home,Arsenal,Burnley,N,FW,9,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Eddie-Nketiah,0,1,0,0,1,1
+Home,Arsenal,Southampton,Y,FW,64,0,1,0,0,1,1,19,1,0,0,0.0,0.0,0.3,2,1,12,13,92.3,1,10,1,1,1,Eddie-Nketiah,1,1,0,1,0,2
+Away,Arsenal,Everton,Y,FW,75,0,0,0,0,2,1,26,0,0,2,0.1,0.1,0.0,0,0,7,14,50.0,0,13,2,2,1,Eddie-Nketiah,1,2,0,0,1,3
+Home,Arsenal,Crystal Palace,N,FW,10,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,2,0,2,2,100.0,0,4,0,0,0,Eddie-Nketiah,0,0,0,1,0,0
+Home,Arsenal,Manchester Utd,N,FW,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eddie-Nketiah,0,0,0,1,0,0
+Away,Arsenal,Sheffield Utd,N,FW,2,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Eddie-Nketiah,3,0,1,0,0,3
+Home,Arsenal,Fulham,N,FW,21,1,0,0,0,3,1,9,0,0,0,0.8,0.8,0.1,1,0,4,4,100.0,0,4,0,0,0,Eddie-Nketiah,1,1,0,1,0,2
+Home,Arsenal,Everton,Y,FW,73,0,0,0,0,2,0,26,2,0,1,0.1,0.1,0.1,3,0,17,18,94.4,3,15,3,1,1,Eddie-Nketiah,0,1,0,0,1,1
+Away,Arsenal,Manchester Utd,N,FW,12,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,3,1,0,0,Eddie-Nketiah,2,3,0,0,1,5
+Away,Arsenal,Everton,N,LW,20,0,0,0,0,1,0,15,0,0,0,0.3,0.3,0.4,4,0,8,11,72.7,2,9,3,1,1,Eddie-Nketiah,1,2,0,0,1,3
+Home,Arsenal,West Ham,N,"FW,LM",9,0,0,0,0,0,0,12,1,1,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,0,0,0,Eddie-Nketiah,2,0,1,0,0,2
+Home,Arsenal,Burnley,N,FW,14,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,9,3,2,1,Eddie-Nketiah,0,0,0,1,0,0
+Away,Arsenal,Wolves,N,FW,10,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,3,0,1,1,Eddie-Nketiah,1,0,1,0,0,1
+Home,Arsenal,Brentford,N,FW,7,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Eddie-Nketiah,2,1,1,0,0,3
+Home,Arsenal,Wolves,N,"FW,RB",15,0,1,0,0,0,0,9,1,0,2,0.0,0.0,0.7,3,1,3,3,100.0,1,7,0,2,2,Eddie-Nketiah,2,1,1,0,0,3
+Away,Arsenal,Watford,N,FW,11,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,1,0,Eddie-Nketiah,3,2,1,0,0,5
+Home,Arsenal,Leicester City,N,FW,3,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,1,0,Eddie-Nketiah,2,0,1,0,0,2
+Home,Arsenal,Liverpool,N,FW,11,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,1,3,1,0,0,Eddie-Nketiah,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,N,FW,13,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,7,0,0,0,Eddie-Nketiah,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,N,FW,25,0,0,0,0,1,0,13,1,0,0,0.0,0.0,0.2,1,0,5,9,55.6,0,9,0,1,1,Eddie-Nketiah,0,3,0,0,1,3
+Home,Arsenal,Brighton,N,FW,29,0,0,0,0,2,1,15,0,0,0,0.4,0.4,0.1,2,0,10,12,83.3,1,9,3,1,0,Eddie-Nketiah,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,FW,90,0,0,0,0,1,0,32,1,1,1,0.1,0.1,0.1,3,0,12,19,63.2,1,15,1,3,2,Eddie-Nketiah,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y,FW,69,2,0,0,0,5,2,34,3,1,1,0.8,0.8,0.0,1,0,11,16,68.8,1,16,3,4,1,Eddie-Nketiah,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,FW,90,0,0,0,0,1,1,29,0,0,0,0.4,0.4,0.1,3,0,19,22,86.4,4,20,2,2,0,Eddie-Nketiah,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y,FW,90,0,0,0,0,6,4,45,0,0,1,0.4,0.4,0.0,4,1,25,35,71.4,1,28,5,4,4,Eddie-Nketiah,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,FW,89,2,0,0,0,5,2,25,0,0,0,0.9,0.9,0.0,0,0,14,15,93.3,1,14,1,2,1,Eddie-Nketiah,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,FW,72,0,0,0,0,2,2,18,0,0,0,0.1,0.1,0.0,0,0,8,9,88.9,1,13,1,3,0,Eddie-Nketiah,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,FW,90,0,0,0,0,1,0,23,0,1,1,0.0,0.0,0.1,2,0,10,14,71.4,1,13,1,1,0,Eddie-Nketiah,0,2,0,0,1,2
+Home,Arsenal,Everton,Y,FW,66,1,0,0,0,3,1,33,0,0,1,0.9,0.9,0.3,3,0,15,22,68.2,1,19,1,1,0,Eddie-Nketiah,5,1,1,0,0,6
+Away,Arsenal,Crystal Palace,N,FW,8,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,2,0,3,3,100.0,1,3,0,1,1,Eddie-Nketiah,2,0,1,0,0,2
+Home,Arsenal,Leicester City,N,FW,7,0,0,0,0,1,1,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,1,0,0,Eddie-Nketiah,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,N,"LW,FW",17,0,0,0,0,1,1,10,0,1,0,0.1,0.1,0.0,1,0,6,6,100.0,1,9,0,1,0,Eddie-Nketiah,3,0,1,0,0,3
+Home,Arsenal,Fulham,N,"AM,FW",30,0,0,0,0,3,1,11,1,0,0,0.4,0.4,0.0,2,0,4,5,80.0,0,9,2,3,3,Eddie-Nketiah,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,N,FW,3,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,1,2,1,Eddie-Nketiah,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,N,"FW,LM,LW",17,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Eddie-Nketiah,1,3,0,0,1,4
+Away,Arsenal,Brentford,N,LW,13,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,4,7,57.1,0,5,1,2,0,Eddie-Nketiah,3,0,1,0,0,3
+Home,Arsenal,Tottenham,N,FW,11,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,9,1,1,0,Eddie-Nketiah,3,1,1,0,0,4
+Home,Arsenal,Liverpool,N,FW,1,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Eddie-Nketiah,3,2,1,0,0,5
+Away,Arsenal,Leeds United,N,FW,9,0,0,0,0,1,0,7,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,2,4,1,1,0,Eddie-Nketiah,1,0,1,0,0,1
+Away,Arsenal,Southampton,N,LW,20,0,0,0,0,1,0,12,1,0,1,0.1,0.1,0.0,0,0,5,5,100.0,1,9,0,1,0,Eddie-Nketiah,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,N,LW,16,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,0,2,1,0,0,Eddie-Nketiah,5,0,1,0,0,5
+Home,Arsenal,West Ham,Y,FW,90,1,0,0,0,4,1,35,1,0,0,0.5,0.5,0.0,0,0,22,24,91.7,1,23,4,2,0,Eddie-Nketiah,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,FW,90,1,0,0,0,2,1,34,2,0,1,0.8,0.8,0.0,1,1,19,24,79.2,2,24,4,0,0,Eddie-Nketiah,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,FW,90,0,0,0,0,2,2,31,0,0,0,0.1,0.1,0.0,2,0,15,21,71.4,0,23,2,3,0,Eddie-Nketiah,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,FW,89,0,0,0,0,5,3,39,1,0,1,1.4,1.4,0.0,3,0,15,18,83.3,1,24,2,4,2,Eddie-Nketiah,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,FW,90,2,0,0,0,6,3,30,1,0,0,1.9,1.9,0.0,1,0,17,19,89.5,0,17,2,2,1,Eddie-Nketiah,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,FW,90,0,0,0,0,2,0,19,2,0,0,0.2,0.2,0.1,2,0,8,10,80.0,0,9,1,2,2,Eddie-Nketiah,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,FW,90,0,0,0,0,1,0,40,0,0,1,0.0,0.0,0.1,3,0,24,32,75.0,4,23,4,3,1,Eddie-Nketiah,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y,FW,90,0,0,0,0,4,0,24,1,0,0,0.6,0.6,0.0,2,1,11,13,84.6,1,14,1,1,0,Eddie-Nketiah,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,FW,90,0,0,0,0,5,0,25,1,0,1,1.1,1.1,0.3,4,0,11,14,78.6,0,10,2,1,1,Eddie-Nketiah,4,2,1,0,0,6
+Away,Arsenal,Leicester City,N,FW,21,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,1,5,0,2,2,Eddie-Nketiah,1,0,1,0,0,1
+Home,Arsenal,Everton,N,FW,19,0,1,0,0,1,1,9,0,0,0,0.2,0.2,0.4,2,1,6,7,85.7,0,7,1,1,1,Eddie-Nketiah,4,0,1,0,0,4
+Away,Arsenal,West Ham,N,FW,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Eddie-Nketiah,2,2,0,1,0,4
+Home,Arsenal,Southampton,N,FW,19,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.1,0,0,1,2,50.0,0,4,0,0,0,Eddie-Nketiah,3,3,0,1,0,6
+Away,Arsenal,Manchester City,N,LW,11,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,3,1,1,0,Eddie-Nketiah,1,4,0,0,1,5
+Away,Arsenal,Newcastle Utd,N,FW,4,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Eddie-Nketiah,2,0,1,0,0,2
+Home,Arsenal,Brighton,N,FW,14,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,3,0,0,0,Eddie-Nketiah,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,N,FW,28,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Eddie-Nketiah,0,1,0,0,1,1
+Home,Arsenal,Wolves,N,FW,11,0,0,0,0,1,0,5,0,0,0,0.7,0.7,0.0,0,0,3,4,75.0,0,4,0,0,0,Eddie-Nketiah,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Manchester City,N,AM,32,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,11,2,1,1,Emile-Smith-Rowe,0,3,0,0,1,3
+Away,Arsenal,Everton,Y,AM,65,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,18,23,78.3,2,21,2,2,1,Emile-Smith-Rowe,0,0,0,1,0,0
+Home,Arsenal,Chelsea,Y,AM,64,0,1,0,0,1,0,37,0,0,1,0.4,0.4,0.1,2,1,22,28,78.6,3,23,1,1,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,"AM,RW",88,0,0,0,0,0,0,48,1,0,2,0.0,0.0,0.1,5,0,34,39,87.2,3,33,4,3,2,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,West Brom,Y,AM,76,0,1,0,0,1,0,46,2,1,0,0.1,0.1,0.8,5,2,27,36,75.0,0,16,1,3,0,Emile-Smith-Rowe,4,0,1,0,0,4
+Home,Arsenal,Crystal Palace,Y,AM,90,0,0,0,0,1,0,57,1,1,0,0.0,0.0,0.0,0,0,37,48,77.1,6,30,1,3,1,Emile-Smith-Rowe,0,0,0,1,0,0
+Home,Arsenal,Newcastle Utd,Y,AM,81,0,1,0,0,0,0,59,0,0,1,0.0,0.0,0.2,6,1,48,56,85.7,6,30,4,1,1,Emile-Smith-Rowe,3,0,1,0,0,3
+Away,Arsenal,Southampton,Y,AM,71,0,0,0,0,1,0,37,2,2,0,0.0,0.0,0.0,0,0,25,29,86.2,2,15,2,3,1,Emile-Smith-Rowe,3,1,1,0,0,4
+Home,Arsenal,Manchester Utd,Y,AM,82,0,0,0,0,1,1,57,1,1,5,0.1,0.1,0.1,3,0,40,46,87.0,3,28,3,0,0,Emile-Smith-Rowe,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,"AM,DM",90,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.1,1,0,43,47,91.5,4,34,3,0,0,Emile-Smith-Rowe,1,2,0,0,1,3
+Away,Arsenal,Aston Villa,Y,"AM,DM,RW",90,0,0,0,0,1,0,72,1,0,1,0.1,0.1,0.1,5,0,56,60,93.3,7,45,6,3,2,Emile-Smith-Rowe,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,LW,61,0,1,0,0,1,0,33,0,1,2,0.1,0.1,0.7,4,3,22,25,88.0,0,14,0,0,0,Emile-Smith-Rowe,4,2,1,0,0,6
+Home,Arsenal,Manchester City,N,AM,18,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,Emile-Smith-Rowe,0,1,0,0,1,1
+Away,Arsenal,Leicester City,Y,AM,41,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,0,13,0,1,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Home,Arsenal,Tottenham,Y,LW,76,0,0,0,0,1,0,56,1,1,1,0.0,0.0,0.5,5,0,37,41,90.2,4,34,5,4,2,Emile-Smith-Rowe,2,1,1,0,0,3
+Away,Arsenal,West Ham,N,DM,17,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,11,11,100.0,0,11,2,0,0,Emile-Smith-Rowe,3,3,0,1,0,6
+Home,Arsenal,Fulham,Y,AM,90,0,0,0,0,2,0,61,0,0,0,0.1,0.1,0.5,3,0,52,55,94.5,3,43,5,4,1,Emile-Smith-Rowe,1,1,0,1,0,2
+Home,Arsenal,Everton,Y,"AM,RW",90,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,42,47,89.4,7,36,2,2,0,Emile-Smith-Rowe,0,1,0,0,1,1
+Home,Arsenal,West Brom,Y,AM,62,1,0,0,0,2,2,47,0,0,0,0.4,0.4,0.0,0,0,35,42,83.3,5,41,2,0,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Chelsea,Y,AM,90,1,0,0,0,1,1,41,1,1,0,0.5,0.5,0.0,2,0,28,31,90.3,3,29,1,1,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,"AM,LW",90,0,0,0,0,0,0,52,1,0,1,0.0,0.0,0.0,0,0,38,47,80.9,5,44,5,0,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Home,Arsenal,Brighton,Y,LW,73,0,0,0,0,0,0,41,3,0,0,0.0,0.0,0.2,7,0,32,36,88.9,7,28,4,1,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Away,Arsenal,Brentford,Y,AM,90,0,0,0,0,2,1,57,0,0,0,0.1,0.1,0.1,4,0,49,51,96.1,13,44,6,3,2,Emile-Smith-Rowe,0,2,0,0,1,2
+Home,Arsenal,Chelsea,Y,AM,90,0,0,0,0,2,1,47,0,0,1,0.1,0.1,0.0,0,0,33,39,84.6,6,34,5,5,4,Emile-Smith-Rowe,0,2,0,0,1,2
+Away,Arsenal,Manchester City,Y,"CM,LM",90,0,0,0,0,0,0,26,1,2,1,0.0,0.0,0.0,0,0,11,15,73.3,1,12,2,2,1,Emile-Smith-Rowe,0,5,0,0,1,5
+Home,Arsenal,Norwich City,N,DM,29,0,0,0,0,1,1,15,0,0,0,0.3,0.3,0.1,4,0,12,13,92.3,4,9,4,0,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,CM,60,0,0,0,0,2,1,40,1,0,0,0.5,0.5,0.0,0,0,26,30,86.7,1,24,2,1,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,LW,87,1,1,0,0,1,1,32,0,0,0,0.2,0.2,0.2,4,2,23,26,88.5,3,28,2,2,2,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,"LW,AM",90,0,0,0,0,1,1,40,1,1,3,0.1,0.1,0.0,3,0,24,27,88.9,6,23,4,5,3,Emile-Smith-Rowe,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,"CM,LW",90,0,0,0,0,2,1,58,0,0,2,0.2,0.2,0.0,2,0,42,48,87.5,1,29,2,4,2,Emile-Smith-Rowe,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,Y,LW,90,1,1,0,0,2,1,65,1,2,0,0.2,0.2,0.2,8,1,47,57,82.5,9,48,7,3,3,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,Leicester City,Y,LM,89,1,0,0,0,1,1,31,0,1,1,0.1,0.1,0.2,2,0,19,24,79.2,1,11,3,2,2,Emile-Smith-Rowe,2,0,1,0,0,2
+Home,Arsenal,Watford,Y,"LM,LW",85,1,0,0,0,2,1,39,1,0,2,0.2,0.2,0.0,0,0,22,29,75.9,1,24,2,2,2,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Liverpool,Y,LM,90,0,0,0,0,0,0,28,0,2,0,0.0,0.0,0.0,0,0,18,21,85.7,2,21,2,2,0,Emile-Smith-Rowe,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,LM,90,0,0,0,0,4,1,69,0,0,0,0.6,0.6,0.2,7,1,47,59,79.7,4,47,3,3,2,Emile-Smith-Rowe,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,LM,69,1,0,0,0,1,1,36,1,2,0,0.0,0.0,0.1,1,0,19,26,73.1,0,13,0,0,0,Emile-Smith-Rowe,2,3,0,0,1,5
+Home,Arsenal,West Ham,N,FW,25,1,0,0,0,2,2,20,0,0,0,0.1,0.1,0.0,1,0,13,17,76.5,1,10,1,0,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Away,Arsenal,Leeds United,N,"AM,LW",13,1,0,0,0,1,1,7,1,1,0,0.4,0.4,0.0,2,1,3,4,75.0,0,5,1,0,0,Emile-Smith-Rowe,4,1,1,0,0,5
+Away,Arsenal,Norwich City,N,LW,9,1,0,0,0,1,1,7,0,0,0,0.7,0.7,0.0,1,1,5,5,100.0,1,5,0,1,0,Emile-Smith-Rowe,5,0,1,0,0,5
+Home,Arsenal,Manchester City,N,"DM,LW",20,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Emile-Smith-Rowe,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,CM,76,0,0,0,0,2,1,48,0,0,0,0.3,0.3,0.3,4,0,37,45,82.2,5,31,3,1,0,Emile-Smith-Rowe,0,0,0,1,0,0
+Away,Arsenal,Wolves,N,"CM,AM",23,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,6,0,1,0,Emile-Smith-Rowe,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,LW,74,1,0,0,0,2,1,57,1,1,1,0.1,0.1,0.0,1,0,35,47,74.5,5,37,7,2,2,Emile-Smith-Rowe,2,1,1,0,0,3
+Home,Arsenal,Leicester City,N,LW,13,0,0,0,0,1,1,7,0,0,1,0.1,0.1,0.0,1,0,4,4,100.0,0,3,0,0,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Home,Arsenal,Liverpool,N,AM,24,0,0,0,0,1,0,16,0,0,0,0.1,0.1,0.0,2,0,12,15,80.0,2,11,0,2,2,Emile-Smith-Rowe,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,"LW,LM",90,0,0,0,0,3,1,47,0,0,1,0.9,0.9,0.0,2,0,36,43,83.7,2,37,2,1,1,Emile-Smith-Rowe,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,"CM,LW",90,0,0,0,0,1,1,65,0,1,0,0.2,0.2,0.2,6,0,49,57,86.0,10,44,0,2,0,Emile-Smith-Rowe,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,AM,61,0,0,0,0,1,0,27,1,0,1,0.1,0.1,0.1,0,0,13,20,65.0,0,12,0,1,0,Emile-Smith-Rowe,1,2,0,0,1,3
+Away,Arsenal,Southampton,N,CM,31,0,0,0,0,2,1,23,0,0,0,0.2,0.2,0.1,2,0,15,18,83.3,3,11,1,0,0,Emile-Smith-Rowe,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y,LW,74,1,0,0,0,2,1,28,1,0,2,0.2,0.2,0.1,4,0,15,19,78.9,0,19,3,2,2,Emile-Smith-Rowe,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,LW,63,0,0,0,0,0,0,27,1,1,1,0.0,0.0,0.0,2,0,18,20,90.0,2,15,2,1,0,Emile-Smith-Rowe,3,1,1,0,0,4
+Away,Arsenal,West Ham,N,LW,4,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,1,2,1,Emile-Smith-Rowe,2,1,1,0,0,3
+Home,Arsenal,Leeds United,N,LW,13,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,2,0,8,9,88.9,0,6,0,1,1,Emile-Smith-Rowe,2,1,1,0,0,3
+Away,Arsenal,Tottenham,N,"LM,CM,LW",27,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,10,10,100.0,1,4,0,0,0,Emile-Smith-Rowe,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,LW,52,0,0,0,0,0,0,18,2,1,0,0.0,0.0,0.0,0,0,6,10,60.0,1,7,0,2,0,Emile-Smith-Rowe,0,2,0,0,1,2
+Home,Arsenal,Leicester City,N,LW,7,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.2,1,0,3,4,75.0,0,2,0,1,1,Emile-Smith-Rowe,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,N,AM,17,0,0,0,0,1,1,8,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,1,2,0,2,1,Emile-Smith-Rowe,3,0,1,0,0,3
+Home,Arsenal,Aston Villa,N,AM,10,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,6,0,0,0,Emile-Smith-Rowe,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,N,"CM,DM",17,0,0,0,0,1,0,7,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,1,0,0,0,Emile-Smith-Rowe,1,3,0,0,1,4
+Away,Arsenal,Tottenham,N,FW,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Emile-Smith-Rowe,2,0,1,0,0,2
+Home,Arsenal,Everton,N,LW,9,0,0,0,0,1,0,12,0,0,0,0.1,0.1,0.0,1,0,8,10,80.0,0,9,0,0,0,Emile-Smith-Rowe,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,N,LW,47,0,1,0,0,1,0,33,0,0,0,0.0,0.0,0.3,4,1,25,29,86.2,1,27,2,1,0,Emile-Smith-Rowe,3,2,1,0,0,5
+Home,Arsenal,Crystal Palace,N,LW,8,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,0,0,Emile-Smith-Rowe,4,1,1,0,0,5
+Home,Arsenal,Leeds United,N,RM,6,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Emile-Smith-Rowe,4,1,1,0,0,5
+Away,Arsenal,Manchester City,N,RM,20,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,0,0,Emile-Smith-Rowe,1,4,0,0,1,5
+Home,Arsenal,Brighton,N,RM,14,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,6,0,1,0,Emile-Smith-Rowe,0,3,0,0,1,3
+Home,Arsenal,Wolves,N,RM,16,0,1,0,0,0,0,7,0,0,1,0.0,0.0,0.1,0,0,4,4,100.0,1,4,0,0,0,Emile-Smith-Rowe,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Manchester Utd,N,"CM,AM",17,0,0,0,0,2,1,19,0,1,1,0.1,0.1,0.0,2,0,8,11,72.7,2,7,0,2,2,Fabio-Vieira,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,RM,89,1,0,0,0,1,1,51,1,0,0,0.0,0.0,0.1,2,1,35,45,77.8,3,36,0,3,1,Fabio-Vieira,3,0,1,0,0,3
+Home,Arsenal,Tottenham,N,RW,11,0,0,0,0,1,0,13,0,1,0,0.1,0.1,0.0,1,0,8,9,88.9,1,9,1,0,0,Fabio-Vieira,3,1,1,0,0,4
+Home,Arsenal,Liverpool,N,RM,1,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Fabio-Vieira,3,2,1,0,0,5
+Away,Arsenal,Leeds United,N,AM,18,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,3,0,1,0,Fabio-Vieira,1,0,1,0,0,1
+Away,Arsenal,Southampton,N,RM,8,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,8,0,2,0,Fabio-Vieira,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,N,"LM,RW",28,0,0,0,0,1,0,18,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,8,0,0,0,Fabio-Vieira,5,0,1,0,0,5
+Away,Arsenal,Wolves,N,LM,74,0,1,0,0,2,0,37,0,1,0,0.1,0.1,0.9,3,1,22,28,78.6,3,24,1,2,0,Fabio-Vieira,2,0,1,0,0,2
+Home,Arsenal,West Ham,N,RW,3,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Fabio-Vieira,3,1,1,0,0,4
+Away,Arsenal,Tottenham,N,RM,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fabio-Vieira,2,0,1,0,0,2
+Away,Arsenal,Everton,N,RM,14,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,0,0,Fabio-Vieira,0,1,0,0,1,1
+Home,Arsenal,Brentford,N,LM,10,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,3,7,0,0,0,Fabio-Vieira,1,1,0,1,0,2
+Home,Arsenal,Manchester City,N,LM,8,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,5,1,1,0,Fabio-Vieira,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,N,"LM,CM",12,0,1,0,0,0,0,7,0,0,0,0.0,0.0,1.0,1,1,6,7,85.7,2,6,0,0,0,Fabio-Vieira,4,2,1,0,0,6
+Home,Arsenal,Everton,N,LM,19,0,0,0,0,3,0,26,0,1,1,0.3,0.3,0.0,1,0,15,18,83.3,3,14,0,0,0,Fabio-Vieira,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,LM,83,0,0,0,0,2,0,57,2,0,2,0.1,0.1,0.1,5,0,42,47,89.4,6,40,2,6,3,Fabio-Vieira,3,2,1,0,0,5
+Away,Arsenal,Fulham,N,RW,14,0,0,0,0,1,0,11,0,0,1,0.1,0.1,0.1,1,0,8,9,88.9,0,6,0,0,0,Fabio-Vieira,3,0,1,0,0,3
+Home,Arsenal,Leeds United,N,LM,5,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Fabio-Vieira,4,1,1,0,0,5
+Away,Arsenal,West Ham,N,"LM,LB",6,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,1,1,0,1,0,Fabio-Vieira,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,LM,56,0,0,0,0,2,0,35,0,0,0,0.1,0.1,0.1,3,0,23,31,74.2,2,18,2,0,0,Fabio-Vieira,3,3,0,1,0,6
+Away,Arsenal,Nott'ham Forest,N,LW,21,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,10,13,76.9,1,9,1,0,0,Fabio-Vieira,0,1,0,0,1,1
+Home,Arsenal,Wolves,N,"CM,LM",16,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,4,8,0,0,0,Fabio-Vieira,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Fulham,Y,CB,90,1,0,0,0,1,1,120,2,0,0,0.3,0.3,0.0,1,0,108,114,94.7,4,95,0,0,0,Gabriel-Dos-Santos,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,CB,90,0,0,0,0,0,0,94,0,2,3,0.0,0.0,0.0,0,0,77,83,92.8,3,64,0,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Home,Arsenal,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,109,1,1,1,0.0,0.0,0.0,0,0,95,104,91.3,6,83,1,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Away,Arsenal,Manchester City,Y,CB,90,0,0,0,0,2,0,83,0,1,3,0.1,0.1,0.0,1,0,63,76,82.9,0,59,0,0,0,Gabriel-Dos-Santos,0,1,0,0,1,1
+Home,Arsenal,Leicester City,Y,CB,90,0,0,0,0,2,0,105,2,1,1,0.2,0.2,0.0,2,0,80,97,82.5,9,86,0,0,0,Gabriel-Dos-Santos,0,1,0,0,1,1
+Away,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,0,0,64,5,2,1,0.0,0.0,0.0,1,0,45,49,91.8,0,43,0,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Home,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,0,0,92,0,4,2,0.0,0.0,0.0,0,0,65,82,79.3,2,65,1,0,0,Gabriel-Dos-Santos,0,3,0,0,1,3
+Away,Arsenal,Leeds United,Y,CB,90,0,0,0,0,1,0,43,1,1,1,0.1,0.1,0.0,0,0,21,31,67.7,1,28,0,1,0,Gabriel-Dos-Santos,0,0,0,1,0,0
+Home,Arsenal,Wolves,Y,CB,90,1,0,0,0,1,1,83,0,1,2,0.1,0.1,0.0,1,0,66,74,89.2,8,53,2,0,0,Gabriel-Dos-Santos,1,2,0,0,1,3
+Away,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,92,2,0,0,0.0,0.0,0.0,2,0,81,88,92.0,6,78,3,2,2,Gabriel-Dos-Santos,0,2,0,0,1,2
+Home,Arsenal,Burnley,Y,CB,90,0,0,0,0,3,1,82,1,3,1,0.2,0.2,0.0,0,0,51,70,72.9,0,53,1,0,0,Gabriel-Dos-Santos,0,1,0,0,1,1
+Home,Arsenal,Southampton,Y,CB,61,0,0,0,0,0,0,54,2,2,1,0.0,0.0,0.0,1,0,33,41,80.5,2,31,0,0,0,Gabriel-Dos-Santos,1,1,0,1,0,2
+Away,Arsenal,Wolves,N,CB,45,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,1,0,33,37,89.2,0,31,1,0,0,Gabriel-Dos-Santos,1,2,0,0,1,3
+Away,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,1,1,71,0,0,3,0.1,0.1,0.0,0,0,55,61,90.2,6,41,1,0,0,Gabriel-Dos-Santos,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,CB,90,0,0,0,0,0,0,54,0,3,1,0.0,0.0,0.0,0,0,31,42,73.8,1,37,0,0,0,Gabriel-Dos-Santos,4,2,1,0,0,6
+Home,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,67,0,0,1,0.0,0.0,0.0,0,0,55,63,87.3,2,47,1,1,1,Gabriel-Dos-Santos,2,1,1,0,0,3
+Home,Arsenal,Liverpool,Y,CB,90,0,0,0,0,0,0,58,3,0,1,0.0,0.0,0.0,0,0,31,50,62.0,0,31,1,0,0,Gabriel-Dos-Santos,0,3,0,0,1,3
+Home,Arsenal,Fulham,Y,CB,90,0,0,0,0,1,0,82,2,2,1,0.1,0.1,0.0,0,0,65,74,87.8,6,59,0,0,0,Gabriel-Dos-Santos,1,1,0,1,0,2
+Away,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,2,0,73,1,1,0,0.2,0.2,0.0,2,0,63,68,92.6,5,59,0,2,2,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,West Brom,Y,CB,90,0,0,0,0,1,0,80,0,0,0,0.1,0.1,0.0,1,0,63,74,85.1,7,64,2,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Away,Arsenal,Chelsea,Y,CB,90,0,0,0,0,0,0,57,1,0,3,0.0,0.0,0.0,0,0,30,42,71.4,3,33,3,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,CB,90,0,0,0,0,0,0,72,1,0,0,0.0,0.0,0.0,0,0,55,64,85.9,6,49,1,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Home,Arsenal,Brighton,Y,CB,90,0,0,0,0,1,0,82,1,1,1,0.0,0.0,0.0,0,0,66,75,88.0,3,60,0,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,Norwich City,Y,CB,90,0,0,0,0,2,0,58,2,0,3,0.1,0.1,0.0,2,0,45,48,93.8,4,40,0,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,CB,90,0,0,0,0,0,0,70,3,0,2,0.0,0.0,0.0,0,0,45,54,83.3,0,35,0,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,CB,90,0,0,0,0,1,0,58,0,0,2,0.0,0.0,0.1,1,0,45,50,90.0,3,36,0,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,CB,90,0,0,0,0,1,0,52,1,0,2,0.0,0.0,0.0,0,0,40,45,88.9,4,37,0,0,0,Gabriel-Dos-Santos,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,CB,90,0,0,0,0,1,0,86,1,1,0,0.0,0.0,0.0,1,0,71,79,89.9,7,58,0,1,1,Gabriel-Dos-Santos,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,0,0,52,2,2,1,0.0,0.0,0.1,0,0,37,42,88.1,1,31,0,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Away,Arsenal,Leicester City,Y,CB,90,1,0,0,0,1,1,44,0,0,2,0.1,0.1,0.0,0,0,26,32,81.3,0,19,0,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,Watford,Y,CB,90,0,0,0,0,1,1,86,1,0,1,0.1,0.1,0.0,0,0,73,78,93.6,4,63,1,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Away,Arsenal,Liverpool,Y,CB,90,0,0,0,0,0,0,60,5,0,2,0.0,0.0,0.0,0,0,45,52,86.5,1,38,0,1,1,Gabriel-Dos-Santos,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,79,3,0,1,0.0,0.0,0.0,0,0,61,64,95.3,2,50,3,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,1,1,72,0,0,0,0.1,0.1,0.0,4,0,60,68,88.2,3,40,1,1,1,Gabriel-Dos-Santos,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,CB,90,0,0,0,0,1,1,84,1,0,0,0.1,0.1,0.0,0,0,71,79,89.9,2,54,0,0,0,Gabriel-Dos-Santos,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,CB,68,1,0,0,0,2,1,48,0,0,1,0.4,0.4,0.0,0,0,35,40,87.5,1,25,0,0,0,Gabriel-Dos-Santos,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,CB,90,0,0,0,0,1,0,59,0,2,0,0.1,0.1,0.0,1,1,44,51,86.3,3,41,0,1,1,Gabriel-Dos-Santos,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,CB,90,0,0,0,0,2,0,51,0,0,0,0.0,0.0,0.0,1,0,36,45,80.0,1,42,0,0,0,Gabriel-Dos-Santos,4,1,1,0,0,5
+Away,Arsenal,Norwich City,Y,CB,90,0,0,0,0,0,0,78,2,1,0,0.0,0.0,0.0,0,0,65,70,92.9,1,51,0,0,0,Gabriel-Dos-Santos,5,0,1,0,0,5
+Home,Arsenal,Manchester City,Y,CB,58,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,9,0,0,0,Gabriel-Dos-Santos,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,CB,90,0,0,0,0,1,1,105,0,0,1,0.1,0.1,0.0,1,0,84,97,86.6,8,81,2,0,0,Gabriel-Dos-Santos,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,CB,90,1,0,0,0,3,1,59,2,1,1,0.8,0.8,0.4,2,0,38,44,86.4,3,38,0,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,CB,90,0,0,0,0,0,0,63,3,0,2,0.0,0.0,0.0,0,0,50,57,87.7,0,36,0,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,CB,90,0,0,0,0,1,0,81,2,0,0,0.0,0.0,0.0,1,0,65,73,89.0,5,51,0,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,CB,90,0,0,0,0,1,0,69,3,2,0,0.1,0.1,0.0,0,0,52,61,85.2,3,43,0,0,0,Gabriel-Dos-Santos,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,CB,90,0,0,0,0,0,0,70,1,1,1,0.0,0.0,0.0,0,0,60,63,95.2,4,47,0,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,CB,90,0,0,0,0,0,0,74,0,0,2,0.0,0.0,0.0,0,0,58,66,87.9,1,50,0,0,0,Gabriel-Dos-Santos,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,0,0,73,0,0,0,0.0,0.0,0.0,0,0,61,64,95.3,1,55,1,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,CB,90,0,0,0,0,1,1,117,0,1,0,0.1,0.1,0.0,2,0,100,109,91.7,7,87,1,0,0,Gabriel-Dos-Santos,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,CB,90,0,0,0,0,2,0,85,0,0,1,0.2,0.2,0.0,1,0,63,78,80.8,1,61,0,0,0,Gabriel-Dos-Santos,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,CB,90,0,0,0,0,1,1,101,3,0,0,0.0,0.0,0.0,1,0,84,91,92.3,10,81,2,0,0,Gabriel-Dos-Santos,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y,CB,90,0,0,0,0,0,0,45,4,1,1,0.0,0.0,0.0,1,0,26,31,83.9,2,19,0,0,0,Gabriel-Dos-Santos,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,1,0,55,1,0,2,0.0,0.0,0.0,0,0,40,48,83.3,4,40,1,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y,CB,90,1,0,0,0,1,1,57,2,0,1,0.2,0.2,0.0,0,0,41,46,89.1,1,39,0,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,CB,90,0,0,0,0,2,1,88,0,0,0,0.1,0.1,0.0,0,0,82,87,94.3,10,64,0,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,CB,75,0,0,0,0,0,0,56,2,1,4,0.0,0.0,0.0,3,0,39,44,88.6,1,31,0,0,0,Gabriel-Dos-Santos,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,CB,72,0,0,0,0,0,0,28,2,0,1,0.0,0.0,0.0,0,0,21,23,91.3,3,13,0,0,0,Gabriel-Dos-Santos,0,2,0,0,1,2
+Home,Arsenal,Everton,Y,CB,90,1,0,0,0,1,1,62,2,0,0,0.4,0.4,0.0,0,0,54,57,94.7,8,49,0,0,0,Gabriel-Dos-Santos,5,1,1,0,0,6
+Away,Arsenal,Crystal Palace,Y,CB,90,0,0,0,0,0,0,67,1,1,2,0.0,0.0,0.0,0,0,52,58,89.7,1,48,1,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,CB,90,0,0,0,0,1,0,67,3,0,1,0.0,0.0,0.0,1,0,49,55,89.1,5,36,0,1,0,Gabriel-Dos-Santos,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,CB,90,0,0,0,0,1,0,95,1,0,1,0.1,0.1,0.0,0,0,74,80,92.5,2,66,0,0,0,Gabriel-Dos-Santos,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,CB,90,1,0,0,0,1,1,93,3,1,2,0.7,0.7,0.2,1,0,77,83,92.8,6,59,0,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,4,1,56,1,1,0,0.3,0.3,0.0,1,0,43,45,95.6,3,33,1,0,0,Gabriel-Dos-Santos,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,1,0,51,1,0,2,0.0,0.0,0.0,2,0,40,47,85.1,4,36,1,0,0,Gabriel-Dos-Santos,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,CB,90,0,0,0,0,1,0,74,1,0,0,0.0,0.0,0.0,0,0,55,64,85.9,5,46,0,0,0,Gabriel-Dos-Santos,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,71,1,1,1,0.0,0.0,0.0,0,0,56,61,91.8,5,49,1,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,CB,90,0,0,0,0,0,0,65,1,0,3,0.0,0.0,0.0,1,0,47,55,85.5,4,38,0,0,0,Gabriel-Dos-Santos,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,CB,90,0,0,0,0,1,1,77,3,3,4,0.1,0.1,0.0,0,0,54,60,90.0,1,42,1,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,CB,90,0,0,0,0,1,0,92,1,0,1,0.1,0.1,0.0,0,0,70,78,89.7,5,57,0,0,0,Gabriel-Dos-Santos,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,CB,90,0,0,0,0,0,0,76,1,1,2,0.0,0.0,0.0,0,0,62,69,89.9,5,47,3,0,0,Gabriel-Dos-Santos,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,CB,90,1,0,0,0,1,1,68,0,1,0,0.8,0.8,0.0,0,0,50,59,84.7,2,36,0,1,1,Gabriel-Dos-Santos,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,CB,90,0,0,0,0,1,0,75,1,3,1,0.1,0.1,0.0,0,0,59,65,90.8,2,50,0,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y,CB,90,0,0,0,0,0,0,111,3,0,2,0.0,0.0,0.0,0,0,95,103,92.2,11,80,1,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,CB,90,0,0,0,0,2,1,34,0,1,1,0.4,0.4,0.0,1,0,22,28,78.6,1,17,0,0,0,Gabriel-Dos-Santos,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,2,0,80,2,1,0,0.1,0.1,0.0,1,0,65,69,94.2,6,48,0,0,0,Gabriel-Dos-Santos,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,50,0,2,1,0.0,0.0,0.0,1,0,28,39,71.8,3,23,0,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,1,0,68,2,1,2,0.1,0.1,0.0,1,0,48,57,84.2,3,32,1,0,0,Gabriel-Dos-Santos,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,CB,90,0,0,0,0,0,0,91,1,0,1,0.0,0.0,0.0,2,0,77,80,96.3,6,48,0,0,0,Gabriel-Dos-Santos,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,CB,90,0,0,0,0,1,1,61,3,1,2,0.0,0.0,0.0,2,0,39,47,83.0,6,35,1,0,0,Gabriel-Dos-Santos,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y,CB,90,0,0,0,0,0,0,73,0,0,1,0.0,0.0,0.0,1,0,65,69,94.2,3,52,1,0,0,Gabriel-Dos-Santos,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,2,0,66,1,0,0,0.3,0.3,0.0,1,1,58,62,93.5,7,41,1,0,0,Gabriel-Dos-Santos,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,CB,90,0,0,0,0,0,0,70,2,1,2,0.0,0.0,0.0,1,1,48,60,80.0,2,32,0,0,0,Gabriel-Dos-Santos,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,CB,90,0,0,0,0,0,0,93,0,2,1,0.0,0.0,0.0,0,0,76,88,86.4,6,58,0,0,0,Gabriel-Dos-Santos,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,CB,90,0,0,0,0,1,1,89,0,0,0,0.2,0.2,0.0,1,0,81,85,95.3,7,62,1,0,0,Gabriel-Dos-Santos,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,CB,90,1,0,0,0,1,1,59,2,0,2,0.3,0.3,0.0,0,0,43,50,86.0,1,46,0,0,0,Gabriel-Dos-Santos,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,CB,85,0,0,0,0,0,0,72,0,0,2,0.0,0.0,0.0,1,0,60,66,90.9,7,49,0,0,0,Gabriel-Dos-Santos,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,CB,90,0,0,0,0,2,0,98,2,1,0,0.4,0.4,0.0,1,0,77,84,91.7,9,66,0,0,0,Gabriel-Dos-Santos,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,CB,90,0,0,0,0,1,1,51,2,3,5,0.1,0.1,0.0,1,0,26,30,86.7,2,22,0,1,1,Gabriel-Dos-Santos,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y,CB,90,0,0,0,0,1,0,91,4,0,1,0.2,0.2,0.0,0,0,69,77,89.6,5,65,0,0,0,Gabriel-Dos-Santos,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,CB,90,0,0,0,0,0,0,88,1,1,0,0.0,0.0,0.0,1,0,79,85,92.9,6,61,2,0,0,Gabriel-Dos-Santos,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,CB,90,0,0,0,0,2,0,68,0,0,0,0.1,0.1,0.0,1,0,51,62,82.3,2,51,1,0,0,Gabriel-Dos-Santos,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,CB,84,0,0,0,0,1,0,70,1,1,1,0.2,0.2,0.0,0,0,55,59,93.2,2,48,0,0,0,Gabriel-Dos-Santos,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,44,1,2,0,0.0,0.0,0.0,0,0,34,39,87.2,0,26,0,0,0,Gabriel-Dos-Santos,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,CB,90,0,0,0,0,2,0,48,1,2,1,0.3,0.3,0.0,0,0,30,39,76.9,0,22,0,0,0,Gabriel-Dos-Santos,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,CB,90,0,0,0,0,0,0,107,0,1,2,0.0,0.0,0.0,1,0,88,97,90.7,7,77,1,0,0,Gabriel-Dos-Santos,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,CB,90,0,0,0,0,0,0,67,1,0,2,0.0,0.0,0.0,0,0,53,57,93.0,1,42,0,0,0,Gabriel-Dos-Santos,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Manchester City,Brighton,Y,FW,77,0,0,0,0,4,1,37,1,0,0,0.9,0.9,0.0,2,0,20,26,76.9,3,17,3,2,2,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Everton,Y,FW,45,0,0,0,0,2,1,35,0,0,1,0.1,0.1,0.0,1,0,23,28,82.1,4,17,1,3,2,Gabriel-Jesus,1,1,0,1,0,2
+Away,Manchester City,Bournemouth,Y,"FW,LW",81,1,0,0,0,3,1,35,1,0,1,0.5,0.5,0.0,3,1,21,24,87.5,2,15,1,2,1,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Liverpool,Y,FW,56,2,0,0,0,4,3,16,1,0,0,0.8,0.8,0.0,1,0,4,7,57.1,0,11,1,0,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Watford,Y,LW,64,1,0,0,0,2,1,29,1,0,1,0.4,0.4,0.0,2,2,16,23,69.6,3,16,3,2,2,Gabriel-Jesus,6,0,1,0,0,6
+Away,Manchester City,Chelsea,Y,FW,90,0,1,0,0,2,0,38,1,0,1,0.3,0.3,0.1,6,1,21,29,72.4,3,24,2,1,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Stoke City,Y,FW,62,2,0,0,0,2,2,36,0,0,0,1.1,1.1,0.0,3,0,28,32,87.5,3,23,3,2,2,Gabriel-Jesus,7,2,1,0,0,9
+Home,Manchester City,Burnley,N,FW,15,0,0,0,0,1,1,8,0,1,0,0.5,0.5,0.0,0,0,4,5,80.0,0,5,0,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,West Brom,Y,FW,81,0,0,0,0,0,0,51,1,1,4,0.0,0.0,0.0,1,0,30,38,78.9,1,25,1,0,0,Gabriel-Jesus,3,2,1,0,0,5
+Home,Manchester City,Arsenal,N,FW,29,1,0,0,0,2,2,16,0,0,0,0.8,0.8,0.0,0,0,10,14,71.4,1,7,0,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Leicester City,Y,FW,90,1,0,0,0,2,2,37,0,0,1,1.3,1.3,0.0,1,0,25,29,86.2,2,28,1,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Huddersfield,N,"CB,FW",11,0,0,0,0,1,1,7,1,0,0,0.5,0.5,0.0,1,1,4,4,100.0,0,3,0,1,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Southampton,Y,LW,73,0,0,0,0,4,3,59,5,1,1,0.4,0.4,0.0,5,1,30,46,65.2,1,36,0,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,West Ham,N,FW,45,0,1,0,0,3,1,31,0,0,1,0.3,0.3,0.8,2,1,17,21,81.0,3,20,2,2,1,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Manchester Utd,Y,FW,58,0,0,0,0,1,1,29,2,0,0,0.3,0.3,0.0,4,1,15,19,78.9,1,17,3,4,3,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Tottenham,N,FW,33,0,0,0,1,0,0,16,1,1,1,0.8,0.0,0.0,2,1,7,10,70.0,0,7,2,0,0,Gabriel-Jesus,4,1,1,0,0,5
+Away,Manchester City,Newcastle Utd,N,FW,80,0,0,0,0,2,1,36,1,0,1,0.1,0.1,0.2,5,0,23,29,79.3,2,14,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Crystal Palace,Y,FW,22,0,0,0,0,1,1,8,1,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,4,0,0,0,Gabriel-Jesus,0,0,0,1,0,0
+Away,Manchester City,Arsenal,N,FW,4,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Chelsea,N,FW,6,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Stoke City,Y,FW,89,0,1,0,0,1,0,22,0,0,0,0.0,0.0,0.3,4,2,12,18,66.7,3,10,2,1,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Everton,Y,FW,90,1,0,0,0,1,1,55,1,1,1,0.5,0.5,0.0,2,0,39,44,88.6,5,32,0,6,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Manchester Utd,N,FW,19,0,0,0,0,2,0,8,0,0,0,0.1,0.1,0.0,0,0,5,5,100.0,0,4,0,0,0,Gabriel-Jesus,2,3,0,0,1,5
+Away,Manchester City,Tottenham,Y,FW,75,1,0,0,0,3,2,18,1,0,0,0.5,0.5,0.1,2,1,8,12,66.7,2,10,0,2,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Swansea City,Y,FW,90,1,0,0,1,3,3,28,0,0,0,1.6,0.8,0.0,3,1,21,23,91.3,2,16,0,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,West Ham,Y,FW,79,1,0,0,0,2,1,39,1,3,0,1.1,1.1,0.4,5,1,29,33,87.9,4,23,1,2,2,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Huddersfield,Y,FW,90,0,0,0,0,2,0,44,3,0,2,0.2,0.2,0.1,4,0,25,32,78.1,1,24,1,1,1,Gabriel-Jesus,0,0,0,1,0,0
+Home,Manchester City,Brighton,Y,FW,82,0,0,0,0,2,0,37,0,0,0,0.2,0.2,0.0,0,0,27,30,90.0,2,25,0,2,2,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Southampton,N,"FW,LB",32,1,0,0,0,1,1,9,0,0,0,0.3,0.3,0.0,0,0,4,6,66.7,1,6,1,2,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Arsenal,N,FW,12,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,8,0,2,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Huddersfield,Y,FW,90,1,0,0,0,6,5,51,1,0,1,1.0,1.0,0.9,7,0,30,35,85.7,1,31,4,2,2,Gabriel-Jesus,6,1,1,0,0,7
+Away,Manchester City,Wolves,N,"FW,LW",29,0,0,0,0,1,1,9,0,0,0,0.3,0.3,0.0,1,0,5,6,83.3,1,8,0,0,0,Gabriel-Jesus,1,1,0,1,0,2
+Home,Manchester City,Newcastle Utd,Y,FW,57,0,0,0,0,3,2,21,0,0,1,0.3,0.3,0.0,1,0,9,13,69.2,0,19,2,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Fulham,N,FW,37,0,0,0,0,3,1,14,0,0,3,0.8,0.8,0.3,1,0,5,6,83.3,0,9,1,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Brighton,N,FW,25,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,2,0,7,9,77.8,1,8,0,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Liverpool,N,FW,25,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,9,1,3,2,Gabriel-Jesus,0,0,0,1,0,0
+Home,Manchester City,Burnley,N,FW,25,0,0,0,0,1,1,13,1,0,0,0.3,0.3,0.0,2,1,3,8,37.5,2,10,0,1,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Tottenham,N,FW,1,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,West Ham,N,FW,10,0,1,0,0,0,0,13,0,0,0,0.0,0.0,0.1,1,1,10,11,90.9,0,8,0,2,1,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Bournemouth,Y,FW,76,0,0,0,0,4,1,40,0,0,2,0.9,0.9,0.0,1,0,20,27,74.1,2,23,0,2,2,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Watford,Y,FW,88,0,1,0,0,3,1,34,0,0,2,0.6,0.6,0.3,5,1,23,26,88.5,0,22,1,3,1,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Chelsea,N,FW,38,0,0,0,0,2,1,17,1,0,2,0.2,0.2,0.0,0,0,6,8,75.0,0,13,0,2,1,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,Everton,Y,FW,90,2,0,0,0,2,2,45,1,0,0,0.6,0.6,0.1,5,1,29,40,72.5,3,37,4,1,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Crystal Palace,Y,FW,90,0,0,0,0,2,0,27,1,1,0,0.3,0.3,0.0,0,0,12,18,66.7,1,18,2,1,0,Gabriel-Jesus,2,3,0,0,1,5
+Away,Manchester City,Southampton,N,FW,18,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.3,1,0,7,7,100.0,2,7,2,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Wolves,Y,FW,75,2,0,1,1,2,1,34,0,1,1,1.5,0.8,0.1,4,0,17,21,81.0,0,14,2,1,1,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,Newcastle Utd,N,"RW,FW",18,0,0,0,0,0,0,9,2,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,6,0,0,0,Gabriel-Jesus,1,2,0,0,1,3
+Home,Manchester City,Arsenal,N,FW,10,0,0,0,0,1,1,6,0,0,1,0.1,0.1,0.0,0,0,1,2,50.0,1,4,1,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Everton,N,FW,11,1,0,0,0,2,2,13,1,0,1,0.6,0.6,0.0,1,1,4,5,80.0,0,10,1,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Chelsea,N,FW,26,0,0,0,0,2,1,17,0,0,0,0.4,0.4,0.0,1,0,12,14,85.7,1,14,3,1,1,Gabriel-Jesus,6,0,1,0,0,6
+Away,Manchester City,Bournemouth,N,FW,1,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,6,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Watford,N,FW,11,0,0,0,0,1,0,8,0,0,0,0.6,0.6,0.0,2,0,5,6,83.3,1,7,1,1,1,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Fulham,N,FW,34,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,9,9,100.0,0,8,2,5,2,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Cardiff City,Y,FW,90,0,1,0,0,4,1,50,0,0,0,1.4,1.4,0.1,9,1,40,44,90.9,3,40,3,3,3,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Crystal Palace,N,FW,16,1,0,0,0,2,1,15,1,0,0,0.6,0.6,0.0,1,0,9,10,90.0,1,13,2,2,1,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Manchester Utd,N,FW,2,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,1,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Burnley,N,"LW,FW",27,0,0,0,0,1,0,24,1,1,0,0.6,0.6,0.0,2,0,14,15,93.3,0,22,3,5,2,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Leicester City,N,FW,4,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,5,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,West Ham,Y,FW,68,1,0,0,0,2,2,15,0,0,1,0.2,0.2,0.0,1,0,10,11,90.9,1,8,1,1,1,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Tottenham,N,FW,25,0,0,0,0,4,0,13,0,0,1,0.4,0.4,0.0,3,0,6,6,100.0,1,8,0,3,3,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Norwich City,N,FW,34,0,1,0,0,3,1,19,0,1,2,0.2,0.2,0.0,4,2,9,11,81.8,1,12,1,3,3,Gabriel-Jesus,2,3,0,0,1,5
+Away,Manchester City,Everton,Y,FW,65,1,0,0,0,4,1,27,0,1,0,0.8,0.8,0.0,0,0,20,21,95.2,1,18,1,2,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Wolves,N,FW,16,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,1,7,0,0,0,Gabriel-Jesus,0,2,0,0,1,2
+Away,Manchester City,Crystal Palace,Y,FW,90,1,0,0,0,8,4,37,0,0,1,1.5,1.5,0.1,5,1,16,22,72.7,2,24,4,6,5,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Aston Villa,Y,"FW,LW",90,0,0,0,0,4,1,33,0,1,0,1.0,1.0,0.1,3,0,19,22,86.4,1,22,1,1,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Southampton,N,FW,45,0,0,0,0,1,1,19,1,0,2,0.6,0.6,0.1,1,0,12,13,92.3,1,13,0,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Liverpool,N,FW,20,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Gabriel-Jesus,1,3,0,0,1,4
+Home,Manchester City,Chelsea,N,FW,14,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Newcastle Utd,Y,FW,83,0,0,0,0,5,3,27,0,1,2,0.9,0.9,0.1,3,0,12,15,80.0,0,17,2,0,0,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Burnley,Y,FW,90,2,0,0,0,3,2,26,0,0,0,0.7,0.7,0.0,2,0,14,18,77.8,3,21,7,3,2,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Manchester Utd,Y,FW,90,0,0,0,0,3,0,33,1,1,2,0.5,0.5,0.0,1,0,16,20,80.0,0,19,3,4,2,Gabriel-Jesus,1,2,0,0,1,3
+Away,Manchester City,Arsenal,Y,FW,90,0,1,0,0,2,1,34,2,0,0,0.3,0.3,0.1,7,2,23,25,92.0,2,28,2,1,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Leicester City,Y,FW,90,1,0,0,0,4,4,29,2,0,1,1.2,1.2,0.0,0,0,17,20,85.0,0,19,3,0,0,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Sheffield Utd,N,FW,3,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,4,0,1,1,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Everton,Y,FW,90,2,0,0,0,8,4,42,1,0,2,1.1,1.1,0.1,4,0,21,27,77.8,0,26,3,2,2,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Aston Villa,Y,LW,90,1,1,0,0,5,2,74,1,0,1,0.7,0.7,0.4,1,0,54,62,87.1,0,56,3,2,2,Gabriel-Jesus,6,1,1,0,0,7
+Home,Manchester City,Crystal Palace,N,FW,29,0,1,0,0,1,0,18,0,0,0,0.1,0.1,0.6,2,1,9,11,81.8,1,13,0,3,1,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Sheffield Utd,Y,FW,66,0,0,0,1,1,1,23,0,1,0,0.9,0.1,0.0,1,0,12,15,80.0,0,13,0,1,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Tottenham,N,FW,19,0,0,0,0,1,1,13,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,11,0,1,0,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,West Ham,Y,LW,90,0,0,0,0,4,2,53,3,0,2,1.0,1.0,0.1,5,0,36,40,90.0,4,37,4,5,5,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Leicester City,N,FW,14,1,0,0,0,2,2,13,1,1,0,0.5,0.5,0.0,0,0,8,10,80.0,0,12,2,1,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Manchester Utd,N,FW,32,0,0,0,0,1,1,15,1,0,1,0.0,0.0,0.0,0,0,9,11,81.8,1,9,1,1,1,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,Arsenal,Y,FW,79,0,0,0,0,2,1,33,1,1,1,0.1,0.1,0.1,1,0,21,22,95.5,2,29,2,1,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Burnley,N,FW,46,0,1,0,0,3,0,29,0,0,0,0.2,0.2,0.4,5,1,22,24,91.7,1,17,4,1,1,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Chelsea,N,"FW,LW",36,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,10,0,3,2,Gabriel-Jesus,1,2,0,0,1,3
+Home,Manchester City,Liverpool,Y,FW,57,0,0,0,0,2,1,17,0,0,1,0.1,0.1,0.0,2,1,3,10,30.0,0,13,3,2,1,Gabriel-Jesus,4,0,1,0,0,4
+Away,Manchester City,Southampton,Y,FW,90,0,0,0,0,6,2,36,0,0,1,1.4,1.4,0.1,1,0,18,22,81.8,5,26,1,1,1,Gabriel-Jesus,0,1,0,0,1,1
+Home,Manchester City,Newcastle Utd,Y,FW,60,1,0,0,0,2,1,26,0,0,2,0.5,0.5,0.2,4,0,22,22,100.0,1,18,2,0,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Brighton,Y,FW,63,1,2,0,0,7,1,24,0,2,0,1.4,1.4,0.6,6,2,13,15,86.7,1,15,1,7,6,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Bournemouth,Y,"FW,LW",76,1,0,0,0,3,2,28,0,0,1,0.3,0.3,0.0,1,1,18,23,78.3,0,20,3,2,2,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Watford,Y,FW,90,0,0,0,0,3,1,24,1,0,0,0.5,0.5,0.0,2,0,17,19,89.5,0,18,0,0,0,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Norwich City,Y,FW,90,1,0,0,0,5,3,52,1,1,2,1.0,1.0,0.2,6,0,40,44,90.9,5,30,1,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Wolves,Y,FW,90,1,0,0,0,3,3,44,1,1,1,0.2,0.2,0.2,4,0,24,31,77.4,2,29,4,3,2,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Liverpool,Y,FW,90,1,0,0,0,2,1,28,0,0,1,0.5,0.5,0.0,2,0,18,23,78.3,0,14,0,2,1,Gabriel-Jesus,1,1,0,1,0,2
+Away,Manchester City,Tottenham,Y,FW,90,0,0,0,0,4,0,32,1,1,0,0.3,0.3,0.1,5,0,17,22,77.3,2,21,1,4,4,Gabriel-Jesus,0,2,0,0,1,2
+Home,Manchester City,Burnley,Y,FW,90,0,1,0,0,2,0,28,0,0,2,0.1,0.1,0.2,5,2,15,18,83.3,1,17,3,4,2,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Fulham,Y,FW,90,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.1,3,0,32,39,82.1,1,25,1,3,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Manchester Utd,Y,FW,90,0,0,0,0,1,0,36,1,5,0,0.4,0.4,0.3,3,0,21,27,77.8,2,25,1,5,2,Gabriel-Jesus,0,0,0,1,0,0
+Home,Manchester City,West Brom,Y,"FW,LW",90,0,0,0,0,2,0,24,3,0,0,0.1,0.1,0.0,3,0,13,14,92.9,0,8,0,0,0,Gabriel-Jesus,1,1,0,1,0,2
+Home,Manchester City,Brighton,N,RW,24,0,0,0,0,0,0,20,0,2,1,0.0,0.0,0.0,0,0,9,11,81.8,1,11,0,3,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Crystal Palace,Y,FW,90,0,0,0,0,1,1,37,0,0,0,0.1,0.1,0.1,3,0,29,31,93.5,0,21,1,4,3,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Aston Villa,N,,32,0,0,0,0,2,0,12,0,0,0,0.1,0.1,0.0,1,1,5,6,83.3,0,5,0,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,West Brom,N,FW,31,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,16,17,94.1,2,14,0,0,0,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Sheffield Utd,Y,FW,90,1,0,0,0,2,2,42,0,0,0,1.1,1.1,0.1,0,0,26,35,74.3,2,13,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Burnley,Y,FW,90,1,0,0,0,3,1,49,0,0,2,0.6,0.6,0.0,0,0,32,38,84.2,0,33,2,2,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Manchester City,Liverpool,N,FW,19,0,1,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,1,8,9,88.9,3,6,3,2,1,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Tottenham,Y,FW,78,0,0,0,0,3,0,40,1,0,2,0.2,0.2,0.0,3,1,30,32,93.8,5,28,2,1,1,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,Everton,Y,FW,90,0,1,0,0,4,0,61,0,0,2,0.4,0.4,0.0,4,1,37,45,82.2,3,42,4,4,4,Gabriel-Jesus,3,1,1,0,0,4
+Away,Manchester City,Arsenal,N,FW,28,0,0,0,0,1,0,15,0,0,0,0.1,0.1,0.3,1,0,9,11,81.8,0,10,2,2,2,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,West Ham,N,FW,30,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,1,10,1,0,0,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Wolves,Y,FW,90,2,0,0,0,5,3,36,1,0,0,1.8,1.8,0.1,5,0,23,26,88.5,1,22,2,2,1,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Manchester Utd,Y,FW,69,0,0,0,0,2,0,32,2,0,2,0.1,0.1,0.1,3,0,17,20,85.0,1,22,3,1,1,Gabriel-Jesus,0,2,0,0,1,2
+Away,Manchester City,Fulham,Y,LW,90,1,0,0,0,1,1,47,0,2,0,0.5,0.5,0.0,1,1,27,32,84.4,3,31,4,7,6,Gabriel-Jesus,3,0,1,0,0,3
+Away,Manchester City,Leicester City,Y,"LW,FW",90,1,0,0,0,2,1,40,3,0,0,0.6,0.6,0.3,4,0,18,24,75.0,1,27,1,4,3,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Leeds United,Y,FW,90,0,0,0,0,3,0,53,0,1,1,0.2,0.2,0.1,5,0,39,46,84.8,2,40,3,4,4,Gabriel-Jesus,1,2,0,0,1,3
+Away,Manchester City,Aston Villa,Y,FW,45,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,16,17,94.1,1,12,1,1,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Crystal Palace,Y,FW,90,0,0,0,0,3,0,49,1,1,1,0.4,0.4,0.1,4,1,20,29,69.0,2,30,1,4,1,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Chelsea,Y,FW,90,0,0,0,0,3,0,45,0,1,1,0.1,0.1,0.1,6,1,27,37,73.0,0,27,4,0,0,Gabriel-Jesus,1,2,0,0,1,3
+Away,Manchester City,Newcastle Utd,Y,FW,90,0,1,0,0,2,0,74,2,0,0,0.1,0.1,0.4,5,1,59,63,93.7,2,57,6,4,4,Gabriel-Jesus,4,3,1,0,0,7
+Away,Manchester City,Brighton,N,LM,14,0,0,0,0,1,1,10,0,0,0,0.1,0.1,0.0,1,0,5,5,100.0,2,7,0,2,2,Gabriel-Jesus,2,3,0,0,1,5
+Home,Manchester City,Everton,Y,"FW,RW",73,1,0,0,0,3,2,42,0,0,0,0.6,0.6,0.1,3,1,32,36,88.9,1,28,4,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Tottenham,N,"FW,LW",21,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,1,5,0,1,1,Gabriel-Jesus,0,1,0,0,1,1
+Home,Manchester City,Norwich City,Y,"RW,LW",90,0,2,0,0,1,0,82,1,1,0,0.1,0.1,1.3,2,1,65,73,89.0,6,55,3,2,1,Gabriel-Jesus,5,0,1,0,0,5
+Home,Manchester City,Arsenal,Y,RW,60,1,1,0,0,1,1,39,0,0,1,0.4,0.4,0.7,6,2,31,33,93.9,4,24,1,2,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,Leicester City,Y,RW,83,0,0,0,0,2,2,39,1,0,0,0.3,0.3,0.0,1,0,19,32,59.4,2,32,2,2,0,Gabriel-Jesus,1,0,1,0,0,1
+Home,Manchester City,Southampton,Y,"RW,FW",66,0,0,0,0,3,0,35,1,1,3,0.3,0.3,0.0,0,0,15,22,68.2,1,16,0,2,2,Gabriel-Jesus,0,0,0,1,0,0
+Away,Manchester City,Chelsea,Y,"RW,FW",90,1,0,0,0,3,1,56,2,1,0,0.4,0.4,0.0,1,0,37,47,78.7,2,32,5,3,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Liverpool,Y,RW,90,0,1,0,0,2,0,50,1,1,1,0.1,0.1,0.3,5,2,32,39,82.1,4,39,2,1,1,Gabriel-Jesus,2,2,0,1,0,4
+Away,Manchester City,Brighton,Y,RW,86,0,1,0,0,3,1,50,1,1,3,0.3,0.3,0.2,4,1,32,38,84.2,1,22,1,3,3,Gabriel-Jesus,4,1,1,0,0,5
+Home,Manchester City,Crystal Palace,Y,RW,90,0,0,0,0,4,1,42,2,1,0,0.3,0.3,0.1,3,0,27,32,84.4,4,18,2,6,4,Gabriel-Jesus,0,2,0,0,1,2
+Away,Manchester City,Manchester Utd,Y,RW,90,0,0,0,0,1,1,69,1,0,1,0.2,0.2,0.1,5,0,47,54,87.0,1,52,1,4,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,West Ham,Y,"RW,FW,LW",90,0,0,0,0,4,1,46,0,0,0,0.5,0.5,0.2,5,1,28,36,77.8,5,33,5,1,0,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Aston Villa,Y,FW,86,0,1,0,0,6,1,38,1,1,0,0.4,0.4,0.3,5,1,24,27,88.9,3,27,4,6,6,Gabriel-Jesus,2,1,1,0,0,3
+Away,Manchester City,Watford,N,FW,16,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,0,0,11,12,91.7,1,14,1,1,0,Gabriel-Jesus,3,1,1,0,0,4
+Home,Manchester City,Wolves,Y,FW,90,0,0,0,0,3,1,34,0,0,2,0.3,0.3,0.0,2,0,21,23,91.3,0,22,0,3,2,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Newcastle Utd,Y,FW,90,0,1,0,0,3,1,34,0,0,0,0.6,0.6,1.0,5,2,28,28,100.0,0,25,2,4,3,Gabriel-Jesus,4,0,1,0,0,4
+Away,Manchester City,Brentford,Y,RW,90,0,0,0,0,3,1,62,1,1,2,0.1,0.1,0.0,4,0,36,47,76.6,1,47,4,5,3,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Arsenal,Y,FW,62,0,0,0,0,1,0,23,0,0,0,0.1,0.1,0.1,1,0,12,14,85.7,1,18,0,4,3,Gabriel-Jesus,2,1,1,0,0,3
+Home,Manchester City,Chelsea,N,FW,3,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Southampton,N,RW,31,0,0,0,0,1,0,25,0,1,0,0.2,0.2,0.0,2,1,14,19,73.7,0,19,2,1,1,Gabriel-Jesus,1,1,0,1,0,2
+Away,Manchester City,Everton,N,"FW,LW",14,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Gabriel-Jesus,1,0,1,0,0,1
+Away,Manchester City,Burnley,N,FW,27,0,0,0,0,4,0,20,0,1,0,0.6,0.6,0.0,1,0,10,14,71.4,1,12,2,0,0,Gabriel-Jesus,2,0,1,0,0,2
+Home,Manchester City,Liverpool,Y,"RW,FW",82,1,0,0,0,4,2,26,1,0,0,0.4,0.4,0.4,3,0,12,16,75.0,4,15,1,3,2,Gabriel-Jesus,2,2,0,1,0,4
+Home,Manchester City,Brighton,N,FW,8,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Gabriel-Jesus,3,0,1,0,0,3
+Home,Manchester City,Watford,Y,"RW,LW",90,4,1,1,1,5,3,60,2,3,0,2.5,1.7,0.4,9,5,38,44,86.4,4,35,4,2,1,Gabriel-Jesus,5,1,1,0,0,6
+Away,Manchester City,Leeds United,Y,FW,90,1,0,0,0,2,2,47,1,1,3,0.7,0.7,0.3,6,1,28,34,82.4,2,31,2,4,3,Gabriel-Jesus,4,0,1,0,0,4
+Home,Manchester City,Newcastle Utd,Y,FW,62,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,1,0,22,26,84.6,1,16,0,2,2,Gabriel-Jesus,5,0,1,0,0,5
+Away,Manchester City,West Ham,Y,FW,90,0,0,0,0,4,1,42,0,0,0,0.3,0.3,0.1,8,0,27,31,87.1,4,31,2,6,5,Gabriel-Jesus,2,2,0,1,0,4
+Home,Manchester City,Aston Villa,Y,FW,90,0,0,0,0,3,0,38,1,0,2,0.7,0.7,0.2,5,1,12,19,63.2,2,22,5,3,2,Gabriel-Jesus,3,2,1,0,0,5
+Away,Arsenal,Crystal Palace,Y,FW,82,0,0,0,0,1,0,38,1,1,0,0.1,0.1,0.0,4,0,20,28,71.4,3,24,3,6,6,Gabriel-Jesus,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,FW,83,2,2,0,0,7,3,48,0,0,1,1.8,1.8,0.4,5,1,22,29,75.9,3,22,1,4,3,Gabriel-Jesus,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,"FW,RW",90,0,1,0,0,2,0,42,2,1,2,0.1,0.1,0.3,4,0,19,21,90.5,3,20,1,6,2,Gabriel-Jesus,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,FW,88,0,0,0,0,4,1,52,0,1,2,0.3,0.3,0.2,4,0,24,35,68.6,2,22,1,4,1,Gabriel-Jesus,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y,FW,87,1,0,0,0,4,3,37,0,0,0,0.9,0.9,0.1,4,0,14,20,70.0,2,24,1,7,1,Gabriel-Jesus,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,FW,90,0,0,0,0,2,0,54,2,0,0,0.1,0.1,0.6,5,0,29,34,85.3,6,35,2,9,3,Gabriel-Jesus,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,FW,90,1,0,0,0,4,3,50,2,0,0,0.8,0.8,0.0,3,0,34,38,89.5,1,38,2,2,2,Gabriel-Jesus,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,FW,79,1,0,0,0,4,3,39,2,0,1,1.4,1.4,0.1,1,0,18,21,85.7,1,30,3,4,1,Gabriel-Jesus,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,FW,89,0,0,0,0,2,2,34,1,0,2,0.3,0.3,0.0,5,2,19,21,90.5,3,23,4,4,3,Gabriel-Jesus,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,FW,81,0,0,0,0,1,0,38,1,0,2,0.1,0.1,0.1,3,0,20,24,83.3,2,21,0,3,1,Gabriel-Jesus,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,FW,90,0,0,0,0,4,1,40,2,0,1,0.3,0.3,0.0,3,0,23,28,82.1,2,23,3,3,0,Gabriel-Jesus,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,FW,90,0,2,0,0,7,3,62,3,1,1,0.7,0.7,0.6,6,2,36,45,80.0,2,32,1,3,0,Gabriel-Jesus,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,FW,90,0,0,0,0,3,1,53,2,2,1,0.5,0.5,0.2,8,1,18,27,66.7,5,30,4,10,4,Gabriel-Jesus,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,FW,90,0,0,0,0,5,0,50,1,2,2,0.4,0.4,0.0,3,1,29,31,93.5,3,26,4,2,1,Gabriel-Jesus,2,0,1,0,0,2
+Away,Arsenal,Fulham,N,FW,14,0,0,0,0,1,1,10,1,0,0,0.1,0.1,0.0,0,0,6,8,75.0,1,8,1,1,1,Gabriel-Jesus,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,N,FW,26,0,0,0,0,1,0,14,0,0,0,0.2,0.2,0.0,0,0,9,11,81.8,1,10,0,0,0,Gabriel-Jesus,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,FW,59,2,0,1,1,3,1,46,1,0,2,1.9,1.1,0.1,5,3,27,31,87.1,0,33,0,11,4,Gabriel-Jesus,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,FW,79,1,0,0,0,2,1,34,1,0,1,1.0,1.0,0.0,1,0,14,21,66.7,2,27,0,5,4,Gabriel-Jesus,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y,FW,66,1,0,0,0,1,1,55,1,1,0,0.8,0.8,0.0,1,0,35,44,79.5,2,36,2,4,1,Gabriel-Jesus,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,FW,90,0,0,0,0,6,1,42,2,0,0,1.1,1.1,0.0,4,0,18,25,72.0,4,23,1,5,2,Gabriel-Jesus,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,"FW,LW",79,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,15,20,75.0,0,13,2,4,1,Gabriel-Jesus,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,FW,90,1,0,0,0,3,1,54,1,0,0,0.3,0.3,0.2,5,1,37,39,94.9,7,30,1,1,0,Gabriel-Jesus,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,FW,86,0,0,0,0,2,1,45,1,1,4,0.1,0.1,0.1,2,0,14,20,70.0,4,20,2,4,1,Gabriel-Jesus,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,FW,76,0,0,0,0,2,1,25,2,0,2,0.1,0.1,0.1,2,0,7,13,53.8,1,12,2,1,1,Gabriel-Jesus,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,"FW,LW",90,0,0,0,0,4,2,41,1,0,0,0.3,0.3,0.1,2,0,18,24,75.0,1,29,0,4,0,Gabriel-Jesus,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,FW,90,1,1,0,0,1,1,53,2,1,3,0.3,0.3,0.5,2,1,36,41,87.8,3,31,3,4,1,Gabriel-Jesus,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Newcastle Utd,N,LW,7,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Gabriel-Martinelli,1,0,1,0,0,1
+Home,Arsenal,Bournemouth,N,"LW,RW",28,0,0,0,0,1,0,16,4,0,2,0.0,0.0,0.0,0,0,4,7,57.1,1,9,3,2,0,Gabriel-Martinelli,1,0,1,0,0,1
+Away,Arsenal,Sheffield Utd,N,LW,13,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,2,0,0,Gabriel-Martinelli,0,1,0,0,1,1
+Home,Arsenal,Wolves,N,"RW,FW",31,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,6,1,1,1,Gabriel-Martinelli,1,1,0,1,0,2
+Home,Arsenal,Southampton,N,LW,8,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,2,1,1,Gabriel-Martinelli,2,2,0,1,0,4
+Away,Arsenal,Norwich City,N,AM,2,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Gabriel-Martinelli,2,2,0,1,0,4
+Home,Arsenal,Brighton,N,LW,14,0,0,0,0,1,1,4,0,0,0,0.1,0.1,0.0,1,0,0,1,0.0,0,1,0,0,0,Gabriel-Martinelli,1,2,0,0,1,3
+Away,Arsenal,West Ham,Y,LW,90,1,0,0,0,2,1,31,3,0,3,0.3,0.3,0.1,1,0,11,16,68.8,0,19,2,3,0,Gabriel-Martinelli,3,1,1,0,0,4
+Home,Arsenal,Manchester City,Y,LW,90,0,0,0,0,1,1,41,3,1,2,0.3,0.3,0.0,2,0,14,21,66.7,1,31,6,6,2,Gabriel-Martinelli,0,3,0,0,1,3
+Away,Arsenal,Everton,Y,LW,90,0,0,0,0,2,0,38,2,0,2,0.1,0.1,0.0,0,0,11,19,57.9,0,17,4,5,2,Gabriel-Martinelli,0,0,0,1,0,0
+Away,Arsenal,Crystal Palace,N,"LW,FW",21,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,4,9,44.4,1,10,1,2,1,Gabriel-Martinelli,1,1,0,1,0,2
+Home,Arsenal,Sheffield Utd,Y,LW,90,1,0,0,0,3,1,36,0,0,3,1.0,1.0,0.0,0,0,9,18,50.0,2,20,2,5,1,Gabriel-Martinelli,1,1,0,1,0,2
+Away,Arsenal,Chelsea,Y,"LW,CM",89,1,0,0,0,1,1,37,3,1,0,0.4,0.4,0.0,0,0,10,19,52.6,4,21,4,3,0,Gabriel-Martinelli,2,2,0,1,0,4
+Away,Arsenal,Burnley,Y,RW,90,0,0,0,0,1,0,35,5,1,2,0.1,0.1,0.0,2,0,9,12,75.0,3,23,4,4,1,Gabriel-Martinelli,0,0,0,1,0,0
+Away,Arsenal,Everton,N,RW,20,0,0,0,0,1,0,10,0,1,1,0.1,0.1,0.0,0,0,4,5,80.0,0,7,0,2,2,Gabriel-Martinelli,1,2,0,0,1,3
+Home,Arsenal,Chelsea,Y,LW,70,0,0,0,0,4,2,28,3,1,0,0.3,0.3,0.0,1,0,6,14,42.9,2,13,1,2,1,Gabriel-Martinelli,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,LW,65,0,0,0,0,1,0,17,0,1,0,0.1,0.1,0.0,2,0,10,13,76.9,1,11,1,0,0,Gabriel-Martinelli,1,0,1,0,0,1
+Home,Arsenal,Newcastle Utd,N,LW,9,0,0,0,0,1,0,6,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,5,0,1,0,Gabriel-Martinelli,3,0,1,0,0,3
+Home,Arsenal,Manchester Utd,Y,LW,45,0,0,0,0,0,0,16,1,2,1,0.0,0.0,0.0,1,0,6,9,66.7,2,11,0,3,2,Gabriel-Martinelli,0,0,0,1,0,0
+Away,Arsenal,West Ham,N,LW,10,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0,Gabriel-Martinelli,3,3,0,1,0,6
+Home,Arsenal,Liverpool,N,LW,14,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Gabriel-Martinelli,0,3,0,0,1,3
+Away,Arsenal,Sheffield Utd,Y,LW,82,1,0,0,0,4,2,30,0,0,1,0.8,0.8,0.1,1,0,13,17,76.5,2,16,5,1,0,Gabriel-Martinelli,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,"LW,RW",90,0,0,0,0,4,2,42,1,0,1,1.1,1.1,0.5,6,0,24,28,85.7,0,27,9,5,5,Gabriel-Martinelli,1,1,0,1,0,2
+Home,Arsenal,Everton,N,FW,17,0,0,0,0,1,1,7,0,1,0,0.1,0.1,0.0,1,0,2,3,66.7,0,2,0,0,0,Gabriel-Martinelli,0,1,0,0,1,1
+Away,Arsenal,Newcastle Utd,Y,"LW,FW",90,0,1,0,0,1,0,54,1,1,0,0.0,0.0,1.1,6,1,35,41,85.4,1,39,4,7,2,Gabriel-Martinelli,2,0,1,0,0,2
+Home,Arsenal,West Brom,Y,FW,59,0,0,0,0,2,0,25,0,1,1,0.1,0.1,0.1,3,0,11,14,78.6,0,14,0,1,0,Gabriel-Martinelli,3,1,1,0,0,4
+Away,Arsenal,Crystal Palace,N,DM,13,1,0,0,0,1,1,5,0,0,0,0.8,0.8,0.0,0,0,2,3,66.7,0,4,1,1,0,Gabriel-Martinelli,3,1,1,0,0,4
+Home,Arsenal,Brighton,N,AM,5,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,1,2,1,Gabriel-Martinelli,2,0,1,0,0,2
+Away,Arsenal,Brentford,Y,"LW,FW",70,0,0,0,0,1,0,22,1,0,2,0.2,0.2,0.1,2,0,7,10,70.0,0,9,0,2,0,Gabriel-Martinelli,0,2,0,0,1,2
+Home,Arsenal,Chelsea,Y,"FW,LW",78,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,1,0,2,5,40.0,0,3,1,0,0,Gabriel-Martinelli,0,2,0,0,1,2
+Home,Arsenal,Crystal Palace,N,LM,10,0,0,0,0,1,1,11,0,0,1,0.3,0.3,0.0,1,1,5,7,71.4,0,6,0,2,0,Gabriel-Martinelli,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,N,FW,1,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Gabriel-Martinelli,3,1,1,0,0,4
+Home,Arsenal,Watford,N,RW,1,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,2,1,1,Gabriel-Martinelli,1,0,1,0,0,1
+Home,Arsenal,Newcastle Utd,N,RM,27,1,0,0,0,2,1,18,0,0,0,0.4,0.4,0.1,2,0,10,12,83.3,2,12,2,1,1,Gabriel-Martinelli,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,RM,90,0,1,0,0,4,0,39,1,2,0,0.3,0.3,0.6,4,2,21,27,77.8,1,21,2,6,3,Gabriel-Martinelli,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,LW,70,0,0,0,0,1,0,26,1,1,2,0.0,0.0,0.0,0,0,9,18,50.0,1,12,2,0,0,Gabriel-Martinelli,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,"LM,FW",90,0,1,0,0,1,0,39,3,0,1,0.0,0.0,0.4,4,1,15,25,60.0,1,22,3,5,2,Gabriel-Martinelli,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,LM,81,1,0,0,0,4,1,41,4,0,1,0.7,0.7,0.3,2,0,17,26,65.4,2,20,2,2,2,Gabriel-Martinelli,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,"LW,RW",90,2,0,0,0,2,2,48,2,3,3,0.8,0.8,0.3,6,1,16,28,57.1,0,24,7,2,2,Gabriel-Martinelli,4,1,1,0,0,5
+Away,Arsenal,Norwich City,Y,LW,81,0,0,0,0,3,1,45,3,1,1,0.1,0.1,0.0,4,2,21,29,72.4,2,31,4,5,3,Gabriel-Martinelli,5,0,1,0,0,5
+Home,Arsenal,Manchester City,Y,"LW,FW",90,0,0,0,0,5,1,27,1,3,1,0.6,0.6,0.0,3,0,6,11,54.5,1,12,2,5,3,Gabriel-Martinelli,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,LM,90,0,0,0,0,2,0,55,0,0,0,0.1,0.1,0.1,4,0,34,49,69.4,4,39,8,0,0,Gabriel-Martinelli,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,LW,68,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,2,0,13,22,59.1,2,18,2,2,0,Gabriel-Martinelli,1,0,1,0,0,1
+Home,Arsenal,Wolves,Y,LW,70,0,0,0,0,4,1,35,1,2,1,0.4,0.4,0.2,5,0,19,25,76.0,2,24,3,1,1,Gabriel-Martinelli,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,LW,72,1,0,0,0,3,1,26,1,1,1,0.2,0.2,0.1,1,0,13,18,72.2,0,13,1,3,2,Gabriel-Martinelli,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,LW,77,0,1,0,0,2,1,27,0,1,1,0.1,0.1,0.4,4,1,13,16,81.3,1,20,6,3,2,Gabriel-Martinelli,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,LW,90,0,0,0,0,1,0,54,1,1,1,0.1,0.1,0.0,1,0,23,35,65.7,1,33,3,3,3,Gabriel-Martinelli,0,2,0,0,1,2
+Away,Arsenal,Crystal Palace,N,"RW,LM",45,0,0,0,0,0,0,36,0,0,2,0.0,0.0,0.1,1,0,23,28,82.1,0,26,4,2,2,Gabriel-Martinelli,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,"LW,LM",73,0,0,0,0,2,1,32,0,0,0,0.4,0.4,0.0,2,0,17,23,73.9,3,26,5,3,2,Gabriel-Martinelli,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y,"RW,LW,FW",90,0,0,0,0,5,1,57,0,0,4,0.3,0.3,0.0,3,0,32,40,80.0,2,35,3,3,1,Gabriel-Martinelli,0,1,0,0,1,1
+Away,Arsenal,Chelsea,N,"FW,LM",21,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,5,1,3,1,Gabriel-Martinelli,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,N,"AM,LW",27,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,1,0,0,Gabriel-Martinelli,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y,"LW,RW",90,0,1,0,0,1,0,35,2,2,1,0.0,0.0,0.3,3,1,17,22,77.3,2,21,1,4,3,Gabriel-Martinelli,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,LW,77,0,1,0,0,4,2,48,1,0,0,0.4,0.4,0.4,7,2,32,38,84.2,0,38,6,4,3,Gabriel-Martinelli,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,LW,63,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.2,3,0,17,23,73.9,1,20,3,10,6,Gabriel-Martinelli,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,N,LW,38,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,12,18,66.7,0,16,3,1,0,Gabriel-Martinelli,0,2,0,0,1,2
+Home,Arsenal,Everton,Y,LW,90,1,1,1,1,3,1,63,1,1,2,1.8,1.1,0.9,7,2,36,43,83.7,7,39,2,6,2,Gabriel-Martinelli,5,1,1,0,0,6
+Away,Arsenal,Crystal Palace,Y,LW,90,1,0,0,0,2,1,35,0,0,1,0.4,0.4,0.1,1,0,24,28,85.7,3,27,1,3,3,Gabriel-Martinelli,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,"LW,RW",90,1,0,0,0,1,1,42,0,1,2,0.1,0.1,0.5,6,1,24,33,72.7,2,26,4,5,3,Gabriel-Martinelli,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,LW,73,0,0,0,0,4,1,34,1,0,1,0.4,0.4,0.0,4,2,15,21,71.4,2,24,3,3,1,Gabriel-Martinelli,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,"LW,WB,LM",90,0,0,0,0,7,2,63,4,0,3,0.6,0.6,0.4,8,1,29,42,69.0,6,30,3,3,1,Gabriel-Martinelli,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y,"LW,AM",90,1,0,0,0,5,2,56,1,1,0,0.2,0.2,0.4,5,1,31,40,77.5,5,36,5,5,3,Gabriel-Martinelli,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,"LW,LB",90,0,0,0,0,1,1,52,0,0,1,0.1,0.1,0.1,4,1,31,43,72.1,4,32,6,2,1,Gabriel-Martinelli,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,LW,77,0,0,0,0,1,1,43,0,1,0,0.2,0.2,0.2,5,0,25,31,80.6,2,30,1,5,4,Gabriel-Martinelli,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,LW,90,0,1,0,0,3,1,62,2,0,1,0.1,0.1,0.2,4,0,37,48,77.1,7,44,5,7,4,Gabriel-Martinelli,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,"LW,LM",90,1,1,0,0,2,1,52,0,0,0,0.5,0.5,1.1,3,1,24,33,72.7,5,31,4,4,0,Gabriel-Martinelli,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,"LW,AM",90,0,0,0,0,1,0,54,1,1,1,0.1,0.1,0.0,2,0,24,34,70.6,2,37,5,8,3,Gabriel-Martinelli,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,LW,70,0,0,0,0,1,0,33,2,0,0,0.0,0.0,0.0,3,0,13,21,61.9,2,22,5,3,2,Gabriel-Martinelli,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,LW,62,1,0,0,0,2,1,34,0,2,1,0.3,0.3,0.0,5,1,21,25,84.0,6,24,4,0,0,Gabriel-Martinelli,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,LW,89,0,0,0,0,2,0,39,0,0,0,0.2,0.2,0.3,2,0,22,29,75.9,7,27,2,2,1,Gabriel-Martinelli,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,LW,90,0,0,0,0,1,1,40,1,1,2,0.1,0.1,0.0,4,1,18,26,69.2,1,25,3,4,2,Gabriel-Martinelli,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y,LW,87,1,0,0,0,1,1,43,1,0,0,0.1,0.1,0.0,2,0,21,37,56.8,2,32,4,4,1,Gabriel-Martinelli,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,"LW,FW",90,1,0,0,0,5,2,37,2,0,0,0.6,0.6,0.0,3,2,16,24,66.7,1,27,8,3,1,Gabriel-Martinelli,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,LW,90,0,0,0,0,4,1,47,0,0,0,0.2,0.2,0.4,4,0,27,36,75.0,1,33,2,5,0,Gabriel-Martinelli,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,LW,78,0,0,0,0,1,0,45,2,0,1,0.1,0.1,0.7,4,0,24,32,75.0,0,34,3,5,1,Gabriel-Martinelli,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,LW,81,0,0,0,0,5,0,58,0,0,2,0.4,0.4,0.4,6,0,28,47,59.6,1,31,7,3,1,Gabriel-Martinelli,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,LW,58,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.1,5,0,27,34,79.4,5,29,3,7,1,Gabriel-Martinelli,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,LW,61,0,0,0,0,3,1,47,0,0,0,0.2,0.2,0.0,3,0,33,41,80.5,2,38,2,1,0,Gabriel-Martinelli,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y,LW,75,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,5,0,18,23,78.3,2,18,3,4,3,Gabriel-Martinelli,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,N,"LW,LM",23,1,0,0,0,1,1,12,0,0,0,1.0,1.0,0.1,2,0,6,9,66.7,0,10,3,2,1,Gabriel-Martinelli,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,LW,90,1,0,0,0,2,1,53,0,0,2,0.2,0.2,0.0,0,0,38,44,86.4,5,38,5,0,0,Gabriel-Martinelli,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,"LW,RW",90,2,0,0,0,3,2,49,1,1,0,0.9,0.9,0.2,2,0,34,38,89.5,1,30,0,0,0,Gabriel-Martinelli,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,"FW,LW",90,0,0,0,0,4,0,43,0,0,0,0.2,0.2,0.2,4,0,32,38,84.2,4,33,4,3,2,Gabriel-Martinelli,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,LW,76,1,0,0,0,4,2,36,0,0,1,1.0,1.0,0.2,3,1,20,26,76.9,2,29,1,2,1,Gabriel-Martinelli,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,LW,82,1,0,0,0,1,1,41,0,0,1,0.1,0.1,0.0,0,0,26,35,74.3,1,34,4,4,2,Gabriel-Martinelli,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,LW,90,0,1,0,0,4,1,61,0,1,0,0.4,0.4,0.9,6,2,34,43,79.1,3,48,4,9,5,Gabriel-Martinelli,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,"LW,LM",90,1,1,0,0,1,1,44,3,0,0,0.2,0.2,0.4,4,2,23,29,79.3,2,33,9,12,3,Gabriel-Martinelli,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y,LW,84,0,1,0,0,2,1,39,1,0,1,0.1,0.1,0.7,6,1,22,28,78.6,1,22,1,2,1,Gabriel-Martinelli,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,LW,84,1,0,0,0,2,1,66,1,0,2,0.4,0.4,1.1,7,0,39,53,73.6,3,48,5,7,4,Gabriel-Martinelli,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,LW,59,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,6,8,75.0,3,6,0,0,0,Gabriel-Martinelli,1,4,0,0,1,5
+Home,Arsenal,Chelsea,N,LW,32,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,5,1,0,0,Gabriel-Martinelli,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,LW,79,0,0,0,0,3,1,31,5,0,0,0.4,0.4,0.5,5,0,12,16,75.0,0,22,4,4,3,Gabriel-Martinelli,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,LW,19,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,1,1,Gabriel-Martinelli,0,3,0,0,1,3
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Crystal Palace,N,CB,5,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Jakub-Kiwior,4,1,1,0,0,5
+Away,Arsenal,Liverpool,N,CB,11,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Jakub-Kiwior,2,2,0,1,0,4
+Home,Arsenal,Chelsea,Y,CB,90,0,0,0,0,0,0,71,1,3,2,0.0,0.0,0.0,0,0,53,57,93.0,1,41,0,0,0,Jakub-Kiwior,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,39,2,1,1,0.0,0.0,0.0,0,0,25,29,86.2,0,21,0,0,0,Jakub-Kiwior,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,CB,90,0,0,0,0,0,0,56,1,2,1,0.0,0.0,0.0,0,0,41,48,85.4,4,36,0,0,0,Jakub-Kiwior,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,LB,62,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,32,42,76.2,1,25,0,0,0,Jakub-Kiwior,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,LB,79,1,0,0,0,1,1,28,2,0,1,0.1,0.1,0.0,1,0,20,22,90.9,0,13,0,1,1,Jakub-Kiwior,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Everton,N,CM,32,0,0,0,0,1,0,32,1,0,0,0.0,0.0,0.0,0,0,24,30,80.0,4,15,0,1,1,Jorginho,0,1,0,0,1,1
+Home,Arsenal,Manchester City,Y,CM,90,0,0,0,0,0,0,72,1,3,1,0.0,0.0,0.1,2,0,58,66,87.9,8,46,1,0,0,Jorginho,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,CM,90,0,0,0,0,1,0,86,3,0,0,0.1,0.1,0.1,5,1,71,81,87.7,15,54,2,1,0,Jorginho,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,CM,90,0,0,0,0,0,0,90,3,1,0,0.0,0.0,0.0,1,0,68,87,78.2,15,48,1,0,0,Jorginho,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,CM,45,0,0,0,0,1,0,46,0,0,1,0.0,0.0,0.0,0,0,33,40,82.5,6,35,3,0,0,Jorginho,4,0,1,0,0,4
+Home,Arsenal,Crystal Palace,N,"CM,RB",8,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,2,11,0,0,0,Jorginho,4,1,1,0,0,5
+Home,Arsenal,Leeds United,N,CM,31,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,0,0,27,31,87.1,3,22,0,2,0,Jorginho,4,1,1,0,0,5
+Away,Arsenal,West Ham,N,CM,24,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,5,23,1,2,1,Jorginho,2,2,0,1,0,4
+Away,Arsenal,Manchester City,N,LM,31,0,0,0,0,0,0,31,0,2,0,0.0,0.0,0.0,1,1,27,29,93.1,4,28,1,0,0,Jorginho,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,CM,85,0,0,0,0,0,0,74,0,0,2,0.0,0.0,0.0,3,0,62,69,89.9,5,51,0,1,0,Jorginho,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,CM,90,0,1,0,0,0,0,63,2,2,0,0.0,0.0,0.1,2,1,44,53,83.0,3,35,0,0,0,Jorginho,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y,CM,59,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,0,0,25,29,86.2,3,22,0,1,0,Jorginho,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,CM,90,0,0,0,0,2,0,126,1,0,1,0.1,0.1,0.0,1,0,109,120,90.8,19,94,6,0,0,Jorginho,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,CM,90,0,0,0,0,1,0,72,4,0,1,0.0,0.0,0.0,6,2,54,61,88.5,7,39,0,2,1,Jorginho,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Nott'ham Forest,Y,"LM,FW",90,0,0,0,0,2,0,65,1,1,1,0.1,0.1,0.2,3,0,47,54,87.0,4,54,3,1,0,Kai-Havertz,2,1,1,0,0,3
+Away,Arsenal,Crystal Palace,Y,"LM,FW,CM",90,0,0,0,0,1,0,38,1,1,1,0.0,0.0,0.1,2,0,25,28,89.3,4,17,0,2,0,Kai-Havertz,1,0,1,0,0,1
+Home,Arsenal,Fulham,Y,LM,55,0,0,0,0,1,0,27,2,0,0,0.3,0.3,0.3,2,0,20,23,87.0,5,9,1,0,0,Kai-Havertz,2,2,0,1,0,4
+Home,Arsenal,Manchester Utd,Y,LM,76,0,0,0,0,2,0,34,2,0,1,0.4,0.4,0.0,1,0,22,25,88.0,2,18,1,0,0,Kai-Havertz,3,1,1,0,0,4
+Away,Arsenal,Everton,N,LM,11,0,0,0,0,0,0,9,1,0,2,0.0,0.0,0.0,0,0,5,6,83.3,1,4,1,0,0,Kai-Havertz,1,0,1,0,0,1
+Home,Arsenal,Tottenham,N,LM,45,0,0,0,0,1,0,19,2,1,0,0.1,0.1,0.0,0,0,11,14,78.6,2,12,0,2,1,Kai-Havertz,2,2,0,1,0,4
+Away,Arsenal,Bournemouth,Y,LM,80,1,0,1,1,1,0,36,4,0,2,0.8,0.1,0.0,1,0,19,24,79.2,3,21,2,0,0,Kai-Havertz,4,0,1,0,0,4
+Home,Arsenal,Manchester City,N,FW,16,0,1,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,1,7,8,87.5,0,4,0,0,0,Kai-Havertz,1,0,1,0,0,1
+Away,Arsenal,Chelsea,N,RM,13,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,1,7,13,53.8,1,5,0,0,0,Kai-Havertz,2,2,0,1,0,4
+Home,Arsenal,Sheffield Utd,Y,RM,90,0,0,0,0,1,0,44,0,2,1,0.2,0.2,0.1,2,0,32,36,88.9,3,25,1,1,0,Kai-Havertz,5,0,1,0,0,5
+Away,Arsenal,Newcastle Utd,Y,"RM,LM",90,0,0,0,0,1,0,46,3,0,1,0.1,0.1,0.0,0,0,23,34,67.6,6,26,2,1,0,Kai-Havertz,0,1,0,0,1,1
+Home,Arsenal,Burnley,Y,RM,58,0,0,0,0,2,0,29,0,0,3,0.3,0.3,0.1,1,0,17,23,73.9,4,14,0,1,0,Kai-Havertz,3,1,1,0,0,4
+Away,Arsenal,Brentford,N,"LM,RM",12,1,0,0,0,1,1,9,1,0,0,0.3,0.3,0.0,0,0,5,7,71.4,0,6,1,1,1,Kai-Havertz,1,0,1,0,0,1
+Home,Arsenal,Wolves,N,LM,13,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,1,0,4,5,80.0,1,1,0,0,0,Kai-Havertz,2,1,1,0,0,3
+Away,Arsenal,Luton Town,Y,LM,90,1,0,0,0,5,1,45,1,1,0,0.8,0.8,0.2,5,0,20,33,60.6,4,23,1,2,2,Kai-Havertz,4,3,1,0,0,7
+Away,Arsenal,Aston Villa,Y,LM,90,0,0,0,0,1,0,31,3,0,0,0.0,0.0,0.2,5,0,15,19,78.9,4,13,2,3,1,Kai-Havertz,0,1,0,0,1,1
+Home,Arsenal,Brighton,Y,LM,88,1,0,0,0,4,1,42,0,2,2,0.8,0.8,0.0,0,0,28,30,93.3,3,25,2,0,0,Kai-Havertz,2,0,1,0,0,2
+Away,Arsenal,Liverpool,Y,LM,90,0,0,0,0,1,0,36,1,1,0,0.0,0.0,0.0,1,1,24,29,82.8,2,24,1,4,2,Kai-Havertz,1,1,0,1,0,2
+Away,Arsenal,Fulham,Y,"LM,CM",76,0,0,0,0,0,0,36,0,1,2,0.0,0.0,0.1,1,0,26,30,86.7,3,21,1,1,0,Kai-Havertz,1,2,0,0,1,3
+Home,Arsenal,Crystal Palace,Y,LM,68,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,4,0,25,27,92.6,4,23,1,0,0,Kai-Havertz,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Brighton,West Ham,Y,LW,84,1,0,0,0,4,1,36,1,0,1,0.4,0.4,0.0,4,1,18,27,66.7,3,29,2,2,1,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Southampton,Y,"FW,LW",90,0,0,0,0,1,0,45,1,0,0,0.0,0.0,0.5,9,0,27,38,71.1,3,27,8,3,3,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Manchester City,Y,"LW,RW",73,0,0,0,0,3,1,26,2,0,0,0.6,0.6,0.0,0,0,10,17,58.8,3,15,1,2,2,Leandro-Trossard,0,4,0,0,1,4
+Home,Brighton,Everton,N,LW,26,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,6,11,54.5,0,9,4,1,1,Leandro-Trossard,3,2,1,0,0,5
+Home,Brighton,Norwich City,N,RM,32,1,1,0,0,1,1,20,0,0,1,0.3,0.3,1.0,5,1,13,15,86.7,4,11,2,0,0,Leandro-Trossard,2,0,1,0,0,2
+Away,Brighton,Manchester Utd,Y,"LM,LW",58,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.2,2,0,16,25,64.0,2,15,0,2,0,Leandro-Trossard,1,3,0,0,1,4
+Home,Brighton,Leicester City,Y,"AM,LM,LW",90,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,3,0,26,38,68.4,1,35,3,6,3,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Liverpool,N,LW,22,0,0,0,0,1,0,26,0,0,0,0.2,0.2,0.0,2,1,11,19,57.9,2,18,0,2,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Arsenal,N,"LW,LM",11,0,0,0,0,1,0,10,0,0,0,0.1,0.1,0.0,1,1,6,8,75.0,1,9,2,0,0,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Wolves,Y,LW,67,0,1,0,0,1,0,22,0,0,0,0.0,0.0,0.1,3,1,15,20,75.0,2,10,1,0,0,Leandro-Trossard,2,2,0,1,0,4
+Away,Brighton,Crystal Palace,Y,LW,83,0,0,0,0,1,1,87,0,1,0,0.0,0.0,0.0,3,1,63,82,76.8,7,68,13,1,1,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Sheffield Utd,Y,LW,45,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,3,8,0,0,0,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Tottenham,N,AM,15,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,7,0,0,0,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Bournemouth,Y,"LW,LM",90,0,1,0,0,1,0,50,2,1,0,0.0,0.0,0.3,7,1,32,42,76.2,3,34,5,0,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Brighton,Chelsea,Y,"FW,LM,LW",90,0,0,0,0,2,1,50,3,1,0,0.1,0.1,0.1,7,1,23,35,65.7,4,31,2,2,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Everton,Y,"LW,LM",90,0,0,0,0,2,0,47,2,1,0,0.1,0.1,0.1,4,0,20,31,64.5,5,29,3,5,3,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Aston Villa,Y,"LM,LW",80,1,0,0,0,1,1,55,3,0,1,0.1,0.1,0.1,1,0,27,39,69.2,5,31,2,2,2,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Bournemouth,N,RM,31,0,0,0,0,1,0,14,1,0,2,0.0,0.0,0.0,2,0,3,7,42.9,0,10,1,0,0,Leandro-Trossard,1,3,0,0,1,4
+Away,Brighton,West Ham,Y,"LW,AM",90,0,0,0,0,2,1,59,0,2,0,0.4,0.4,0.2,6,0,34,47,72.3,7,44,4,4,1,Leandro-Trossard,3,3,0,1,0,6
+Home,Brighton,Watford,Y,"LW,LM",90,0,0,0,0,2,0,51,2,1,1,0.1,0.1,0.0,4,0,25,40,62.5,7,30,2,4,3,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Sheffield Utd,N,"LW,RB",16,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,0,0,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Crystal Palace,Y,"AM,LW",90,0,0,0,0,1,0,30,1,0,1,0.0,0.0,0.4,3,0,17,23,73.9,6,24,1,0,0,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Wolves,Y,LW,81,0,0,0,0,0,0,51,0,0,1,0.0,0.0,0.2,3,0,32,43,74.4,4,33,2,2,0,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Arsenal,Y,AM,86,0,0,0,0,1,0,22,1,0,1,0.0,0.0,0.0,4,1,11,17,64.7,3,16,3,0,0,Leandro-Trossard,2,1,1,0,0,3
+Away,Brighton,Leicester City,N,AM,34,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,13,17,76.5,0,12,0,0,0,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Manchester Utd,N,LM,45,0,0,0,0,3,0,32,0,0,0,0.1,0.1,0.0,3,0,19,24,79.2,6,22,1,2,1,Leandro-Trossard,0,3,0,0,1,3
+Away,Brighton,Norwich City,Y,"AM,FW",78,1,0,0,0,1,1,34,1,0,2,0.5,0.5,0.0,1,0,19,26,73.1,3,27,1,3,1,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Liverpool,Y,FW,90,1,0,0,0,4,1,34,0,0,2,1.2,1.2,0.5,3,0,18,25,72.0,1,26,2,3,3,Leandro-Trossard,1,3,0,0,1,4
+Home,Brighton,Manchester City,Y,LM,69,0,0,0,0,2,0,19,0,0,0,0.1,0.1,0.0,1,0,10,14,71.4,1,12,0,2,1,Leandro-Trossard,0,5,0,0,1,5
+Away,Brighton,Southampton,Y,"AM,FW",75,0,0,0,0,2,1,27,0,0,1,0.1,0.1,0.1,2,0,10,17,58.8,4,19,3,2,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Newcastle Utd,Y,AM,90,0,0,0,0,3,1,42,0,0,2,0.4,0.4,0.1,5,0,21,30,70.0,4,25,0,3,1,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Chelsea,Y,"FW,CM,AM",90,1,0,0,0,1,1,52,0,0,3,0.0,0.0,0.2,3,0,26,42,61.9,2,30,1,0,0,Leandro-Trossard,1,3,0,0,1,4
+Away,Brighton,Newcastle Utd,Y,"RW,LM,LW",90,0,1,0,0,3,1,39,1,2,0,0.1,0.1,0.7,3,1,15,30,50.0,4,19,1,0,0,Leandro-Trossard,3,0,1,0,0,3
+Home,Brighton,Manchester Utd,Y,RW,90,0,0,0,0,4,1,48,0,0,0,0.5,0.5,0.1,4,0,26,41,63.4,7,35,2,3,2,Leandro-Trossard,2,3,0,0,1,5
+Away,Brighton,Everton,Y,"AM,LW",90,0,0,0,0,4,1,53,0,0,0,0.2,0.2,0.1,4,1,36,47,76.6,8,29,2,1,1,Leandro-Trossard,2,4,0,0,1,6
+Away,Brighton,Crystal Palace,Y,AM,77,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.2,5,0,22,29,75.9,3,25,2,3,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,West Brom,Y,"AM,FW",78,0,0,0,0,2,2,44,0,0,0,0.1,0.1,0.0,1,0,28,35,80.0,9,23,2,3,1,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Tottenham,Y,FW,73,0,0,0,0,1,0,17,0,0,0,0.0,0.0,0.0,1,0,8,14,57.1,0,7,2,0,0,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Liverpool,N,AM,65,0,0,0,0,1,0,28,0,0,2,0.0,0.0,0.0,0,0,13,19,68.4,2,19,2,2,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Southampton,N,LW,9,0,0,0,0,1,1,6,1,0,1,0.0,0.0,0.1,1,0,3,3,100.0,1,3,0,0,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Fulham,Y,AM,78,0,0,0,0,1,0,53,2,2,1,0.0,0.0,0.2,3,0,24,40,60.0,1,28,1,1,0,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Sheffield Utd,Y,"LM,AM",90,0,0,0,0,3,0,73,2,0,2,0.2,0.2,0.5,11,1,49,62,79.0,11,34,3,1,1,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,West Ham,Y,AM,90,0,0,0,0,2,0,54,1,1,1,0.1,0.1,0.2,5,1,38,47,80.9,1,35,3,1,1,Leandro-Trossard,2,2,0,1,0,4
+Home,Brighton,Arsenal,N,"AM,LW",16,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,4,0,0,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Wolves,Y,AM,90,0,2,0,0,1,0,53,2,2,1,0.1,0.1,0.7,3,2,31,42,73.8,3,36,1,1,0,Leandro-Trossard,3,3,0,1,0,6
+Away,Brighton,Manchester City,Y,"FW,AM",85,0,0,0,0,1,0,42,1,0,1,0.1,0.1,0.1,3,0,25,33,75.8,3,30,3,4,2,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Leeds United,Y,"AM,RM",72,0,0,0,0,1,0,31,1,0,0,0.1,0.1,0.0,1,1,18,24,75.0,2,19,4,4,2,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Fulham,Y,FW,90,0,0,0,0,2,1,52,3,3,4,0.6,0.6,0.1,5,0,27,39,69.2,4,26,2,3,3,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Tottenham,Y,AM,78,1,0,0,0,1,1,57,1,2,1,0.1,0.1,0.1,5,0,40,47,85.1,9,40,3,1,1,Leandro-Trossard,1,0,1,0,0,1
+Away,Brighton,Liverpool,Y,FW,86,0,1,0,0,1,1,43,1,1,3,0.1,0.1,0.6,3,0,23,30,76.7,3,18,4,3,1,Leandro-Trossard,1,0,1,0,0,1
+Away,Brighton,Burnley,N,FW,29,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,7,1,1,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Aston Villa,Y,FW,90,0,0,0,0,6,2,51,1,0,1,0.3,0.3,0.1,8,0,31,39,79.5,8,33,5,2,1,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Crystal Palace,Y,"LM,FW",90,0,0,0,0,3,2,66,2,0,0,0.6,0.6,0.0,6,0,39,52,75.0,8,39,1,3,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,West Brom,Y,RW,90,0,0,0,0,1,1,59,3,0,1,0.1,0.1,0.0,4,0,33,41,80.5,8,38,1,2,1,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Leicester City,Y,"LM,RM,FW",90,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,2,0,24,27,88.9,4,23,2,5,1,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Southampton,Y,"LM,AM,FW",85,1,0,0,0,2,2,43,0,4,2,0.3,0.3,0.0,1,0,19,32,59.4,3,30,2,5,4,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Newcastle Utd,Y,AM,78,1,1,0,0,2,1,42,1,1,0,0.1,0.1,0.3,4,1,30,36,83.3,10,36,1,4,4,Leandro-Trossard,3,0,1,0,0,3
+Away,Brighton,Manchester Utd,Y,AM,62,0,0,0,0,0,0,34,2,1,2,0.0,0.0,0.0,1,0,18,22,81.8,1,20,0,0,0,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Everton,Y,"AM,LW",90,0,0,0,0,4,0,41,0,2,2,0.2,0.2,0.1,6,0,23,30,76.7,2,25,4,3,2,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Chelsea,Y,FW,59,0,0,0,0,1,1,32,3,3,1,0.0,0.0,0.0,0,0,16,20,80.0,0,14,0,3,1,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Sheffield Utd,Y,"AM,WB,CM",81,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.1,1,0,24,39,61.5,2,34,5,2,2,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Leeds United,Y,AM,80,0,0,0,0,3,2,32,2,0,0,0.4,0.4,0.4,5,1,17,23,73.9,5,26,3,3,3,Leandro-Trossard,2,0,1,0,0,2
+Away,Brighton,Wolves,Y,LM,57,0,0,0,0,1,0,25,1,0,0,0.1,0.1,0.0,2,1,16,19,84.2,1,19,2,2,1,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,West Ham,Y,LW,82,0,0,0,0,3,1,53,0,0,2,0.1,0.1,0.0,4,0,39,47,83.0,9,36,1,0,0,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Manchester City,N,"FW,WB",62,1,0,0,0,1,1,33,0,0,0,0.1,0.1,0.1,5,1,23,29,79.3,7,24,7,2,2,Leandro-Trossard,3,2,1,0,0,5
+Away,Brighton,Arsenal,Y,LW,45,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,0,0,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Burnley,Y,"LM,FW",75,0,0,0,0,1,0,37,1,0,0,0.1,0.1,0.0,1,0,18,27,66.7,5,26,8,5,3,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Watford,Y,FW,71,0,0,0,0,2,0,45,2,0,1,0.1,0.1,0.0,0,0,29,39,74.4,6,26,7,0,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Brighton,Everton,Y,"AM,FW",90,0,0,0,0,5,2,46,2,1,2,0.3,0.3,0.0,5,0,24,31,77.4,3,33,3,1,1,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Brentford,Y,AM,90,1,0,0,0,1,1,57,4,0,2,0.1,0.1,0.2,3,0,32,44,72.7,3,37,2,3,1,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Leicester City,Y,"FW,AM",90,0,1,0,0,2,1,41,0,1,0,0.1,0.1,0.2,7,1,29,36,80.6,5,24,3,6,5,Leandro-Trossard,2,1,1,0,0,3
+Away,Brighton,Crystal Palace,Y,"AM,RW",90,0,0,0,0,1,0,46,4,0,0,0.0,0.0,0.0,1,0,31,35,88.6,5,31,3,4,3,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Arsenal,Y,"FW,AM",90,0,0,0,0,6,1,62,1,0,1,0.2,0.2,0.1,7,0,39,47,83.0,9,44,4,3,3,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Norwich City,Y,"FW,AM",90,0,0,0,0,3,1,60,2,1,3,0.1,0.1,0.0,1,0,33,44,75.0,10,34,1,1,1,Leandro-Trossard,0,0,0,1,0,0
+Home,Brighton,Manchester City,Y,FW,90,0,0,0,0,3,2,41,0,0,2,0.1,0.1,0.3,4,1,28,34,82.4,8,24,2,2,2,Leandro-Trossard,1,4,0,0,1,5
+Away,Brighton,Liverpool,Y,FW,90,1,0,0,0,2,1,41,0,0,0,0.5,0.5,0.1,4,1,26,31,83.9,5,20,1,4,3,Leandro-Trossard,2,2,0,1,0,4
+Home,Brighton,Newcastle Utd,Y,FW,90,1,0,1,1,4,2,56,1,0,1,0.9,0.1,0.2,5,1,34,43,79.1,3,38,1,0,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Aston Villa,Y,FW,90,0,0,0,0,2,1,35,1,0,1,0.2,0.2,0.2,1,0,16,24,66.7,1,22,2,4,3,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Leeds United,Y,"LW,AM",90,0,0,0,0,4,1,52,1,1,0,0.3,0.3,0.1,4,0,28,37,75.7,8,37,3,9,5,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,West Ham,Y,"LW,AM",90,0,0,0,0,1,0,50,1,0,1,0.0,0.0,0.2,1,0,30,40,75.0,5,30,0,1,1,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Southampton,Y,"FW,CM",90,0,0,0,0,1,1,40,0,1,1,0.1,0.1,0.1,2,0,18,30,60.0,1,25,2,2,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Wolves,Y,"LW,FW",90,0,0,0,0,2,1,36,0,0,0,0.1,0.1,0.0,3,0,24,28,85.7,5,19,1,0,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Brighton,Brentford,Y,FW,45,1,0,0,0,2,2,27,0,1,0,0.3,0.3,0.0,1,0,16,19,84.2,3,19,3,1,0,Leandro-Trossard,2,0,1,0,0,2
+Away,Brighton,Everton,Y,FW,80,0,0,0,0,1,0,34,1,0,0,0.0,0.0,0.0,4,1,24,28,85.7,5,31,0,0,0,Leandro-Trossard,3,2,1,0,0,5
+Home,Brighton,Crystal Palace,Y,"FW,AM",90,0,0,0,0,5,1,44,0,1,2,0.4,0.4,0.0,4,0,28,36,77.8,5,27,2,2,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Brighton,Chelsea,N,"FW,LM",29,0,0,0,0,1,0,19,0,0,0,0.1,0.1,0.0,1,0,9,13,69.2,1,11,3,1,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Leicester City,Y,FW,90,0,0,0,0,3,1,53,1,0,1,0.3,0.3,0.3,9,1,30,40,75.0,4,35,5,4,3,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Manchester Utd,Y,FW,59,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,1,0,15,21,71.4,1,13,1,0,0,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Burnley,N,AM,36,0,0,0,0,1,0,25,1,0,0,0.1,0.1,0.0,1,0,16,22,72.7,4,13,0,0,0,Leandro-Trossard,0,3,0,0,1,3
+Home,Brighton,Aston Villa,Y,FW,90,0,0,0,0,1,0,52,2,0,1,0.1,0.1,0.0,3,0,26,43,60.5,6,32,1,4,2,Leandro-Trossard,0,2,0,0,1,2
+Away,Brighton,Newcastle Utd,Y,"AM,LM",90,0,0,0,0,3,1,77,0,1,0,0.2,0.2,0.0,2,0,54,68,79.4,11,43,4,4,3,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Liverpool,Y,"LW,AM",90,0,0,0,0,2,1,40,0,1,4,0.2,0.2,0.0,2,0,16,23,69.6,3,27,0,2,0,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Tottenham,Y,"LW,LM",90,0,0,0,0,2,0,59,2,3,0,0.1,0.1,0.1,5,0,33,45,73.3,6,38,4,3,3,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Norwich City,Y,AM,90,0,0,0,0,3,0,52,2,1,0,0.2,0.2,0.2,10,0,38,43,88.4,4,47,6,6,5,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Arsenal,Y,WB,84,1,0,0,0,1,1,31,0,1,2,0.3,0.3,0.0,2,1,18,24,75.0,3,25,3,1,1,Leandro-Trossard,2,1,1,0,0,3
+Away,Brighton,Tottenham,Y,WB,90,1,0,0,0,2,1,62,2,0,3,0.1,0.1,0.1,3,1,39,52,75.0,5,38,2,1,1,Leandro-Trossard,1,0,1,0,0,1
+Home,Brighton,Southampton,Y,"AM,RM",90,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.4,2,0,25,37,67.6,4,30,2,2,1,Leandro-Trossard,2,2,0,1,0,4
+Away,Brighton,Wolves,Y,"WB,AM",88,1,0,0,0,2,2,56,0,1,2,0.3,0.3,0.2,6,3,31,43,72.1,1,39,9,4,2,Leandro-Trossard,3,0,1,0,0,3
+Home,Brighton,Manchester Utd,Y,"WB,AM",82,1,2,0,0,3,1,43,1,0,1,1.0,1.0,0.7,4,2,21,32,65.6,3,27,6,0,0,Leandro-Trossard,4,0,1,0,0,4
+Away,Brighton,Leeds United,Y,"WB,LW",86,0,0,0,0,1,0,41,0,0,0,0.0,0.0,1.0,4,0,20,29,69.0,3,22,3,0,0,Leandro-Trossard,1,1,0,1,0,2
+Away,Brighton,Manchester Utd,Y,"LW,FW",74,0,0,0,0,2,0,31,0,1,1,0.1,0.1,0.2,6,1,16,22,72.7,1,22,0,4,0,Leandro-Trossard,2,1,1,0,0,3
+Home,Brighton,Newcastle Utd,Y,WB,74,0,0,0,0,2,1,42,0,0,1,0.1,0.1,0.0,2,0,21,34,61.8,6,23,5,2,1,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,West Ham,Y,"WB,LW",89,1,0,0,0,5,1,47,0,0,0,0.6,0.6,0.1,4,1,27,37,73.0,4,24,6,2,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Brighton,Leeds United,Y,"LM,RW",78,0,1,0,0,2,0,32,0,0,2,0.3,0.3,0.2,5,1,11,19,57.9,3,22,2,6,2,Leandro-Trossard,1,0,1,0,0,1
+Away,Brighton,Fulham,Y,"LW,AM,FW",90,0,0,0,0,1,1,35,1,0,1,0.1,0.1,0.1,1,0,21,25,84.0,6,27,1,1,1,Leandro-Trossard,1,2,0,0,1,3
+Home,Brighton,Leicester City,Y,WB,88,1,0,0,0,1,1,66,2,2,2,0.2,0.2,0.4,7,2,40,50,80.0,11,30,3,4,1,Leandro-Trossard,5,2,1,0,0,7
+Away,Brighton,Liverpool,Y,AM,86,3,0,0,0,4,4,36,0,1,2,0.9,0.9,0.0,2,1,15,24,62.5,4,25,4,6,4,Leandro-Trossard,3,3,0,1,0,6
+Home,Brighton,Tottenham,Y,"AM,RW",90,0,0,0,0,2,0,55,0,0,1,0.1,0.1,0.0,4,0,38,46,82.6,3,29,1,2,1,Leandro-Trossard,0,1,0,0,1,1
+Away,Brighton,Brentford,Y,LM,68,0,0,0,0,2,0,36,2,0,0,0.1,0.1,0.3,4,0,18,27,66.7,3,25,1,1,0,Leandro-Trossard,0,2,0,0,1,2
+Home,Brighton,Nott'ham Forest,Y,WB,90,0,0,0,0,4,1,74,3,1,3,0.2,0.2,0.2,2,0,38,55,69.1,3,39,5,1,0,Leandro-Trossard,0,0,0,1,0,0
+Away,Brighton,Manchester City,Y,"WB,LW,FW",90,1,0,0,0,3,2,56,1,1,1,0.2,0.2,0.0,2,1,28,45,62.2,7,32,2,3,1,Leandro-Trossard,1,3,0,0,1,4
+Home,Brighton,Chelsea,Y,FW,86,1,0,0,0,6,3,41,0,0,1,1.4,1.4,0.0,3,1,22,29,75.9,4,28,2,2,2,Leandro-Trossard,4,1,1,0,0,5
+Away,Brighton,Wolves,Y,"FW,AM",81,0,1,0,0,1,0,35,0,0,0,0.0,0.0,0.3,4,1,18,27,66.7,4,31,2,2,0,Leandro-Trossard,3,2,1,0,0,5
+Home,Brighton,Aston Villa,Y,"AM,LW",90,0,0,0,0,1,1,55,1,0,1,0.0,0.0,0.1,2,0,32,42,76.2,4,38,4,2,0,Leandro-Trossard,1,2,0,0,1,3
+Away,Brighton,Southampton,Y,FW,82,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.2,2,0,24,30,80.0,3,22,1,2,1,Leandro-Trossard,3,1,1,0,0,4
+Home,Brighton,Arsenal,Y,FW,59,0,0,0,0,2,2,22,0,0,1,0.2,0.2,0.0,1,0,10,17,58.8,1,12,1,0,0,Leandro-Trossard,2,4,0,0,1,6
+Home,Arsenal,Manchester Utd,N,"LW,LM",9,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,4,2,2,2,Leandro-Trossard,3,2,1,0,0,5
+Away,Arsenal,Everton,N,LW,32,0,0,0,0,2,1,18,2,0,0,0.1,0.1,0.0,1,0,7,13,53.8,1,12,3,1,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Arsenal,Brentford,N,LW,29,1,0,0,0,2,1,25,0,0,0,0.7,0.7,0.0,1,0,19,22,86.4,3,17,0,3,2,Leandro-Trossard,1,1,0,1,0,2
+Home,Arsenal,Manchester City,N,LW,15,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,10,14,71.4,2,15,1,0,0,Leandro-Trossard,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,LW,67,0,0,0,0,0,0,37,1,0,2,0.0,0.0,0.0,2,0,24,31,77.4,6,24,7,1,1,Leandro-Trossard,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,FW,69,0,1,0,0,2,0,34,1,1,0,0.1,0.1,0.1,3,1,21,27,77.8,4,24,0,4,2,Leandro-Trossard,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,FW,71,0,1,0,0,1,0,33,1,0,0,0.2,0.2,0.5,1,1,19,28,67.9,2,21,6,1,1,Leandro-Trossard,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,FW,21,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,11,15,73.3,2,14,1,1,1,Leandro-Trossard,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,FW,76,0,3,0,0,2,1,47,1,1,2,0.2,0.2,1.0,2,2,29,41,70.7,4,31,2,1,1,Leandro-Trossard,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,FW,64,0,1,0,0,1,0,37,0,0,3,0.0,0.0,0.5,3,1,23,28,82.1,4,23,1,3,1,Leandro-Trossard,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,"RW,FW",90,0,1,0,0,0,0,54,0,2,2,0.0,0.0,1.3,3,1,35,43,81.4,2,36,2,0,0,Leandro-Trossard,4,1,1,0,0,5
+Away,Arsenal,Liverpool,N,FW,11,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,1,1,Leandro-Trossard,2,2,0,1,0,4
+Away,Arsenal,West Ham,N,"FW,RM",24,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,2,0,21,23,91.3,5,21,0,1,1,Leandro-Trossard,2,2,0,1,0,4
+Home,Arsenal,Southampton,N,"CM,LM",34,0,0,0,0,1,0,33,0,0,1,0.1,0.1,0.0,2,0,25,29,86.2,6,22,1,0,0,Leandro-Trossard,3,3,0,1,0,6
+Away,Arsenal,Manchester City,N,FW,31,0,1,0,0,0,0,14,0,0,0,0.0,0.0,0.1,0,0,10,12,83.3,1,10,2,0,0,Leandro-Trossard,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,LW,58,0,0,0,0,0,0,41,0,0,2,0.0,0.0,0.3,3,1,24,34,70.6,5,28,2,2,1,Leandro-Trossard,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,N,LW,11,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0,Leandro-Trossard,2,0,1,0,0,2
+Home,Arsenal,Brighton,N,"LW,LM",71,0,0,0,0,2,1,34,0,1,3,0.2,0.2,0.2,3,0,14,19,73.7,2,17,1,2,0,Leandro-Trossard,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,"LW,LM",69,0,0,0,0,2,0,42,2,0,1,0.1,0.1,0.1,2,0,23,32,71.9,2,28,2,1,0,Leandro-Trossard,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,LW,79,0,2,0,0,2,1,44,2,1,0,0.1,0.1,0.4,3,2,26,32,81.3,5,22,2,1,1,Leandro-Trossard,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Brentford,N,RM,1,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Marquinhos,3,0,1,0,0,3
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Manchester Utd,N,AM,8,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Martin-Odegaard,0,0,0,1,0,0
+Away,Arsenal,Aston Villa,N,AM,26,0,0,0,0,1,0,34,0,0,0,0.1,0.1,0.0,0,0,24,29,82.8,5,21,1,0,0,Martin-Odegaard,0,1,0,0,1,1
+Home,Arsenal,Leeds United,Y,AM,77,0,0,0,0,2,0,40,0,1,0,0.1,0.1,0.1,2,0,26,32,81.3,2,26,0,2,2,Martin-Odegaard,4,2,1,0,0,6
+Home,Arsenal,Manchester City,Y,AM,72,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,28,34,82.4,1,25,1,1,1,Martin-Odegaard,0,1,0,0,1,1
+Away,Arsenal,Leicester City,N,AM,49,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.1,2,1,23,27,85.2,7,14,2,1,1,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Burnley,Y,AM,62,0,0,0,0,2,1,44,0,0,1,0.1,0.1,0.1,4,0,33,36,91.7,3,23,1,2,0,Martin-Odegaard,1,1,0,1,0,2
+Home,Arsenal,Tottenham,Y,"AM,FW",90,1,0,0,0,2,1,73,3,1,0,0.1,0.1,0.1,5,0,56,62,90.3,10,41,1,1,0,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,West Ham,Y,AM,90,0,0,0,0,3,1,88,0,0,0,0.2,0.2,0.2,10,1,73,85,85.9,15,65,5,4,4,Martin-Odegaard,3,3,0,1,0,6
+Home,Arsenal,Liverpool,Y,AM,90,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,30,33,90.9,4,21,0,0,0,Martin-Odegaard,0,3,0,0,1,3
+Home,Arsenal,Everton,N,AM,17,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,1,7,0,0,0,Martin-Odegaard,0,1,0,0,1,1
+Away,Arsenal,Newcastle Utd,Y,AM,84,0,0,0,0,1,0,66,1,0,0,0.1,0.1,0.3,8,1,55,62,88.7,6,50,2,1,1,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Chelsea,Y,AM,90,0,0,0,0,2,0,51,0,0,0,0.1,0.1,0.1,2,0,39,45,86.7,1,38,1,2,1,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,N,AM,26,0,1,0,0,0,0,15,0,0,0,0.0,0.0,0.8,2,1,13,14,92.9,2,10,0,1,1,Martin-Odegaard,3,1,1,0,0,4
+Home,Arsenal,Brighton,Y,AM,85,0,1,0,0,2,0,68,3,0,1,0.1,0.1,0.2,6,1,46,58,79.3,8,44,2,2,2,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Manchester City,Y,CM,70,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,14,18,77.8,1,13,0,1,0,Martin-Odegaard,0,5,0,0,1,5
+Home,Arsenal,Norwich City,Y,AM,90,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.1,6,0,40,44,90.9,5,33,0,0,0,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,"CM,AM",90,1,0,0,0,2,1,73,2,0,1,0.2,0.2,0.1,7,1,53,64,82.8,9,47,0,1,1,Martin-Odegaard,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,AM,90,0,0,0,0,0,0,60,1,1,2,0.0,0.0,0.1,8,2,48,54,88.9,5,41,2,0,0,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,AM,62,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,1,0,16,22,72.7,1,17,0,2,0,Martin-Odegaard,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,"CM,AM",66,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,37,42,88.1,2,23,2,1,0,Martin-Odegaard,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,N,AM,23,0,0,0,0,1,1,23,0,0,0,0.0,0.0,0.0,2,0,20,23,87.0,2,16,1,0,0,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Leicester City,N,FW,33,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.1,2,0,13,17,76.5,4,15,0,0,0,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Watford,N,AM,22,0,0,0,0,1,0,15,2,0,0,0.1,0.1,0.0,2,0,5,11,45.5,2,8,1,2,1,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Liverpool,N,FW,24,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,11,15,73.3,1,12,0,0,0,Martin-Odegaard,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,FW,90,0,0,0,0,2,1,76,3,0,0,0.1,0.1,0.1,5,0,54,65,83.1,9,53,3,1,1,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,FW,78,1,0,0,0,1,1,46,0,0,0,0.2,0.2,0.3,4,0,33,44,75.0,4,21,1,0,0,Martin-Odegaard,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,AM,90,1,0,0,0,3,1,72,2,0,0,0.4,0.4,0.2,4,0,59,66,89.4,8,32,4,2,2,Martin-Odegaard,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,FW,90,1,0,0,0,3,1,66,2,0,1,0.3,0.3,0.5,3,0,42,58,72.4,9,36,0,1,1,Martin-Odegaard,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,FW,65,0,0,0,0,1,1,39,2,0,0,0.1,0.1,0.1,4,0,28,34,82.4,2,20,0,1,0,Martin-Odegaard,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,AM,84,0,1,0,0,2,1,50,1,0,0,0.2,0.2,1.3,8,2,30,44,68.2,6,38,4,2,1,Martin-Odegaard,4,1,1,0,0,5
+Away,Arsenal,Norwich City,Y,AM,90,0,2,0,0,3,0,71,0,1,0,0.1,0.1,0.3,6,3,55,64,85.9,8,42,3,1,1,Martin-Odegaard,5,0,1,0,0,5
+Home,Arsenal,Manchester City,Y,AM,62,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,1,1,16,20,80.0,1,5,0,0,0,Martin-Odegaard,1,2,0,0,1,3
+Home,Arsenal,Burnley,Y,CM,90,0,0,0,0,3,2,62,3,1,0,0.3,0.3,0.2,6,0,44,53,83.0,7,37,1,0,0,Martin-Odegaard,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,AM,67,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.1,6,0,36,43,83.7,7,29,1,1,1,Martin-Odegaard,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,AM,90,0,0,0,0,3,1,84,1,0,0,0.6,0.6,0.0,7,0,64,76,84.2,13,57,3,3,2,Martin-Odegaard,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,AM,90,0,0,0,0,2,0,52,1,0,3,0.2,0.2,0.1,4,1,34,45,75.6,9,32,3,4,3,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,AM,89,1,0,0,0,1,1,87,4,1,1,0.1,0.1,0.3,9,2,71,79,89.9,13,47,0,0,0,Martin-Odegaard,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,AM,90,0,0,0,0,0,0,63,3,1,0,0.0,0.0,0.3,8,0,45,58,77.6,11,45,2,2,1,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,AM,66,0,0,0,0,1,1,35,4,0,2,0.2,0.2,0.0,2,0,19,22,86.4,1,18,1,2,1,Martin-Odegaard,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,AM,85,0,0,0,0,1,0,48,0,0,0,0.1,0.1,0.2,6,0,45,46,97.8,12,38,3,0,0,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,"CM,AM",90,0,0,0,0,3,0,50,1,0,1,0.3,0.3,0.0,3,0,32,40,80.0,4,28,0,0,0,Martin-Odegaard,0,3,0,0,1,3
+Home,Arsenal,Brighton,Y,"DM,CM",90,1,0,0,0,4,1,53,2,0,2,0.1,0.1,0.0,2,0,33,43,76.7,3,29,1,1,1,Martin-Odegaard,1,2,0,0,1,3
+Away,Arsenal,Southampton,Y*,"AM,CM",90,0,0,0,0,3,0,81,2,0,0,0.2,0.2,0.2,9,0,65,73,89.0,16,50,3,1,1,Martin-Odegaard,0,1,0,0,1,1
+Away,Arsenal,Chelsea,Y*,"AM,RM",90,0,1,0,0,0,0,42,3,0,1,0.0,0.0,0.3,3,1,31,34,91.2,7,26,2,1,0,Martin-Odegaard,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y*,AM,90,0,0,0,0,2,1,59,0,1,0,0.1,0.1,0.4,6,2,48,52,92.3,11,39,1,3,1,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y*,"AM,RM",89,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.2,4,0,37,42,88.1,3,27,3,1,0,Martin-Odegaard,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y*,AM,90,0,0,0,0,3,2,62,2,2,0,0.2,0.2,0.4,6,0,41,53,77.4,4,38,2,5,3,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y*,"RM,DM,CM",90,0,0,0,0,4,3,64,0,0,0,0.3,0.3,0.0,2,0,51,54,94.4,3,37,1,2,0,Martin-Odegaard,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y*,"AM,DM",90,0,0,0,0,1,0,37,2,0,1,0.1,0.1,0.1,5,0,26,31,83.9,6,18,2,4,2,Martin-Odegaard,0,2,0,0,1,2
+Home,Arsenal,Everton,Y*,AM,90,1,0,0,0,3,1,91,0,1,0,0.2,0.2,0.3,7,0,72,84,85.7,15,66,7,1,1,Martin-Odegaard,5,1,1,0,0,6
+Away,Arsenal,Crystal Palace,Y*,RM,89,0,0,0,0,2,0,51,2,0,0,0.1,0.1,0.0,0,0,29,41,70.7,4,27,1,1,0,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y*,"RM,AM",90,0,0,0,0,1,0,52,1,0,1,0.0,0.0,0.0,5,1,40,47,85.1,2,29,4,2,2,Martin-Odegaard,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y*,RM,73,2,0,0,0,3,2,67,0,0,0,0.6,0.6,0.0,3,0,45,57,78.9,7,40,1,1,1,Martin-Odegaard,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y*,"RM,AM",89,1,0,0,0,3,2,80,3,0,0,0.2,0.2,0.2,9,0,61,73,83.6,17,48,2,5,5,Martin-Odegaard,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y*,RM,80,0,0,0,0,3,1,64,1,0,1,0.4,0.4,0.3,5,0,41,52,78.8,7,35,3,1,1,Martin-Odegaard,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y*,RM,73,0,0,0,0,1,0,43,0,0,0,0.4,0.4,0.2,5,0,27,41,65.9,6,25,2,1,0,Martin-Odegaard,1,3,0,0,1,4
+Home,Arsenal,Tottenham,Y*,RM,79,0,0,0,0,3,1,47,0,1,0,0.1,0.1,0.0,4,0,33,42,78.6,8,32,1,1,1,Martin-Odegaard,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y*,RM,81,0,1,0,0,2,1,33,1,0,1,0.3,0.3,0.5,1,1,17,23,73.9,4,15,2,2,1,Martin-Odegaard,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y*,RM,72,0,1,0,0,4,2,46,0,0,0,0.2,0.2,0.2,4,1,32,40,80.0,4,29,1,3,2,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y*,RM,82,0,0,0,0,1,0,40,1,0,0,0.1,0.1,0.4,4,0,30,35,85.7,8,24,1,0,0,Martin-Odegaard,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y*,RM,90,1,0,0,0,3,1,65,1,1,0,0.2,0.2,0.6,8,1,38,53,71.7,5,31,5,2,0,Martin-Odegaard,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y*,RM,86,0,0,0,0,1,0,39,0,0,2,0.1,0.1,0.2,4,0,24,33,72.7,4,21,4,1,1,Martin-Odegaard,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y*,RM,90,2,0,0,0,3,2,63,2,0,1,1.5,1.5,0.0,2,0,44,55,80.0,3,36,2,2,2,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y*,RM,90,0,2,0,0,6,0,77,1,0,1,0.4,0.4,1.1,9,3,58,64,90.6,17,48,5,4,2,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y*,RM,86,1,1,0,0,1,1,42,1,0,0,0.1,0.1,0.8,6,2,29,36,80.6,7,27,2,4,1,Martin-Odegaard,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y*,RM,90,0,0,0,0,2,0,36,2,0,0,0.2,0.2,0.3,5,0,20,29,69.0,3,20,2,2,1,Martin-Odegaard,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y*,RM,89,1,0,0,0,3,2,53,0,0,1,0.1,0.1,0.2,5,0,37,45,82.2,8,35,3,2,1,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y*,RM,89,0,0,0,0,6,0,63,3,0,0,0.5,0.5,0.1,7,2,37,50,74.0,7,30,5,2,0,Martin-Odegaard,3,2,1,0,0,5
+Away,Arsenal,Everton,Y*,RM,76,0,0,0,0,1,0,35,0,1,0,0.1,0.1,0.1,3,0,28,31,90.3,6,22,2,3,1,Martin-Odegaard,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y*,RM,90,0,0,0,0,2,1,66,0,0,1,0.1,0.1,0.1,6,1,46,58,79.3,14,44,4,3,2,Martin-Odegaard,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y*,RM,90,0,0,0,0,2,0,53,0,0,1,0.1,0.1,0.0,2,0,38,47,80.9,7,34,0,1,0,Martin-Odegaard,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y*,RM,89,0,1,0,0,1,0,69,1,0,0,0.3,0.3,0.9,11,1,56,65,86.2,12,42,5,3,3,Martin-Odegaard,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,RM,83,0,0,0,0,3,0,52,0,0,0,0.1,0.1,0.2,4,0,35,44,79.5,7,33,1,2,2,Martin-Odegaard,1,0,1,0,0,1
+Home,Arsenal,Everton,Y*,RM,90,1,0,0,0,2,1,73,0,0,0,0.6,0.6,0.1,4,0,56,65,86.2,5,45,1,1,1,Martin-Odegaard,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y*,RM,90,0,0,0,0,11,3,100,3,1,0,0.6,0.6,0.1,8,0,64,83,77.1,17,76,3,4,2,Martin-Odegaard,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y*,RM,90,1,0,0,0,3,1,72,2,0,0,0.5,0.5,0.2,4,0,53,63,84.1,10,57,2,4,2,Martin-Odegaard,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y*,RM,90,0,0,0,0,3,1,71,1,0,1,0.2,0.2,0.1,6,0,48,57,84.2,7,43,2,4,2,Martin-Odegaard,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y*,RM,84,0,1,0,0,0,0,63,3,0,3,0.0,0.0,0.2,2,1,45,54,83.3,4,44,2,2,2,Martin-Odegaard,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y*,RM,79,0,0,0,0,1,1,40,1,0,0,0.1,0.1,0.0,0,0,24,29,82.8,2,21,0,3,0,Martin-Odegaard,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y*,RM,89,1,0,0,0,2,1,64,0,0,3,0.5,0.5,0.0,2,1,45,57,78.9,7,44,2,2,2,Martin-Odegaard,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y*,"RM,CM",90,1,0,0,0,4,1,79,1,1,0,0.3,0.3,0.1,7,1,57,68,83.8,12,44,3,6,2,Martin-Odegaard,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y*,RM,70,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.1,1,0,24,29,82.8,3,20,0,0,0,Martin-Odegaard,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y*,RM,90,2,0,0,0,3,3,61,1,1,1,0.4,0.4,0.1,2,0,42,52,80.8,9,35,2,2,1,Martin-Odegaard,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y*,RM,79,1,0,0,0,3,3,40,1,0,0,0.5,0.5,0.3,4,0,22,31,71.0,4,25,0,2,1,Martin-Odegaard,2,0,1,0,0,2
+Home,Arsenal,Brighton,Y*,RM,76,0,0,0,0,2,0,36,0,0,1,0.1,0.1,0.1,3,0,21,29,72.4,7,19,1,1,0,Martin-Odegaard,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y*,RM,90,0,0,0,0,1,0,80,1,0,1,0.0,0.0,0.0,3,0,64,74,86.5,5,51,3,1,1,Martin-Odegaard,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y*,RM,74,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.4,5,1,39,52,75.0,7,33,4,3,3,Martin-Odegaard,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Leicester City,Y,CM,66,0,1,0,0,1,0,82,4,0,2,0.0,0.0,0.1,3,1,65,72,90.3,4,57,0,0,0,Mohamed-Elneny,4,3,1,0,0,7
+Away,Arsenal,Chelsea,N,CM,11,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,8,9,88.9,2,5,0,0,0,Mohamed-Elneny,0,0,0,1,0,0
+Home,Arsenal,West Brom,Y,CM,90,0,0,0,0,1,0,82,0,0,0,0.0,0.0,0.1,6,0,72,78,92.3,9,68,1,0,0,Mohamed-Elneny,2,0,1,0,0,2
+Home,Arsenal,Brighton,N,CM,8,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,7,7,100.0,1,5,0,0,0,Mohamed-Elneny,2,0,1,0,0,2
+Away,Arsenal,Watford,Y,CM,90,0,0,0,0,1,0,75,2,0,1,0.0,0.0,0.0,0,0,61,68,89.7,10,52,1,0,0,Mohamed-Elneny,1,2,0,0,1,3
+Home,Arsenal,Crystal Palace,Y,DM,90,0,0,0,0,1,1,105,1,1,1,0.0,0.0,0.0,0,0,94,98,95.9,5,80,0,1,1,Mohamed-Elneny,4,1,1,0,0,5
+Away,Arsenal,Swansea City,Y,CM,59,0,0,0,0,0,0,98,0,1,0,0.0,0.0,0.0,2,0,92,93,98.9,5,75,3,0,0,Mohamed-Elneny,1,3,0,0,1,4
+Away,Arsenal,Tottenham,Y,CM,64,0,0,0,0,0,0,38,0,0,2,0.0,0.0,0.0,0,0,28,34,82.4,0,24,0,0,0,Mohamed-Elneny,0,1,0,0,1,1
+Home,Arsenal,Watford,Y,DM,90,0,0,0,0,0,0,80,2,0,1,0.0,0.0,0.6,4,0,67,74,90.5,9,49,1,0,0,Mohamed-Elneny,3,0,1,0,0,3
+Home,Arsenal,Stoke City,Y,DM,75,0,0,0,0,2,0,87,0,1,1,0.2,0.2,0.0,1,0,72,82,87.8,4,64,2,1,1,Mohamed-Elneny,3,0,1,0,0,3
+Home,Arsenal,Southampton,Y,"DM,RM",89,0,0,0,0,1,0,128,2,2,1,0.0,0.0,0.1,4,0,111,116,95.7,8,100,2,1,0,Mohamed-Elneny,3,2,1,0,0,5
+Away,Arsenal,Newcastle Utd,Y,RM,90,0,0,0,0,1,0,90,1,3,0,0.0,0.0,0.0,3,0,77,84,91.7,11,67,2,1,1,Mohamed-Elneny,1,2,0,0,1,3
+Home,Arsenal,West Ham,Y,RM,44,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,1,0,35,37,94.6,6,31,1,0,0,Mohamed-Elneny,4,1,1,0,0,5
+Home,Arsenal,Burnley,Y,"RM,CM",58,0,0,0,0,2,0,39,3,0,1,0.2,0.2,0.0,1,0,27,28,96.4,2,28,0,2,1,Mohamed-Elneny,3,1,1,0,0,4
+Home,Arsenal,Chelsea,N,CM,19,0,0,0,0,1,0,14,1,0,0,0.0,0.0,0.0,2,0,7,10,70.0,4,6,1,0,0,Mohamed-Elneny,2,0,1,0,0,2
+Home,Arsenal,Cardiff City,Y,CM,45,0,0,0,0,1,0,56,3,0,2,0.0,0.0,0.0,0,0,41,46,89.1,5,31,1,0,0,Mohamed-Elneny,2,1,1,0,0,3
+Away,Arsenal,Huddersfield,N,CM,32,0,0,0,0,1,0,21,2,0,1,0.1,0.1,0.0,0,0,13,16,81.3,1,8,0,0,0,Mohamed-Elneny,2,1,1,0,0,3
+Home,Arsenal,Newcastle Utd,N,CM,24,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,24,26,92.3,3,18,0,0,0,Mohamed-Elneny,2,0,1,0,0,2
+Away,Arsenal,Everton,Y,CM,45,0,0,0,0,0,0,38,0,1,1,0.0,0.0,0.1,1,0,26,33,78.8,3,21,1,1,0,Mohamed-Elneny,0,1,0,0,1,1
+Home,Arsenal,Crystal Palace,Y,"CM,DM",67,0,0,0,0,1,0,55,3,0,1,0.1,0.1,0.0,0,0,42,48,87.5,6,31,1,0,0,Mohamed-Elneny,2,3,0,0,1,5
+Away,Arsenal,Burnley,Y,DM,90,0,0,0,0,1,0,84,0,1,1,0.0,0.0,0.1,5,0,76,79,96.2,7,49,0,0,0,Mohamed-Elneny,3,1,1,0,0,4
+Away,Arsenal,Fulham,Y,CM,90,0,0,0,0,1,0,68,0,5,0,0.1,0.1,0.0,4,1,60,63,95.2,6,47,2,0,0,Mohamed-Elneny,3,0,1,0,0,3
+Away,Arsenal,Liverpool,Y,CM,90,0,0,0,0,0,0,37,1,2,1,0.0,0.0,0.0,1,0,30,33,90.9,0,16,0,1,1,Mohamed-Elneny,1,3,0,0,1,4
+Home,Arsenal,Sheffield Utd,Y,RM,90,0,0,0,0,0,0,92,1,1,1,0.0,0.0,0.1,2,0,82,85,96.5,9,59,5,0,0,Mohamed-Elneny,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,CM,90,0,0,0,0,1,0,74,0,3,1,0.0,0.0,0.0,0,0,58,66,87.9,8,46,3,0,0,Mohamed-Elneny,1,0,1,0,0,1
+Home,Arsenal,Aston Villa,Y,CM,90,0,0,0,0,1,0,66,0,0,1,0.0,0.0,0.0,2,0,58,61,95.1,7,50,1,1,0,Mohamed-Elneny,0,3,0,0,1,3
+Home,Arsenal,Burnley,Y,"DM,CM",90,0,0,0,0,0,0,62,1,1,2,0.0,0.0,0.0,3,0,53,56,94.6,8,39,3,0,0,Mohamed-Elneny,0,1,0,0,1,1
+Home,Arsenal,Southampton,Y,CM,90,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.0,1,0,37,41,90.2,5,25,0,1,0,Mohamed-Elneny,1,1,0,1,0,2
+Away,Arsenal,Everton,Y,CM,63,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.0,0,0,46,48,95.8,6,37,0,0,0,Mohamed-Elneny,1,2,0,0,1,3
+Home,Arsenal,Chelsea,Y,"DM,CM",90,0,0,0,0,1,0,46,1,1,1,0.0,0.0,0.0,1,0,31,37,83.8,3,21,1,1,1,Mohamed-Elneny,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,DM,90,0,0,0,0,0,0,68,1,2,0,0.0,0.0,0.0,0,0,56,63,88.9,2,53,0,1,0,Mohamed-Elneny,1,0,1,0,0,1
+Home,Arsenal,Newcastle Utd,N,DM,24,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,20,0,0,0,Mohamed-Elneny,3,0,1,0,0,3
+Away,Arsenal,Southampton,N,DM,13,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.1,1,0,3,3,100.0,0,1,0,0,0,Mohamed-Elneny,3,1,1,0,0,4
+Home,Arsenal,Leeds United,N,"DM,CM",13,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,2,0,0,0,Mohamed-Elneny,4,2,1,0,0,6
+Home,Arsenal,Manchester City,Y,DM,85,0,0,0,0,1,0,69,1,1,1,0.0,0.0,0.0,0,0,61,63,96.8,3,52,0,1,1,Mohamed-Elneny,0,1,0,0,1,1
+Away,Arsenal,Leicester City,Y,DM,65,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,34,40,85.0,5,17,0,0,0,Mohamed-Elneny,3,1,1,0,0,4
+Home,Arsenal,Tottenham,N,AM,3,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Mohamed-Elneny,2,1,1,0,0,3
+Home,Arsenal,Liverpool,N,DM,33,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,9,0,0,0,Mohamed-Elneny,0,3,0,0,1,3
+Away,Arsenal,Sheffield Utd,N,DM,8,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,8,0,0,0,Mohamed-Elneny,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,DM,67,0,0,0,0,0,0,56,3,2,0,0.0,0.0,0.0,0,0,43,51,84.3,4,35,0,0,0,Mohamed-Elneny,1,1,0,1,0,2
+Away,Arsenal,Newcastle Utd,Y,"DM,RM",90,1,0,0,0,3,1,67,1,1,1,0.1,0.1,0.0,0,0,56,57,98.2,5,53,1,0,0,Mohamed-Elneny,2,0,1,0,0,2
+Home,Arsenal,West Brom,Y,DM,90,0,0,0,0,1,1,81,1,3,0,0.0,0.0,0.0,4,0,71,73,97.3,10,66,1,0,0,Mohamed-Elneny,3,1,1,0,0,4
+Away,Arsenal,Chelsea,Y,CM,90,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,35,41,85.4,5,31,0,1,1,Mohamed-Elneny,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,DM,90,0,0,0,0,0,0,82,0,1,0,0.0,0.0,0.0,0,0,75,79,94.9,13,68,0,0,0,Mohamed-Elneny,3,1,1,0,0,4
+Away,Arsenal,Manchester City,N,CM,45,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,6,0,1,0,Mohamed-Elneny,0,5,0,0,1,5
+Home,Arsenal,Watford,N,DM,5,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.1,2,0,6,6,100.0,1,4,0,0,0,Mohamed-Elneny,1,0,1,0,0,1
+Away,Arsenal,Liverpool,N,CM,7,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,0,0,0,Mohamed-Elneny,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,N,CM,6,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,1,4,0,0,0,Mohamed-Elneny,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,CM,90,0,1,0,0,1,0,91,2,2,0,0.0,0.0,0.0,1,1,77,85,90.6,5,58,2,0,0,Mohamed-Elneny,2,3,0,0,1,5
+Away,Arsenal,Norwich City,N,DM,16,0,0,0,0,0,0,7,0,1,1,0.0,0.0,0.0,0,0,5,5,100.0,1,3,0,0,0,Mohamed-Elneny,5,0,1,0,0,5
+Home,Arsenal,Manchester City,N,DM,7,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,4,0,0,0,Mohamed-Elneny,1,2,0,0,1,3
+Away,Arsenal,Chelsea,Y,"DM,CM",90,0,0,0,0,1,0,52,1,4,2,0.0,0.0,0.0,1,0,38,42,90.5,4,24,1,0,0,Mohamed-Elneny,4,2,1,0,0,6
+Home,Arsenal,Manchester Utd,Y,"DM,CM",90,0,1,0,0,1,1,80,2,2,0,0.0,0.0,0.0,4,1,63,71,88.7,4,48,0,0,0,Mohamed-Elneny,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y,"DM,CM",90,0,0,0,0,1,0,62,1,1,0,0.0,0.0,0.1,1,0,49,54,90.7,1,32,0,0,0,Mohamed-Elneny,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,DM,90,0,0,0,0,0,0,86,3,1,1,0.0,0.0,0.1,1,0,80,82,97.6,5,55,0,0,0,Mohamed-Elneny,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,"CM,DM",90,0,0,0,0,0,0,58,2,3,1,0.0,0.0,0.0,0,0,48,52,92.3,0,22,1,0,0,Mohamed-Elneny,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,DM,90,0,0,0,0,2,1,49,1,0,0,0.0,0.0,0.0,2,0,39,41,95.1,5,20,0,0,0,Mohamed-Elneny,0,2,0,0,1,2
+Home,Arsenal,Everton,Y,DM,90,0,0,0,0,2,0,105,1,0,2,0.0,0.0,0.0,4,1,97,100,97.0,13,79,1,0,0,Mohamed-Elneny,5,1,1,0,0,6
+Home,Arsenal,Fulham,Y,"CM,DM",90,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.0,0,0,51,52,98.1,2,35,1,0,0,Mohamed-Elneny,2,1,1,0,0,3
+Away,Arsenal,Chelsea,N,"RM,CM",4,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Mohamed-Elneny,1,0,1,0,0,1
+Away,Arsenal,Wolves,N,LM,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Mohamed-Elneny,2,0,1,0,0,2
+Home,Arsenal,West Ham,N,CM,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Mohamed-Elneny,3,1,1,0,0,4
+Away,Arsenal,Brighton,N,CM,17,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Mohamed-Elneny,4,2,1,0,0,6
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Crystal Palace,Y,LB,82,0,1,0,0,1,1,68,5,3,0,0.0,0.0,0.3,2,1,43,55,78.2,5,38,1,0,0,Oleksandr-Zinchenko,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,LB,76,0,0,0,0,2,0,66,1,2,0,0.1,0.1,0.0,2,0,56,59,94.9,5,39,5,0,0,Oleksandr-Zinchenko,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,LB,90,0,0,0,0,0,0,82,2,0,0,0.0,0.0,0.0,1,0,67,78,85.9,3,64,1,2,1,Oleksandr-Zinchenko,3,0,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,LB,73,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,46,50,92.0,7,25,2,0,0,Oleksandr-Zinchenko,1,3,0,0,1,4
+Home,Arsenal,Tottenham,Y,LB,72,0,0,0,0,1,0,68,1,0,0,0.0,0.0,0.0,2,0,56,62,90.3,15,43,4,1,1,Oleksandr-Zinchenko,3,1,1,0,0,4
+Away,Arsenal,Chelsea,Y,LB,77,0,0,0,0,0,0,56,4,1,3,0.0,0.0,0.0,0,0,32,40,80.0,3,21,0,0,0,Oleksandr-Zinchenko,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,LB,89,0,0,0,0,1,0,85,1,0,0,0.0,0.0,0.2,2,0,68,77,88.3,11,60,2,0,0,Oleksandr-Zinchenko,2,0,1,0,0,2
+Home,Arsenal,West Ham,N,LB,18,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,30,32,93.8,2,21,1,0,0,Oleksandr-Zinchenko,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,LB,59,0,0,0,0,1,1,43,2,1,0,0.5,0.5,0.0,3,0,31,34,91.2,6,25,0,0,0,Oleksandr-Zinchenko,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,LB,90,0,0,0,0,1,0,108,0,0,3,0.1,0.1,0.0,2,0,88,97,90.7,14,47,1,0,0,Oleksandr-Zinchenko,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,LB,85,0,0,0,0,0,0,87,2,0,2,0.0,0.0,0.0,0,0,68,78,87.2,5,53,2,2,2,Oleksandr-Zinchenko,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,LB,90,0,0,0,0,1,0,80,2,2,3,0.0,0.0,0.1,5,0,59,70,84.3,11,44,4,0,0,Oleksandr-Zinchenko,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,LB,90,0,0,0,0,2,0,119,0,0,1,0.1,0.1,0.1,1,0,92,110,83.6,21,68,4,0,0,Oleksandr-Zinchenko,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,LB,90,0,0,0,0,5,1,105,2,0,1,0.1,0.1,0.1,5,0,81,95,85.3,14,69,10,2,2,Oleksandr-Zinchenko,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y,LB,90,0,0,0,0,0,0,85,2,2,0,0.0,0.0,0.3,3,0,61,74,82.4,8,41,3,2,1,Oleksandr-Zinchenko,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,LB,89,1,0,0,0,3,2,98,2,0,1,0.1,0.1,0.0,2,0,75,89,84.3,8,43,6,2,0,Oleksandr-Zinchenko,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y*,LB,89,0,0,0,0,1,1,78,0,2,0,0.1,0.1,0.1,3,0,63,75,84.0,10,47,5,1,1,Oleksandr-Zinchenko,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,LB,80,0,1,0,0,0,0,105,1,2,1,0.0,0.0,0.2,4,2,88,102,86.3,15,65,1,2,2,Oleksandr-Zinchenko,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,LB,90,0,0,0,0,3,0,116,4,0,0,0.1,0.1,0.1,9,1,91,106,85.8,11,78,5,2,2,Oleksandr-Zinchenko,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,LB,71,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,1,0,49,55,89.1,4,38,1,0,0,Oleksandr-Zinchenko,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,LB,64,0,0,0,0,1,0,59,2,1,2,0.1,0.1,0.0,1,0,49,51,96.1,8,41,1,2,0,Oleksandr-Zinchenko,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,LB,84,0,0,0,0,1,0,116,1,1,0,0.1,0.1,0.0,0,0,88,109,80.7,6,87,3,2,1,Oleksandr-Zinchenko,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,LB,87,0,0,0,0,2,1,67,1,1,1,0.1,0.1,0.0,3,0,52,55,94.5,8,31,1,3,1,Oleksandr-Zinchenko,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,LB,71,0,0,0,0,1,0,89,0,0,1,0.0,0.0,0.0,1,0,69,84,82.1,12,58,2,0,0,Oleksandr-Zinchenko,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,LB,90,0,0,0,0,1,0,67,1,1,0,0.0,0.0,0.0,2,0,51,61,83.6,3,43,1,1,1,Oleksandr-Zinchenko,1,4,0,0,1,5
+Home,Arsenal,Chelsea,Y,LB,72,0,0,0,0,0,0,76,3,1,1,0.0,0.0,0.0,0,0,61,69,88.4,8,47,0,1,0,Oleksandr-Zinchenko,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,Y,LB,60,0,0,0,0,0,0,49,0,1,0,0.0,0.0,0.0,2,0,38,44,86.4,4,27,1,0,0,Oleksandr-Zinchenko,2,0,1,0,0,2
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Crystal Palace,N,CM,19,0,0,0,0,0,0,19,3,0,1,0.0,0.0,0.0,0,0,12,12,100.0,0,13,0,1,0,Reiss-Nelson,4,1,1,0,0,5
+Home,Arsenal,Southampton,Y,RW,63,0,0,0,0,0,0,52,1,2,2,0.0,0.0,0.0,2,0,42,47,89.4,5,31,0,0,0,Reiss-Nelson,3,2,1,0,0,5
+Away,Arsenal,Manchester Utd,Y,LW,63,0,0,0,0,2,0,31,0,1,1,0.1,0.1,0.0,2,0,19,22,86.4,3,22,3,2,1,Reiss-Nelson,1,2,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,LW,70,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.1,4,0,39,46,84.8,1,40,3,4,3,Reiss-Nelson,1,0,1,0,0,1
+Home,Arsenal,Burnley,Y,LW,45,0,0,0,0,2,1,14,0,0,0,0.1,0.1,0.0,2,0,9,11,81.8,1,10,1,0,0,Reiss-Nelson,2,1,1,0,0,3
+Away,Arsenal,Watford,N,LW,20,0,0,0,0,1,1,11,2,0,0,0.1,0.1,0.0,0,0,4,5,80.0,2,7,1,1,0,Reiss-Nelson,2,2,0,1,0,4
+Away,Arsenal,Manchester Utd,N,RW,17,0,0,0,0,1,1,11,1,0,2,0.1,0.1,0.0,0,0,6,7,85.7,1,4,2,1,1,Reiss-Nelson,1,1,0,1,0,2
+Away,Arsenal,West Ham,N,RW,3,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,3,0,0,0,Reiss-Nelson,3,1,1,0,0,4
+Away,Arsenal,Everton,Y,RW,90,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,2,0,21,29,72.4,1,26,4,9,5,Reiss-Nelson,0,0,0,1,0,0
+Away,Arsenal,Bournemouth,Y,RW,81,0,0,0,0,3,0,55,1,1,3,0.2,0.2,0.1,5,1,30,39,76.9,5,36,7,5,2,Reiss-Nelson,1,1,0,1,0,2
+Home,Arsenal,Chelsea,Y,RW,85,0,0,0,0,0,0,34,0,1,2,0.0,0.0,0.0,0,0,20,25,80.0,4,21,5,4,1,Reiss-Nelson,1,2,0,0,1,3
+Home,Arsenal,Manchester Utd,N,RW,29,0,0,0,0,1,0,18,0,0,1,0.1,0.1,0.0,0,0,11,13,84.6,1,12,0,0,0,Reiss-Nelson,2,0,1,0,0,2
+Away,Arsenal,Crystal Palace,N,LW,1,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Reiss-Nelson,1,1,0,1,0,2
+Home,Arsenal,West Ham,N,"RW,RM",22,0,0,0,0,1,0,11,1,1,2,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,0,0,Reiss-Nelson,1,0,1,0,0,1
+Away,Arsenal,Manchester City,N,RM,24,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,6,2,1,1,Reiss-Nelson,0,3,0,0,1,3
+Away,Arsenal,Brighton,N,RM,4,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Reiss-Nelson,1,2,0,0,1,3
+Home,Arsenal,Norwich City,Y,RW,57,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.2,3,0,17,18,94.4,1,18,0,2,1,Reiss-Nelson,4,0,1,0,0,4
+Away,Arsenal,Tottenham,N,RW,7,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Reiss-Nelson,1,2,0,0,1,3
+Home,Arsenal,Liverpool,Y,RW,57,1,0,0,0,1,1,15,2,0,0,0.3,0.3,0.0,0,0,7,10,70.0,2,8,0,1,0,Reiss-Nelson,2,1,1,0,0,3
+Home,Arsenal,Watford,N,RW,19,0,0,0,0,1,0,10,1,0,0,0.1,0.1,0.1,3,0,5,7,71.4,0,10,4,4,3,Reiss-Nelson,3,2,1,0,0,5
+Away,Arsenal,Leeds United,N,"RW,LW",45,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,9,1,3,1,Reiss-Nelson,0,0,0,1,0,0
+Home,Arsenal,Wolves,N,"RW,RM",26,0,0,0,0,1,0,23,1,1,0,0.1,0.1,0.0,1,0,11,19,57.9,4,13,3,1,0,Reiss-Nelson,1,2,0,0,1,3
+Away,Arsenal,Brentford,N,RW,20,0,0,0,0,1,0,16,1,0,1,0.1,0.1,0.0,3,0,8,12,66.7,0,10,0,0,0,Reiss-Nelson,0,2,0,0,1,2
+Home,Arsenal,Nott'ham Forest,N,"RW,LW",64,2,1,0,0,3,3,47,1,0,0,0.6,0.6,0.1,4,2,35,39,89.7,1,26,8,1,1,Reiss-Nelson,5,0,1,0,0,5
+Away,Arsenal,Wolves,N,RW,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Reiss-Nelson,2,0,1,0,0,2
+Home,Arsenal,Bournemouth,N,LW,22,1,1,0,0,2,2,22,0,0,0,0.1,0.1,0.2,5,1,17,20,85.0,0,19,2,1,1,Reiss-Nelson,3,2,1,0,0,5
+Away,Arsenal,Fulham,N,"LW,RW",19,0,0,0,0,1,0,11,1,0,1,0.0,0.0,0.2,2,0,5,7,71.4,1,5,1,1,1,Reiss-Nelson,3,0,1,0,0,3
+Away,Arsenal,West Ham,N,LW,6,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,8,1,1,1,Reiss-Nelson,2,2,0,1,0,4
+Home,Arsenal,Southampton,N,LW,6,0,0,0,0,2,1,11,1,0,0,0.1,0.1,0.1,4,1,6,8,75.0,1,7,1,0,0,Reiss-Nelson,3,3,0,1,0,6
+Away,Arsenal,Manchester City,N,RW,11,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,1,5,7,71.4,1,9,1,1,1,Reiss-Nelson,1,4,0,0,1,5
+Home,Arsenal,Chelsea,N,RW,17,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,3,0,1,0,Reiss-Nelson,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,N,RW,4,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Reiss-Nelson,2,0,1,0,0,2
+Home,Arsenal,Brighton,N,LW,31,0,0,0,0,3,0,13,1,0,0,0.1,0.1,0.0,1,0,5,7,71.4,0,11,5,3,2,Reiss-Nelson,0,3,0,0,1,3
+Home,Arsenal,Wolves,N,"RW,LM",31,0,0,0,0,1,1,20,0,0,1,0.2,0.2,0.8,2,0,14,15,93.3,2,11,0,0,0,Reiss-Nelson,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Home,Arsenal,Norwich City,Y,RB,61,0,0,0,0,2,0,48,1,0,2,0.0,0.0,0.0,0,0,27,36,75.0,4,12,0,2,1,Takehiro-Tomiyasu,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,RB,90,0,0,0,0,0,0,80,1,1,2,0.0,0.0,0.0,0,0,50,64,78.1,4,28,1,0,0,Takehiro-Tomiyasu,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,RB,90,0,0,0,0,1,1,66,1,1,2,0.0,0.0,0.0,0,0,44,56,78.6,4,33,2,0,0,Takehiro-Tomiyasu,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,RB,90,0,0,0,0,0,0,52,0,2,2,0.0,0.0,0.0,2,0,32,40,80.0,6,19,0,0,0,Takehiro-Tomiyasu,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,RB,90,0,0,0,0,0,0,89,6,2,0,0.0,0.0,0.0,1,0,63,78,80.8,1,27,1,1,1,Takehiro-Tomiyasu,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,Y,RB,90,0,0,0,0,1,0,67,2,0,0,0.0,0.0,0.0,2,0,42,55,76.4,7,32,5,0,0,Takehiro-Tomiyasu,3,1,1,0,0,4
+Away,Arsenal,Leicester City,Y,RB,90,0,0,0,0,0,0,54,1,3,2,0.0,0.0,0.0,1,0,32,41,78.0,1,20,1,2,1,Takehiro-Tomiyasu,2,0,1,0,0,2
+Home,Arsenal,Watford,Y,RB,90,0,0,0,0,0,0,77,6,1,1,0.0,0.0,0.1,4,0,54,65,83.1,12,39,2,0,0,Takehiro-Tomiyasu,1,0,1,0,0,1
+Away,Arsenal,Liverpool,Y,RB,90,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.2,2,0,34,45,75.6,5,26,0,1,0,Takehiro-Tomiyasu,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,RB,90,0,1,0,0,3,0,95,3,1,1,0.1,0.1,0.5,4,1,73,86,84.9,6,62,1,3,2,Takehiro-Tomiyasu,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,RB,90,0,0,0,0,0,0,71,1,0,1,0.0,0.0,0.0,2,0,51,65,78.5,3,31,3,2,1,Takehiro-Tomiyasu,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,RB,90,0,0,0,0,0,0,96,2,2,4,0.0,0.0,0.0,3,0,62,84,73.8,8,49,2,0,0,Takehiro-Tomiyasu,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,RB,90,0,0,0,0,2,1,87,1,1,0,0.1,0.1,0.0,3,2,61,74,82.4,3,48,4,0,0,Takehiro-Tomiyasu,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,RB,90,0,0,0,0,0,0,86,2,0,0,0.0,0.0,0.1,4,1,64,79,81.0,6,50,2,2,2,Takehiro-Tomiyasu,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,RB,62,0,0,0,0,0,0,25,0,2,1,0.0,0.0,0.0,0,0,12,18,66.7,0,9,0,0,0,Takehiro-Tomiyasu,4,1,1,0,0,5
+Home,Arsenal,Manchester City,Y,"RB,WB",90,0,0,0,0,0,0,42,3,3,1,0.0,0.0,0.0,0,0,23,30,76.7,2,18,0,0,0,Takehiro-Tomiyasu,1,2,0,0,1,3
+Home,Arsenal,Manchester Utd,N,WB,1,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,5,1,0,0,Takehiro-Tomiyasu,3,1,1,0,0,4
+Away,Arsenal,West Ham,Y,RB,77,0,0,0,0,0,0,50,3,1,0,0.0,0.0,0.0,0,0,30,38,78.9,0,26,1,0,0,Takehiro-Tomiyasu,2,1,1,0,0,3
+Home,Arsenal,Leeds United,Y,LB,90,0,0,0,0,1,0,97,2,2,1,0.1,0.1,0.1,5,0,83,88,94.3,21,65,6,1,1,Takehiro-Tomiyasu,2,1,1,0,0,3
+Away,Arsenal,Tottenham,Y,"CB,LB",90,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,1,0,40,43,93.0,2,30,0,0,0,Takehiro-Tomiyasu,0,3,0,0,1,3
+Away,Arsenal,Newcastle Utd,Y,RB,38,0,0,0,0,1,0,19,0,1,0,0.1,0.1,0.0,0,0,8,10,80.0,1,4,0,1,0,Takehiro-Tomiyasu,0,2,0,0,1,2
+Home,Arsenal,Leicester City,N,RB,16,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,4,0,0,0,Takehiro-Tomiyasu,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,N,RB,16,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,6,8,75.0,1,7,0,0,0,Takehiro-Tomiyasu,3,0,1,0,0,3
+Home,Arsenal,Fulham,N,LB,2,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Takehiro-Tomiyasu,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,N,"RB,WB",26,0,0,0,0,0,0,24,2,2,0,0.0,0.0,0.0,2,1,13,19,68.4,3,11,0,0,0,Takehiro-Tomiyasu,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,N,CB,11,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,12,14,85.7,4,5,0,0,0,Takehiro-Tomiyasu,1,3,0,0,1,4
+Away,Arsenal,Brentford,N,RB,5,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,0,1,0,Takehiro-Tomiyasu,3,0,1,0,0,3
+Home,Arsenal,Tottenham,N,RB,2,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Takehiro-Tomiyasu,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,"LB,CB",90,0,0,0,0,0,0,67,3,1,0,0.0,0.0,0.0,0,0,43,56,76.8,6,30,1,0,0,Takehiro-Tomiyasu,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,"LB,WB,RB",90,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.0,1,0,45,55,81.8,12,37,1,1,1,Takehiro-Tomiyasu,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,"LB,RB",90,0,0,0,0,0,0,74,3,3,1,0.0,0.0,0.0,0,0,56,64,87.5,7,43,0,0,0,Takehiro-Tomiyasu,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,LB,62,0,0,0,0,1,0,48,2,1,0,0.1,0.1,0.0,1,0,42,45,93.3,3,24,3,0,0,Takehiro-Tomiyasu,5,0,1,0,0,5
+Away,Arsenal,Brighton,N,RB,31,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0,Takehiro-Tomiyasu,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,N,RB,15,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,1,0,11,11,100.0,1,9,0,0,0,Takehiro-Tomiyasu,0,0,0,1,0,0
+Away,Arsenal,Tottenham,N,LB,5,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Takehiro-Tomiyasu,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,N,RB,45,0,1,0,0,0,0,47,4,1,1,0.0,0.0,0.5,2,1,29,36,80.6,3,24,2,1,0,Takehiro-Tomiyasu,3,2,1,0,0,5
+Away,Arsenal,Everton,N,RB,6,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,1,0,5,5,100.0,1,3,0,0,0,Takehiro-Tomiyasu,0,1,0,0,1,1
+Home,Arsenal,Manchester City,Y,RB,82,0,0,0,0,1,0,60,3,0,0,0.1,0.1,0.0,0,0,39,55,70.9,2,37,1,0,0,Takehiro-Tomiyasu,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,N,RB,12,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,2,12,1,0,0,Takehiro-Tomiyasu,4,2,1,0,0,6
+Away,Arsenal,Leicester City,N,LB,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Takehiro-Tomiyasu,1,0,1,0,0,1
+Home,Arsenal,Bournemouth,Y,RB,45,0,0,0,0,1,0,57,1,1,2,0.0,0.0,0.0,0,0,39,50,78.0,4,44,5,1,0,Takehiro-Tomiyasu,3,2,1,0,0,5
+Away,Arsenal,Fulham,N,RB,11,0,0,0,0,0,0,12,3,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,0,0,0,Takehiro-Tomiyasu,3,0,1,0,0,3
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Manchester City,N,CM,8,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,1,0,0,Thomas-Partey,0,1,0,0,1,1
+Home,Arsenal,Leicester City,Y,CM,90,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,1,0,50,54,92.6,4,43,2,1,1,Thomas-Partey,0,1,0,0,1,1
+Away,Arsenal,Manchester Utd,Y,CM,90,0,0,0,0,1,1,74,4,2,2,0.0,0.0,0.0,2,0,56,60,93.3,12,48,1,5,4,Thomas-Partey,1,0,1,0,0,1
+Home,Arsenal,Aston Villa,Y,CM,45,0,0,0,0,2,1,42,1,1,0,0.6,0.6,0.0,1,0,29,36,80.6,5,29,2,2,2,Thomas-Partey,0,3,0,0,1,3
+Away,Arsenal,Tottenham,Y,DM,44,0,0,0,0,2,0,44,3,0,1,0.1,0.1,0.0,0,0,27,34,79.4,4,24,2,2,1,Thomas-Partey,0,2,0,0,1,2
+Home,Arsenal,Crystal Palace,N,DM,22,0,0,0,0,0,0,31,4,0,0,0.0,0.0,0.0,1,0,23,25,92.0,1,15,2,3,2,Thomas-Partey,0,0,0,1,0,0
+Home,Arsenal,Newcastle Utd,Y,DM,66,0,1,0,0,1,0,69,0,2,0,0.0,0.0,0.1,3,1,56,60,93.3,7,48,3,0,0,Thomas-Partey,3,0,1,0,0,3
+Away,Arsenal,Southampton,Y,DM,77,0,0,0,0,0,0,38,2,0,1,0.0,0.0,0.0,2,1,27,30,90.0,5,16,0,4,3,Thomas-Partey,3,1,1,0,0,4
+Home,Arsenal,Manchester Utd,Y,DM,90,0,0,0,0,1,0,54,1,1,1,0.0,0.0,0.0,2,0,34,45,75.6,2,32,2,2,1,Thomas-Partey,0,0,0,1,0,0
+Away,Arsenal,Wolves,Y,DM,74,0,0,0,0,2,0,67,1,0,1,0.1,0.1,0.3,1,0,50,60,83.3,7,52,2,3,3,Thomas-Partey,1,2,0,0,1,3
+Away,Arsenal,Aston Villa,Y,DM,73,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.0,3,0,44,48,91.7,3,31,1,1,0,Thomas-Partey,0,1,0,0,1,1
+Away,Arsenal,Leicester City,N,DM,25,0,0,0,0,2,1,29,1,0,2,0.0,0.0,0.0,2,0,19,23,82.6,2,9,1,0,0,Thomas-Partey,3,1,1,0,0,4
+Away,Arsenal,Burnley,Y,DM,79,0,0,0,0,1,0,79,2,0,1,0.1,0.1,0.0,0,0,56,67,83.6,3,43,3,0,0,Thomas-Partey,1,1,0,1,0,2
+Home,Arsenal,Tottenham,Y,DM,90,0,0,0,0,2,0,71,3,1,0,0.1,0.1,0.0,2,0,51,64,79.7,8,39,2,3,2,Thomas-Partey,2,1,1,0,0,3
+Away,Arsenal,West Ham,Y,DM,90,0,0,0,0,2,0,100,2,2,0,0.0,0.0,0.0,2,0,81,89,91.0,18,82,1,1,1,Thomas-Partey,3,3,0,1,0,6
+Home,Arsenal,Liverpool,Y,DM,90,0,0,0,0,1,0,60,3,4,0,0.0,0.0,0.0,0,0,40,50,80.0,2,32,1,2,2,Thomas-Partey,0,3,0,0,1,3
+Away,Arsenal,Sheffield Utd,Y,DM,90,0,1,0,0,1,0,77,0,0,1,0.0,0.0,0.3,1,1,61,73,83.6,4,57,1,2,2,Thomas-Partey,3,0,1,0,0,3
+Home,Arsenal,Fulham,N,DM,23,0,0,0,0,0,0,23,3,0,0,0.0,0.0,0.0,0,0,17,21,81.0,3,11,1,0,0,Thomas-Partey,1,1,0,1,0,2
+Home,Arsenal,Everton,Y,DM,90,0,0,0,0,3,0,98,2,2,3,0.1,0.1,0.1,3,0,80,90,88.9,11,46,0,0,0,Thomas-Partey,0,1,0,0,1,1
+Away,Arsenal,Newcastle Utd,N,CM,6,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,2,11,0,0,0,Thomas-Partey,2,0,1,0,0,2
+Home,Arsenal,West Brom,N,DM,15,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,14,16,87.5,0,12,0,0,0,Thomas-Partey,3,1,1,0,0,4
+Away,Arsenal,Chelsea,Y,CM,90,0,0,0,0,0,0,54,5,3,1,0.0,0.0,0.0,1,0,32,37,86.5,3,32,2,1,1,Thomas-Partey,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,DM,77,0,0,0,0,1,0,85,2,2,1,0.0,0.0,0.0,1,0,66,77,85.7,8,60,1,1,1,Thomas-Partey,3,1,1,0,0,4
+Home,Arsenal,Brighton,Y,DM,90,0,0,0,0,4,1,78,2,1,1,0.2,0.2,0.0,3,0,59,64,92.2,6,63,2,2,2,Thomas-Partey,2,0,1,0,0,2
+Home,Arsenal,Norwich City,N,DM,29,0,0,0,0,1,0,19,1,1,1,0.0,0.0,0.0,0,0,10,14,71.4,2,12,0,0,0,Thomas-Partey,1,0,1,0,0,1
+Away,Arsenal,Burnley,Y,DM,74,0,0,0,0,3,0,66,0,0,0,0.1,0.1,0.0,4,0,46,55,83.6,7,29,2,1,1,Thomas-Partey,1,0,1,0,0,1
+Home,Arsenal,Tottenham,Y,DM,90,0,0,0,0,2,1,45,3,3,1,0.0,0.0,0.0,3,0,26,28,92.9,2,26,0,1,0,Thomas-Partey,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,DM,90,0,0,0,0,3,0,55,2,2,2,0.1,0.1,0.1,2,0,33,43,76.7,3,26,1,0,0,Thomas-Partey,0,0,0,1,0,0
+Home,Arsenal,Crystal Palace,Y,DM,80,0,0,0,0,3,0,56,4,0,0,0.1,0.1,0.0,3,0,42,49,85.7,3,26,1,2,2,Thomas-Partey,2,2,0,1,0,4
+Home,Arsenal,Aston Villa,Y,DM,90,1,0,0,0,3,1,72,3,0,4,0.3,0.3,0.0,4,0,43,53,81.1,4,36,1,1,0,Thomas-Partey,3,1,1,0,0,4
+Away,Arsenal,Leicester City,Y,CM,90,0,0,0,0,1,1,53,1,0,0,0.0,0.0,0.0,1,1,38,45,84.4,3,29,0,0,0,Thomas-Partey,2,0,1,0,0,2
+Away,Arsenal,Liverpool,Y,CM,83,0,0,0,0,1,1,45,1,0,1,0.0,0.0,0.0,1,0,32,35,91.4,3,31,1,4,3,Thomas-Partey,0,4,0,0,1,4
+Home,Arsenal,Newcastle Utd,Y,CM,84,0,0,0,0,1,0,78,0,1,0,0.0,0.0,0.0,5,0,59,70,84.3,7,49,2,2,2,Thomas-Partey,2,0,1,0,0,2
+Away,Arsenal,Manchester Utd,Y,CM,90,0,0,0,0,1,0,68,0,2,0,0.1,0.1,0.0,5,1,48,60,80.0,3,38,1,3,3,Thomas-Partey,2,3,0,0,1,5
+Away,Arsenal,Everton,Y,DM,90,0,0,0,0,1,0,92,3,1,3,0.0,0.0,0.0,0,0,69,77,89.6,9,44,0,1,1,Thomas-Partey,1,2,0,0,1,3
+Home,Arsenal,Southampton,Y,CM,90,0,0,0,0,1,0,66,0,2,0,0.0,0.0,0.1,4,0,49,58,84.5,6,45,1,0,0,Thomas-Partey,3,0,1,0,0,3
+Home,Arsenal,West Ham,Y,CM,90,0,0,0,0,2,0,62,1,0,1,0.1,0.1,0.0,1,0,46,53,86.8,8,41,2,0,0,Thomas-Partey,2,0,1,0,0,2
+Away,Arsenal,Leeds United,Y,DM,90,0,0,0,0,2,2,39,2,1,0,0.1,0.1,0.0,2,0,29,32,90.6,3,32,0,1,1,Thomas-Partey,4,1,1,0,0,5
+Away,Arsenal,Norwich City,Y,DM,74,0,0,0,0,1,0,74,0,0,0,0.1,0.1,0.1,4,0,63,69,91.3,6,41,0,3,2,Thomas-Partey,5,0,1,0,0,5
+Home,Arsenal,Manchester City,Y,DM,90,0,0,0,0,0,0,41,4,1,1,0.0,0.0,0.1,2,0,24,33,72.7,8,20,3,6,5,Thomas-Partey,1,2,0,0,1,3
+Away,Arsenal,Wolves,Y,"DM,CM",90,0,0,0,0,3,0,55,2,2,1,0.1,0.1,0.0,1,0,36,44,81.8,6,30,1,1,1,Thomas-Partey,1,0,1,0,0,1
+Home,Arsenal,Brentford,Y,DM,90,0,1,0,0,5,1,67,3,0,1,0.2,0.2,0.1,5,1,51,57,89.5,4,31,1,1,1,Thomas-Partey,2,1,1,0,0,3
+Home,Arsenal,Wolves,Y,"DM,CM",90,0,0,0,0,2,0,64,1,0,1,0.1,0.1,0.3,4,0,50,56,89.3,6,43,1,4,3,Thomas-Partey,2,1,1,0,0,3
+Away,Arsenal,Watford,Y,"DM,CM",90,0,0,0,0,2,0,90,2,2,1,0.1,0.1,0.0,4,0,69,80,86.3,8,53,0,4,3,Thomas-Partey,3,2,1,0,0,5
+Home,Arsenal,Leicester City,Y,DM,90,1,0,0,0,3,1,58,4,2,2,1.0,1.0,0.0,4,1,38,46,82.6,2,22,0,0,0,Thomas-Partey,2,0,1,0,0,2
+Home,Arsenal,Liverpool,Y,DM,90,0,0,0,0,2,0,71,3,2,2,0.0,0.0,0.0,1,0,47,57,82.5,4,43,0,4,4,Thomas-Partey,0,2,0,0,1,2
+Away,Arsenal,Aston Villa,Y,"DM,CM",90,0,0,0,0,1,1,58,3,1,0,0.1,0.1,0.0,1,0,45,51,88.2,7,36,0,3,2,Thomas-Partey,1,0,1,0,0,1
+Away,Arsenal,Crystal Palace,Y,DM,74,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,39,49,79.6,5,24,2,1,1,Thomas-Partey,0,3,0,0,1,3
+Away,Arsenal,Crystal Palace,Y,CM,90,0,0,0,0,1,0,64,6,1,3,0.1,0.1,0.1,1,0,38,47,80.9,6,37,0,0,0,Thomas-Partey,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,"CM,DM",90,0,0,0,0,3,0,56,1,2,1,0.4,0.4,0.0,3,0,31,45,68.9,2,29,0,2,2,Thomas-Partey,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,"CM,DM",90,0,0,0,0,0,0,78,2,0,0,0.0,0.0,0.0,4,0,61,70,87.1,4,61,1,3,3,Thomas-Partey,3,0,1,0,0,3
+Away,Arsenal,Brentford,Y,CM,77,0,0,0,0,0,0,92,1,0,0,0.0,0.0,0.0,0,0,73,85,85.9,2,62,1,4,1,Thomas-Partey,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,CM,72,1,0,0,0,2,1,65,1,3,0,0.1,0.1,0.2,6,1,54,57,94.7,11,41,0,1,1,Thomas-Partey,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,CM,90,0,0,0,0,0,0,63,2,2,1,0.0,0.0,0.1,2,0,42,45,93.3,8,25,0,0,0,Thomas-Partey,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,"CM,DM",90,0,0,0,0,0,0,61,2,3,1,0.0,0.0,0.0,0,0,46,53,86.8,5,26,0,1,0,Thomas-Partey,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,CM,90,0,0,0,0,0,0,89,1,2,0,0.0,0.0,0.1,4,0,70,81,86.4,10,56,0,0,0,Thomas-Partey,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,CM,90,1,0,0,0,4,1,125,2,0,0,0.2,0.2,0.1,6,2,104,116,89.7,14,68,4,0,0,Thomas-Partey,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,CM,90,0,0,0,0,2,0,71,2,1,1,0.3,0.3,0.0,1,0,51,56,91.1,4,26,1,3,2,Thomas-Partey,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,CM,90,0,0,0,0,0,0,69,3,0,0,0.0,0.0,0.0,3,0,53,64,82.8,5,42,0,1,0,Thomas-Partey,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y,CM,89,0,0,0,0,1,0,102,2,1,1,0.0,0.0,0.0,2,0,78,94,83.0,14,71,2,0,0,Thomas-Partey,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,CM,73,0,0,0,0,1,0,33,2,0,0,0.2,0.2,0.1,5,0,20,27,74.1,8,18,0,0,0,Thomas-Partey,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,CM,90,0,0,0,0,2,0,105,3,1,1,0.1,0.1,0.0,5,0,78,92,84.8,5,61,1,1,0,Thomas-Partey,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,CM,90,0,0,0,0,3,0,89,4,1,2,0.1,0.1,0.0,2,1,69,78,88.5,6,59,2,0,0,Thomas-Partey,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,CM,90,0,0,0,0,1,0,71,2,2,1,0.1,0.1,0.0,1,0,42,53,79.2,8,30,1,3,3,Thomas-Partey,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,CM,58,0,0,0,0,1,1,76,3,0,0,0.0,0.0,0.0,0,0,64,70,91.4,9,54,1,2,2,Thomas-Partey,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,CM,90,0,0,0,0,1,0,99,3,1,2,0.0,0.0,0.2,7,0,79,89,88.8,14,67,2,4,4,Thomas-Partey,1,1,0,1,0,2
+Away,Arsenal,Leicester City,N,RM,7,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,3,1,1,0,Thomas-Partey,1,0,1,0,0,1
+Home,Arsenal,Everton,N,CM,45,0,0,0,0,0,0,64,2,0,0,0.0,0.0,0.2,2,0,56,60,93.3,7,45,1,0,0,Thomas-Partey,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,CM,90,1,0,0,0,1,1,101,3,0,2,0.3,0.3,0.1,3,1,76,90,84.4,18,77,3,1,1,Thomas-Partey,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,CM,90,0,0,0,0,0,0,68,2,2,2,0.0,0.0,0.0,2,0,55,59,93.2,4,50,0,4,4,Thomas-Partey,3,0,1,0,0,3
+Home,Arsenal,Crystal Palace,Y,"CM,RB",90,0,0,0,0,2,0,92,3,0,0,0.1,0.1,0.0,2,0,72,83,86.7,9,46,1,2,1,Thomas-Partey,4,1,1,0,0,5
+Home,Arsenal,Leeds United,Y,CM,59,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.0,0,0,44,46,95.7,3,43,0,0,0,Thomas-Partey,4,1,1,0,0,5
+Away,Arsenal,Liverpool,Y,CM,90,0,0,0,0,0,0,50,5,2,2,0.0,0.0,0.0,0,0,29,36,80.6,3,17,0,2,2,Thomas-Partey,2,2,0,1,0,4
+Away,Arsenal,West Ham,Y,CM,66,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,40,46,87.0,7,35,0,1,0,Thomas-Partey,2,2,0,1,0,4
+Home,Arsenal,Southampton,Y,"CM,DM",90,0,0,0,0,2,0,98,5,1,0,0.1,0.1,0.0,5,0,78,86,90.7,13,67,1,1,1,Thomas-Partey,3,3,0,1,0,6
+Away,Arsenal,Manchester City,Y,CM,90,0,0,0,0,1,0,48,2,0,3,0.1,0.1,0.0,1,0,38,40,95.0,6,29,2,2,2,Thomas-Partey,1,4,0,0,1,5
+Home,Arsenal,Chelsea,N,CM,5,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0,Thomas-Partey,3,1,1,0,0,4
+Away,Arsenal,Newcastle Utd,N,RM,11,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,1,1,Thomas-Partey,2,0,1,0,0,2
+Home,Arsenal,Brighton,N,CM,31,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.2,3,0,18,21,85.7,1,15,0,0,0,Thomas-Partey,0,3,0,0,1,3
+Away,Arsenal,Nott'ham Forest,Y,RB,90,0,0,0,0,0,0,130,1,2,0,0.0,0.0,0.0,0,0,111,123,90.2,17,92,5,3,3,Thomas-Partey,0,1,0,0,1,1
+Home,Arsenal,Wolves,Y,RB,90,0,0,0,0,0,0,67,2,0,2,0.0,0.0,0.0,1,1,55,59,93.2,8,44,4,2,2,Thomas-Partey,5,0,1,0,0,5
+Venue,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,Succ,Player,TeamGoals,OpponentGoals,Win,Draw,Loss,TotalGoals
+Away,Arsenal,Crystal Palace,Y,CB,90,0,0,0,0,0,0,59,1,0,2,0.0,0.0,0.0,1,0,45,48,93.8,2,40,0,1,1,William-Saliba,2,0,1,0,0,2
+Home,Arsenal,Leicester City,Y,CB,90,0,0,0,0,0,0,59,0,2,0,0.0,0.0,0.0,1,0,46,53,86.8,1,31,1,0,0,William-Saliba,4,2,1,0,0,6
+Away,Arsenal,Bournemouth,Y,CB,90,1,0,0,0,1,1,81,2,2,0,0.1,0.1,0.0,0,0,73,73,100.0,1,68,0,0,0,William-Saliba,3,0,1,0,0,3
+Home,Arsenal,Fulham,Y,CB,90,0,1,0,0,0,0,102,1,0,0,0.0,0.0,0.7,1,1,92,98,93.9,6,73,0,0,0,William-Saliba,2,1,1,0,0,3
+Home,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,0,0,72,1,0,1,0.0,0.0,0.1,1,0,55,62,88.7,2,47,0,0,0,William-Saliba,2,1,1,0,0,3
+Away,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,1,0,66,2,0,0,0.1,0.1,0.0,0,0,57,58,98.3,4,38,0,1,0,William-Saliba,1,3,0,0,1,4
+Away,Arsenal,Brentford,Y,CB,90,1,0,0,0,1,1,71,3,0,0,0.2,0.2,0.0,0,0,57,64,89.1,2,49,0,2,2,William-Saliba,3,0,1,0,0,3
+Home,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,76,3,0,0,0.0,0.0,0.0,1,0,67,70,95.7,7,52,0,1,1,William-Saliba,3,1,1,0,0,4
+Home,Arsenal,Liverpool,Y,CB,90,0,0,0,0,0,0,57,2,2,0,0.0,0.0,0.0,0,0,42,50,84.0,2,33,0,0,0,William-Saliba,3,2,1,0,0,5
+Away,Arsenal,Leeds United,Y,CB,90,0,0,0,0,0,0,97,2,0,1,0.0,0.0,0.0,0,0,82,89,92.1,4,67,0,0,0,William-Saliba,1,0,1,0,0,1
+Away,Arsenal,Southampton,Y,CB,90,0,0,0,0,0,0,75,1,0,1,0.0,0.0,0.0,1,0,65,69,94.2,4,52,2,0,0,William-Saliba,1,1,0,1,0,2
+Home,Arsenal,Nott'ham Forest,Y,CB,75,0,0,0,0,0,0,65,2,1,0,0.0,0.0,0.0,1,0,55,59,93.2,4,36,0,0,0,William-Saliba,5,0,1,0,0,5
+Away,Arsenal,Chelsea,Y,CB,90,0,0,0,0,0,0,67,2,2,1,0.0,0.0,0.0,1,0,49,59,83.1,5,40,1,0,0,William-Saliba,1,0,1,0,0,1
+Away,Arsenal,Wolves,Y,CB,90,0,0,0,0,0,0,91,0,0,1,0.0,0.0,0.0,0,0,81,88,92.0,4,80,0,0,0,William-Saliba,2,0,1,0,0,2
+Home,Arsenal,West Ham,Y,CB,90,0,0,0,0,1,1,106,1,1,0,0.4,0.4,0.0,0,0,93,97,95.9,3,73,0,2,1,William-Saliba,3,1,1,0,0,4
+Away,Arsenal,Brighton,Y,CB,90,0,0,0,0,1,0,40,2,1,1,0.1,0.1,0.0,0,0,19,24,79.2,0,18,0,1,1,William-Saliba,4,2,1,0,0,6
+Home,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,65,0,0,1,0.0,0.0,0.0,0,0,53,59,89.8,3,38,0,0,0,William-Saliba,0,0,0,1,0,0
+Away,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,0,0,30,33,90.9,2,24,0,0,0,William-Saliba,2,0,1,0,0,2
+Home,Arsenal,Manchester Utd,Y,CB,90,0,0,0,0,0,0,71,0,3,0,0.0,0.0,0.0,1,0,58,67,86.6,5,32,0,0,0,William-Saliba,3,2,1,0,0,5
+Away,Arsenal,Everton,Y,CB,90,0,0,0,0,0,0,85,1,0,2,0.0,0.0,0.0,1,0,69,76,90.8,1,41,1,0,0,William-Saliba,0,1,0,0,1,1
+Home,Arsenal,Brentford,Y,CB,90,0,0,0,0,0,0,63,0,2,0,0.0,0.0,0.0,0,0,47,52,90.4,5,29,1,1,0,William-Saliba,1,1,0,1,0,2
+Home,Arsenal,Manchester City,Y,CB,90,0,0,0,0,0,0,89,1,1,0,0.0,0.0,0.0,0,0,75,83,90.4,5,59,2,0,0,William-Saliba,1,3,0,0,1,4
+Away,Arsenal,Aston Villa,Y,CB,90,0,0,0,0,0,0,81,2,0,0,0.0,0.0,0.0,0,0,70,75,93.3,3,49,0,0,0,William-Saliba,4,2,1,0,0,6
+Away,Arsenal,Leicester City,Y,CB,90,0,0,0,0,0,0,86,0,0,0,0.0,0.0,0.0,0,0,69,86,80.2,2,50,0,0,0,William-Saliba,1,0,1,0,0,1
+Home,Arsenal,Everton,Y,CB,90,0,0,0,0,0,0,110,0,0,0,0.0,0.0,0.0,1,0,98,108,90.7,4,72,0,0,0,William-Saliba,4,0,1,0,0,4
+Home,Arsenal,Bournemouth,Y,CB,90,0,0,0,0,0,0,96,1,0,0,0.0,0.0,0.3,1,0,87,94,92.6,16,69,4,1,1,William-Saliba,3,2,1,0,0,5
+Away,Arsenal,Fulham,Y,CB,90,0,0,0,0,1,0,87,4,1,2,0.0,0.0,0.0,2,1,64,71,90.1,2,63,1,1,1,William-Saliba,3,0,1,0,0,3
+
